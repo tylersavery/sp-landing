@@ -13,7 +13,7 @@ const AboutSection = () => {
         <section className={styles.section}>
             <div className={styles.corner}></div>
             <div className="container">
-                <h2 className={styles.heading}>{t("it's not about your selfie")},<br />{t("it's about your story.")}</h2>
+                <h2 className={styles.heading}>{t("it's not about your selfie")},<br />{t("it's about your story")}.</h2>
             </div>
             <div className="py-4" />
 
