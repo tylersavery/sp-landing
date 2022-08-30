@@ -23,8 +23,8 @@ const TopSection = () => {
                 </div>
             </div>
         </div>
+        <div className={styles.preview}></div>
         <div className="container">
-            <div className={styles.preview}></div>
 
             <div className={styles.mobileLogo}>
                 <div>
