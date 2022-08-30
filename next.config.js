@@ -18,7 +18,5 @@ module.exports = withPlugins([
   [optimizedImages, {
     /* config for next-optimized-images */
   }],
-
   // your other plugins here
-
 ]);
