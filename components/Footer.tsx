@@ -26,6 +26,8 @@ const Footer = () => {
                         <li><Link href="#"><a className={styles.link}>{t('FAQ')}</a></Link></li>
                         <li><Link href="#"><a className={styles.link}>{t('Support')}</a></Link></li>
                         <li><Link href="#"><a className={styles.link}>{t('Contact')}</a></Link></li>
+                        <li className="phone-only"><Link href="#"><a className={styles.link}>{t('Help')}</a></Link></li>
+                        <li className="phone-only"><Link href="#"><a className={styles.link}>{t('Use web version')}</a></Link></li>
                     </ul>
                     <ul className={styles.linksColumn}>
                         <li><Link href="#"><a className={styles.link}>{t('Terms & Conditions')}</a></Link></li>
