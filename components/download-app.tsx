@@ -9,14 +9,14 @@ export const DownloadApp = (props: Props) => {
 
     return <div className={`d-flex ${props.leftAligned ? '' : 'justify-content-center'}`}>
         <div className="me-2">
-            <Link href="#">
+            <a href="https://apps.apple.com/app/storyplace/id1289523039" target="_blank" rel="noopener noreferrer">
                 <Image src="/images/ios.png" width={202} height={60} alt="Download on iOS App Store" />
-            </Link>
+            </a>
         </div>
         <div>
-            <Link href="#">
+            <a href="https://play.google.com/store/apps/details?id=com.storyplace" target="_blank" rel="noopener noreferrer">
                 <Image src="/images/android.png" width={202} height={60} alt="Download on Google Play" />
-            </Link>
+            </a>
         </div>
     </div>
 }

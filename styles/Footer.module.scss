@@ -81,6 +81,11 @@
     font-size: 12px;
     text-decoration: none;
     font-weight: 600;
+
+    &:hover {
+        color: #fff;
+        text-decoration: underline;
+    }
 }
 
 .socials {
