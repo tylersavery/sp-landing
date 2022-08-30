@@ -1,0 +1,20 @@
+@import "./colors.module";
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 365px;
+}
+.title {
+    font-size: 25px;
+    color: $color-purple-dark;
+    font-weight: 600;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 25px;
+    color: $color-purple-dark;
+    text-align: center;
+
+}

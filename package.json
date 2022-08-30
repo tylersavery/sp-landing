@@ -1,0 +1,30 @@
+{
+  "name": "sp-landing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "embla-carousel-autoplay": "^7.0.1",
+    "embla-carousel-react": "^7.0.1",
+    "next": "12.2.5",
+    "next-translate": "^1.5.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-youtube": "^9.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.13",
+    "@types/react": "18.0.17",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.2.5",
+    "sass": "^1.54.5",
+    "typescript": "4.8.2"
+  }
+}

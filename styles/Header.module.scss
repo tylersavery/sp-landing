@@ -1,0 +1,60 @@
+@import "./colors.module";
+@import "./mixins.module";
+
+
+.header {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    transition: background-color .4s;
+
+    @include phone {
+        display: none;
+    }
+
+    &__opaque {
+        background-color: #6833cb;
+        // background-image: url(/images/top-bg.jpg);
+        // background-size: cover;
+    }
+}
+
+.link {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+        color: #fff;
+    }
+
+    &__small {
+        font-size: 12px;
+    }
+
+    &__light {
+        font-weight: normal;
+    }
+}
+
+.button {
+    background-color: $color-pink;
+    height: 54px;
+    border-radius: 27px;
+    padding-left: 32px;
+    padding-right: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color .3s;
+
+    &:hover {
+        background-color: darken($color: $color-pink, $amount: 7);
+        a {
+            text-decoration: none;
+        }
+    }
+}

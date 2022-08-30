@@ -1,0 +1,16 @@
+@import "./mixins.module.scss";
+.container {
+    position: relative;
+
+}
+
+.player{
+    width: 708px;
+    height: 377px;
+    position: relative;
+
+    @include phone {
+        width: 340px;
+        height: 200px;
+    }
+}

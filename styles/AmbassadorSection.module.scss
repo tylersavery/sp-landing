@@ -1,0 +1,102 @@
+@import './colors.module';
+@import './mixins.module';
+
+
+.section {
+    background-color: $color-teal;
+    position: relative;
+    color: #fff;
+    background-image: url(/images/ambassador-bg.jpg);
+    background-size: cover;
+
+}
+
+.map {
+    position: absolute;
+    top: 32px;
+    right: 32px;
+    width: 781px;
+    height: 342px;
+    background-image: url(/images/map.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    @include phone {
+        display: none;
+    }
+}
+
+.photo {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 700px;
+    height: 496px;
+    background-image: url(/images/ambassador-photo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+
+    @include phone {
+        display: none;
+    }
+}
+
+.logoContainer {
+    opacity: 0.7;
+    margin-top: 32px;
+    @include phone {
+        display: none;
+    }
+}
+
+.heading {
+    margin-top: 64px;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 1.1;
+
+    @include phone {
+        margin-top: 32px;
+    }
+    
+}
+
+.subheading {
+    margin-top: 16px;
+    font-size: 25px;
+    font-weight: normal;
+    @include phone {
+        font-size: 20px;
+    }
+}
+
+.list {
+    list-style-image: url(/images/bullet.png);
+    margin-top: 32px;
+    li {
+        font-size: 25px;
+        @include phone {
+            font-size: 18px;
+        }
+    }
+}
+
+.emailBody {
+    max-width: 550px;
+    font-size: 25px;
+    line-height: 1.2;
+    @include phone {
+        font-size: 18px;
+    }
+}
+
+.emailLink {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    &:hover {
+        text-decoration: underline;
+        color: #fff;
+    }
+}

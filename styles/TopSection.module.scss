@@ -1,0 +1,143 @@
+@import "./mixins.module";
+
+.section {
+    position: relative;
+    color: #fff;
+    background-image: url(/images/top-bg.jpg);
+    background-size: cover;
+    background-position: 0 0;
+    min-height: 400px;
+    padding-top: 150px;
+
+    @include phone {
+      padding-top: 12px;
+      background-image: url(/images/top-bg-mobile.jpg);
+      background-position: 50% top;
+    }
+  }
+
+
+  .mobileLogo {
+    display: none;
+    
+    @include phone {
+      display: flex;
+
+      justify-content: center;
+      > div {
+        max-width: 300px;
+        width: 100%;
+      }
+
+
+      // display: block;
+    }
+  }
+  .topPhoto {
+    position: absolute;
+    top: 0;
+    right: 0;
+    max-width: 765px;
+    max-height: 814px;
+    background-position: 100% 100%;
+    width: 100%;
+    height: 100%;
+    background-image: url(/images/top-photo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    @include phone {
+      display: none;
+    }
+  }
+
+  .preview {
+    position: absolute;
+    top: 0;
+    right: 0;
+    max-width: 853px;
+    max-height: 591px;
+    width: 100%;
+    height: 100%;
+    background-image: url(/images/preview.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    transform: translateY(-50%);
+    top: 50%;
+    margin-top: 60px;
+    @include phone {
+      display: none;
+    }
+  }
+
+  .previewMobile {
+    display:none;
+
+    @include phone {
+      display: block;
+      width: 100%;
+      margin-top: 52px;
+      text-align: center;
+    }
+  }
+
+  .heading {
+    position: relative;
+    font-weight: bold;
+    font-size: 65px;
+    line-height: 1.15;
+    @include phone {
+      text-align: center;
+      font-size: 32px;
+      margin-top: 8px;
+    }
+  }
+
+  .p {
+    font-size: 21px;
+    line-height: 1.2;
+    @include phone {
+      text-align: center;
+      line-height: 1.3;
+    }
+  }
+
+  .downloadAppContainer {
+
+    @include phone {
+      display: flex;
+      justify-content: center;
+      
+     > div {
+        max-width: 300px;
+      }
+    }
+  }
+
+  .asSeenInHeading {
+    font-size: 21px;
+    font-weight: normal;
+    @include phone {
+      text-align: center;
+    }
+  }
+
+  .asSeenIn {
+    max-width: 959px;
+    width: 100%;
+
+    @include phone{
+      display: none;
+    }
+  }
+
+  .asSeenInMobile {
+    max-width: 959px;
+    width: 100%;
+    display: none; 
+
+    @include phone {
+      display: block;
+      padding-bottom: 8px;
+    }
+  }
+

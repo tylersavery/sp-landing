@@ -1,0 +1,34 @@
+@import "./mixins.module";
+@import "./colors.module";
+
+.section {
+    background-color: #fff;
+    position: relative;
+    padding-top: 60px;
+}
+
+.corner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 610px;
+    height: 193px;
+    background-image: url(/images/corner-tr.png);
+    background-size: contain;
+    background-position: right top;
+    background-repeat: no-repeat;
+
+}
+
+.heading {
+    text-align: center;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 1.22;
+    color: $color-purple;
+
+    @include phone {
+        padding-top: 128px;
+        font-size: 28px;
+    }
+}
