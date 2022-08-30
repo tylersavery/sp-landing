@@ -15,22 +15,14 @@ const MobileCarousel = () => {
             <div className="embla__container">
                 <div className="embla__slide">
                     <div className="d-flex justify-content-center">
-                        <CarouselItem image="/images/slide-1.png" title={t("Express yourself")} subtitle={t("in a safe space.")} />
+                        <CarouselItem image="/images/slide-1.png" title={t("Express yourself")} subtitle={t("in a safe space")} />
 
                     </div>
                 </div>
 
                 <div className="embla__slide">
                     <div className="d-flex justify-content-center">
-                        <CarouselItem image="/images/slide-2.png" title={t("Share anonymously")} subtitle={t("using a Penname.")} />
-
-
-                    </div>
-                </div>
-
-                <div className="embla__slide">
-                    <div className="d-flex justify-content-center">
-                        <CarouselItem image="/images/slide-3.png" title={t("Connect with people")} subtitle={t("from around the world.")} />
+                        <CarouselItem image="/images/slide-2.png" title={t("Share anonymously")} subtitle={t("using a Penname")} />
 
 
                     </div>
@@ -38,7 +30,7 @@ const MobileCarousel = () => {
 
                 <div className="embla__slide">
                     <div className="d-flex justify-content-center">
-                        <CarouselItem image="/images/slide-4.png" title={t("Browse stories")} subtitle={t("based on your interests.")} />
+                        <CarouselItem image="/images/slide-3.png" title={t("Connect with people")} subtitle={t("from around the world")} />
 
 
                     </div>
@@ -46,7 +38,7 @@ const MobileCarousel = () => {
 
                 <div className="embla__slide">
                     <div className="d-flex justify-content-center">
-                        <CarouselItem image="/images/slide-5.png" title={t("Engage with a community")} subtitle={t("that celebrates vulnerability and authenticity.")} />
+                        <CarouselItem image="/images/slide-4.png" title={t("Browse stories")} subtitle={t("based on your interests")} />
 
 
                     </div>
@@ -54,7 +46,15 @@ const MobileCarousel = () => {
 
                 <div className="embla__slide">
                     <div className="d-flex justify-content-center">
-                        <CarouselItem image="/images/slide-6.png" title={t("Participate in story")} subtitle={t("competitions and challenges.")} />
+                        <CarouselItem image="/images/slide-5.png" title={t("Engage with a community")} subtitle={t("that celebrates vulnerability and authenticity")} />
+
+
+                    </div>
+                </div>
+
+                <div className="embla__slide">
+                    <div className="d-flex justify-content-center">
+                        <CarouselItem image="/images/slide-6.png" title={t("Participate in story")} subtitle={t("competitions and challenges")} />
 
 
                     </div>

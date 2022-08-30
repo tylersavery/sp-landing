@@ -31,13 +31,19 @@ const TopSection = () => {
                     <Image src="/images/logo.svg" width={366} height={100} alt="Storyplace"></Image>
                 </div>
             </div>
-            <h1 className={styles.heading}>{t('share your stories')},<br />{t('find your community.')}</h1>
+            <h1 className={styles.heading}>{t('share your stories')},<br />{t('find your community')}</h1>
             <div className="py-2 py-md-4">
-                <p className={styles.p}>{t('An empathy-driven app where people')}<br className="non-phone-only" />{t('around the world share stories.')}</p>
+                <p className={styles.p}>{t('An empathy-driven app where people')}<br className="non-phone-only" />{t('around the world share stories')}</p>
             </div>
 
             <div className={styles.downloadAppContainer}>
-                <DownloadApp />
+                <div className="non-phone-only">
+                    <DownloadApp leftAligned />
+                </div>
+
+                <div className="phone-only">
+                    <DownloadApp />
+                </div>
             </div>
             <div className={styles.previewMobile}>
                 <Image src="/images/preview.png" width={558} height={516} alt="Preview" />

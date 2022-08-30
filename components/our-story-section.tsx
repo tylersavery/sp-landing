@@ -1,10 +1,7 @@
 import styles from '../styles/OurStorySection.module.scss';
 import DownloadApp from './download-app';
 import YoutubeVideo from './youtube-video';
-
-
 import useTranslation from 'next-translate/useTranslation'
-
 
 const OurStorySection = () => {
     const { t } = useTranslation('common')
@@ -22,7 +19,7 @@ const OurStorySection = () => {
                     </div>
                     <div className="ps-3 pt-5">
                         <div className="non-phone-only py-5"></div>
-                        <h3 className={styles.heading}>our story.</h3>
+                        <h3 className={styles.heading}>{t('our story')}.</h3>
                         <div className={styles.quote}>
                             “{t('quote')}”
                         </div>
