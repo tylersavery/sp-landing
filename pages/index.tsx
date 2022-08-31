@@ -2,6 +2,7 @@ import type { NextPage } from 'next'
 import { NextSeo } from 'next-seo'
 import Head from 'next/head'
 import Image from 'next/image'
+import Script from 'next/script'
 import AboutSection from '../components/about-section'
 import AmbassadorSection from '../components/ambassador-section'
 import Footer from '../components/Footer'
@@ -46,6 +47,19 @@ const Home: NextPage = () => {
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4E1CA9" />
         <meta name="theme-color" content="#441dac" />
       </Head>
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-9WC0BDHRBK"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-9WC0BDHRBK');
+        `}
+      </Script>
       <main>
 
         <Header />
