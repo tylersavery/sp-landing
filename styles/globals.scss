@@ -30,7 +30,7 @@ body {
   display: flex;
   padding-bottom: 64px;
   @include phone {
-    padding-bottom: 0;
+    padding-bottom: 16px;
   }
 }
 .embla__slide {
