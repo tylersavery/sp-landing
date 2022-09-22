@@ -16,9 +16,9 @@ const TopSection = () => {
                 <div className="d-flex justify-content-between">
                     <div></div>
                     <div>
-                        <Link href="/" locale="en"><a className={`${headerStyles.link} ${headerStyles.link__small}`}>English</a></Link>
+                        <Link href="/" locale="english"><a className={`${headerStyles.link} ${headerStyles.link__small}`}>English</a></Link>
                         <span className={`${headerStyles.link} ${headerStyles.link__small} ${headerStyles.link__light}`}> | </span>
-                        <Link href="/" locale="es"><a className={`${headerStyles.link} ${headerStyles.link__small}`}>Español</a></Link>
+                        <Link href="/" locale="espanol"><a className={`${headerStyles.link} ${headerStyles.link__small}`}>Español</a></Link>
                     </div>
                 </div>
             </div>

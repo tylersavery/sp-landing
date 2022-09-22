@@ -44,9 +44,9 @@ const Header = () => {
                         <Link href="https://app.storyplace.com/" target={"_blank"}><a className={`${styles.link} ${styles.link__small}`}>{t('Use web version')}</a></Link>
                     </div>
                     <div className="mx-4">
-                        <Link href="/" locale="en"><a className={`${styles.link} ${styles.link__small}`}>English</a></Link>
+                        <Link href="/" locale="english"><a className={`${styles.link} ${styles.link__small}`}>English</a></Link>
                         <span className={`${styles.link} ${styles.link__small} ${styles.link__light}`}> | </span>
-                        <Link href="/" locale="es"><a className={`${styles.link} ${styles.link__small}`}>Español</a></Link>
+                        <Link href="/" locale="espanol"><a className={`${styles.link} ${styles.link__small}`}>Español</a></Link>
                     </div>
                 </div>
             </div>
