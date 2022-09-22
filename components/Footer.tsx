@@ -23,16 +23,16 @@ const Footer = () => {
                 <div className={styles.right}>
                     <ul className={styles.linksColumn}>
                         <li><Link href="/"><a className={styles.link}>{t('About')}</a></Link></li>
-                        <li><a className={styles.link} href="https://storyplace.com/en/faq">{t('FAQ')}</a></li>
+                        <li><a className={styles.link} href="https://old.storyplace.com/en/faq">{t('FAQ')}</a></li>
                         <li><Link href="#"><a className={styles.link}>{t('Support')}</a></Link></li>
-                        <li><a href="https://storyplace.com/en/contact" className={styles.link}>{t('Contact')}</a></li>
-                        <li className="phone-only"><a className={styles.link} href="https://storyplace.com/home" target="_blank" rel="noopener noreferrer">{t('Use web version')}</a></li>
+                        <li><a href="https://old.storyplace.com/en/contact" className={styles.link}>{t('Contact')}</a></li>
+                        <li className="phone-only"><a className={styles.link} href="https://old.storyplace.com/home" target="_blank" rel="noopener noreferrer">{t('Use web version')}</a></li>
                     </ul>
                     <ul className={styles.linksColumn}>
-                        <li><a className={styles.link} href="https://storyplace.com/terms" target="_blank" rel="noopener noreferrer">{t('Terms & Conditions')}</a></li>
-                        <li><a className={styles.link} href="https://storyplace.com/privacy" target="_blank" rel="noopener noreferrer">{t('Privacy')}</a></li>
-                        <li><a className={styles.link} href="https://storyplace.com/en/content-guidelines" target="_blank" rel="noopener noreferrer">{t('Content Guidelines')}</a></li>
-                        <li><a className={styles.link} href="https://storyplace.com/en/copyright-claim" target="_blank" rel="noopener noreferrer">{t('Copyright Claim')}</a></li>
+                        <li><a className={styles.link} href="https://old.storyplace.com/terms" target="_blank" rel="noopener noreferrer">{t('Terms & Conditions')}</a></li>
+                        <li><a className={styles.link} href="https://old.storyplace.com/privacy" target="_blank" rel="noopener noreferrer">{t('Privacy')}</a></li>
+                        <li><a className={styles.link} href="https://old.storyplace.com/en/content-guidelines" target="_blank" rel="noopener noreferrer">{t('Content Guidelines')}</a></li>
+                        <li><a className={styles.link} href="https://old.storyplace.com/en/copyright-claim" target="_blank" rel="noopener noreferrer">{t('Copyright Claim')}</a></li>
                     </ul>
 
                     <ul className={styles.socials}>
