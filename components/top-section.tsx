@@ -38,7 +38,7 @@ const TopSection = () => {
 
             <div className={styles.downloadAppContainer}>
                 <div className="non-phone-only">
-                    <DownloadApp leftAligned />
+                    <DownloadApp leftAligned withWeb />
                 </div>
 
                 <div className="phone-only">
