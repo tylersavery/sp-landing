@@ -7,6 +7,18 @@ const nextConfig =  {
   i18n: {
     locales: ['en', 'es'],
     defaultLocale: 'en',
+  },
+  async redirects() {
+    return [
+      {
+        source: '/test123',
+        destination: "/",
+      },
+      {
+        source: '/test456',
+        destination: "https://google.com/",
+      }
+    ];
   }
 }
 
