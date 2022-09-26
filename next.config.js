@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextTranslate = require('next-translate')
 
+
+
 const nextConfig =  {
   reactStrictMode: true,
   swcMinify: true,
@@ -9,6 +11,9 @@ const nextConfig =  {
     defaultLocale: 'english',
   },
   async redirects() {
+
+ 
+
     return [
       {
         source: '/en/story/:uuid',
@@ -28,6 +33,37 @@ const nextConfig =  {
       {
         source: '/es/profile/:username',
         destination: "https://app.storyplace.com/profile/:username",
+        permanent: true,
+      },
+
+      {
+        source: '/en/terms',
+        destination: "https://old.storyplace.com/en/terms",
+        permanent: true,
+      },
+      {
+        source: '/es/terms',
+        destination: "https://old.storyplace.com/es/terms",
+        permanent: true,
+      },
+      {
+        source: '/en/privacy',
+        destination: "https://old.storyplace.com/en/privacy",
+        permanent: true,
+      },
+      {
+        source: '/es/privacy',
+        destination: "https://old.storyplace.com/es/privacy",
+        permanent: true,
+      },
+      {
+        source: '/en/contact',
+        destination: "https://old.storyplace.com/en/contact",
+        permanent: true,
+      },
+      {
+        source: '/es/contact',
+        destination: "https://old.storyplace.com/es/contact",
         permanent: true,
       },
   
