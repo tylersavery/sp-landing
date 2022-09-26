@@ -16,6 +16,11 @@ const nextConfig =  {
 
     return [
       {
+        source: '/es',
+        destination: "/espanol",
+        permanent: true,
+      },
+      {
         source: '/en/story/:uuid',
         destination: "https://app.storyplace.com/story/:uuid",
         permanent: true,
@@ -35,7 +40,6 @@ const nextConfig =  {
         destination: "https://app.storyplace.com/profile/:username",
         permanent: true,
       },
-
       {
         source: '/en/terms',
         destination: "https://old.storyplace.com/en/terms",

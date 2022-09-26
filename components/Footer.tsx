@@ -26,7 +26,7 @@ const Footer = () => {
                         <li><a className={styles.link} href="https://old.storyplace.com/en/faq">{t('FAQ')}</a></li>
                         <li><Link href="#"><a className={styles.link}>{t('Support')}</a></Link></li>
                         <li><a href="https://old.storyplace.com/en/contact" className={styles.link}>{t('Contact')}</a></li>
-                        <li className="phone-only"><a className={styles.link} href="https://old.storyplace.com/home" target="_blank" rel="noopener noreferrer">{t('Use web version')}</a></li>
+                        <li className="phone-only"><a className={styles.link} href="https://app.storyplace.com/" target="_blank" rel="noopener noreferrer">{t('Use web version')}</a></li>
                     </ul>
                     <ul className={styles.linksColumn}>
                         <li><a className={styles.link} href="https://old.storyplace.com/terms" target="_blank" rel="noopener noreferrer">{t('Terms & Conditions')}</a></li>
