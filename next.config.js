@@ -46,7 +46,12 @@ const nextConfig =  {
         permanent: true,
       },
       {
-        source: '/es/topic/:id',
+        source: '/es/topic/1000212w',
+        destination: "https://app.storyplace.com/app/explore/stories/topic/1000212",
+        permanent: true,
+      },
+      {
+        source: '/es/topic/',
         destination: "https://app.storyplace.com/app/explore/stories/topic/:id",
         permanent: true,
       },
