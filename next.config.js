@@ -42,12 +42,22 @@ const nextConfig =  {
       },
       {
         source: '/en/topic/:id',
-        destination: "https://app.storyplace.com/topic/:id",
+        destination: "https://app.storyplace.com/app/explore/stories/topic/:id",
         permanent: true,
       },
       {
         source: '/es/topic/:id',
-        destination: "https://app.storyplace.com/topic/:id",
+        destination: "https://app.storyplace.com/app/explore/stories/topic/:id",
+        permanent: true,
+      },
+      {
+        source: '/en/explore',
+        destination: "https://app.storyplace.com/app/explore",
+        permanent: true,
+      },
+      {
+        source: '/es/explore',
+        destination: "https://app.storyplace.com/app/explore",
         permanent: true,
       },
       {
