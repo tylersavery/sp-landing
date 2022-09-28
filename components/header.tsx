@@ -36,7 +36,7 @@ const Header = () => {
 
                     <div className="mx-4">
                         <div className={styles.button}>
-                            <a href="https://storyplace.app.link/get-app" target={"_blank"} className={styles.link} rel="noreferrer">{t('Download App')}</a>
+                            <a href="https://old.storyplace.com/get-app" target={"_blank"} className={styles.link} rel="noreferrer">{t('Download App')}</a>
                         </div>
                     </div>
 
