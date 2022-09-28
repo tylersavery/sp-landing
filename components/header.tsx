@@ -16,6 +16,10 @@ const Header = () => {
         return () => window.removeEventListener('scroll', onScroll);
     }, []);
 
+    const handleHelp = () => {
+        window.Intercom('show');
+    }
+
     return <header className={`${styles.header} ${offset > 100 ? styles.header__opaque : ''}`}>
 
 
@@ -27,11 +31,11 @@ const Header = () => {
                 </Link>
 
                 <div className="d-flex align-items-center">
-                    <div className="mx-4">
+                    {/* <div className="mx-4">
                         <Link href="/"><a className={styles.link}>{t('About')}</a></Link>
-                    </div>
+                    </div> */}
                     <div className="mx-4">
-                        <Link href="/"><a className={styles.link}>{t('Help')}</a></Link>
+                        <Link href="/"><a className={styles.link} onClick={() => handleHelp()}>{t('Help')}</a></Link>
                     </div>
 
                     <div className="mx-4">
