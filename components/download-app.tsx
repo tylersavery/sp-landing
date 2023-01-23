@@ -21,7 +21,7 @@ export const DownloadApp = (props: Props) => {
         </div>
         {props.withWeb ?
             <div className="ms-3">
-                <a href="https://app.storyplace.com/" className="text-white" style={{ fontWeight: 600, textDecoration: 'none' }}>Use Web Version</a>
+                <a href="https://app.storyplace.com/app/home" className="text-white" style={{ fontWeight: 600, textDecoration: 'none' }}>Use Web Version</a>
             </div> : null}
     </div>
 }
