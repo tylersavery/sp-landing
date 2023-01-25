@@ -45,6 +45,8 @@ const Home: NextPage = () => {
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4E1CA9" />
+        <meta name="facebook-domain-verification" content="vtbfkl4mfgpe37j06m76t92zooob90" />
+
         <meta name="theme-color" content="#441dac" />
       </Head>
       <Script
