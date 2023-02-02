@@ -52,6 +52,7 @@
 
   .preview {
     position: absolute;
+    pointer-events: none;
     top: 0;
     right: 16px;
     max-width: 853px;
