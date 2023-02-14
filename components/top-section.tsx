@@ -4,6 +4,7 @@ import headerStyles from '../styles/Header.module.scss';
 import DownloadApp from './download-app';
 import useTranslation from 'next-translate/useTranslation'
 import Link from 'next/link';
+import HamburgerMenu from './hamburguer';
 
 const TopSection = () => {
     const { t } = useTranslation('common')
@@ -12,15 +13,15 @@ const TopSection = () => {
         <div className={styles.topPhoto}></div>
         <div className="phone-only">
             <div className="container">
-
                 <div className="d-flex justify-content-between">
-                    <div></div>
+                    <HamburgerMenu />
                     <div>
                         <Link href="/" locale="english"><a className={`${headerStyles.link} ${headerStyles.link__small}`}>English</a></Link>
                         <span className={`${headerStyles.link} ${headerStyles.link__small} ${headerStyles.link__light}`}> | </span>
                         <Link href="/" locale="espanol"><a className={`${headerStyles.link} ${headerStyles.link__small}`}>Español</a></Link>
                     </div>
                 </div>
+
             </div>
         </div>
         <div className={styles.preview}></div>

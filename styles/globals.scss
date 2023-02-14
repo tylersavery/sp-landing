@@ -49,3 +49,24 @@ body {
     display: none;
   }
 }
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 36px;
+  left: 12px;
+  top: 12px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #ffffff;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #581ecd;
+  padding: 50px 10px;
+  border-radius: 20px;
+}
