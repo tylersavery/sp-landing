@@ -17,12 +17,14 @@
     "next-seo": "^5.5.0",
     "next-translate": "^1.5.0",
     "react": "18.2.0",
+    "react-burger-menu": "^3.0.9",
     "react-dom": "18.2.0",
     "react-youtube": "^9.0.3"
   },
   "devDependencies": {
     "@types/node": "18.7.13",
     "@types/react": "18.0.17",
+    "@types/react-burger-menu": "^2.8.3",
     "@types/react-dom": "18.0.6",
     "eslint": "8.23.0",
     "eslint-config-next": "12.2.5",
