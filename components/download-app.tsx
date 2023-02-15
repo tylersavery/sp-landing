@@ -29,7 +29,7 @@ export const DownloadApp = (props: Props) => {
                     </div> : null}
             </div>
         {props.withWeb ?
-                null : <div className="d-flex p-3 justify-content-center">
+                null : <div className="d-flex p-3 b-use-web justify-content-center">
                     <a href="https://app.storyplace.com/app/home" className="text-white" style={{ fontWeight: 600, textDecoration: 'none' }}>{t('Use web version')}</a>
                 </div>}
     </div>
