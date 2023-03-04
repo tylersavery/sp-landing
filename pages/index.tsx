@@ -17,21 +17,21 @@ const Home: NextPage = () => {
   const description = "Storyplace is the world's best social journaling app that connects your digital journal to people around the world. Storyplace is designed to help enhance your emotional wellbeing by sharing and reading other people's stories. We offer tools to get you inspired with writing prompts, topics and challenges that will help you maintain a healthy journaling habit.";
 
   const keywords = ['storyplace', 'journaling', 'social media', 'social journaling', 'storytelling', 'diary', 'journal entry', 'blog', 'blogging', 'blogger', 'wattpad', 'medium', 'writing', 'writer', 'writing tips', 'journaling tips', 'journaling prompts', 'community', 'best app for journaling']
-
+  const image = "https://storyplace-cdn.s3.amazonaws.com/asset/image/4adca168-211c-43bd-ad55-890de96452f1/og.jpg";
   return (
     <>
       <NextSeo
         title={title}
         description={description}
         canonical="https://new.storyplace.com"
-        additionalMetaTags={[{ property: "keywords", content: keywords.join(',') }]}
+        additionalMetaTags={[{ property: "keywords", content: keywords.join(',') }, { property: "twitter:title", content: title, }, { property: "twitter:description", content: description }, { property: "twitter:image", content: image }]}
 
         openGraph={{
           url: "https://new.storyplace.com",
           title: title,
           description: description,
           images: [{
-            url: "https://storyplace-cdn.s3.amazonaws.com/asset/image/4adca168-211c-43bd-ad55-890de96452f1/og.jpg",
+            url: image,
             width: 1640,
             height: 924,
             alt: 'Storyplace',
@@ -41,7 +41,8 @@ const Home: NextPage = () => {
 
         }}
         twitter={{
-          handle: "@mystoryplace"
+          handle: "@mystoryplace",
+
         }}
       />
       <Head>
