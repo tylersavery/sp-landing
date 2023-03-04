@@ -12,8 +12,11 @@ import TopSection from '../components/top-section'
 import styles from '../styles/Home.module.scss'
 
 const Home: NextPage = () => {
-  const title = "Storyplace";
-  const description = "Storyplace is an empathy-driven social platform where you can share and read stories from people around the world.";
+  const title = "Storyplace - The Social Journal";
+
+  const description = "Storyplace is the world's best social journaling app that connects your digital journal to people around the world. Storyplace is designed to help enhance your emotional wellbeing by sharing and reading other people's stories. We offer tools to get you inspired with writing prompts, topics and challenges that will help you maintain a healthy journaling habit.";
+
+  const keywords = ['storyplace', 'journaling', 'social media', 'social journaling', 'storytelling', 'diary', 'journal entry', 'blog', 'blogging', 'blogger', 'wattpad', 'medium', 'writing', 'writer', 'writing tips', 'journaling tips', 'journaling prompts', 'community', 'best app for journaling']
 
   return (
     <>
@@ -21,6 +24,8 @@ const Home: NextPage = () => {
         title={title}
         description={description}
         canonical="https://new.storyplace.com"
+        additionalMetaTags={[{ property: "keywords", content: keywords.join(',') }]}
+
         openGraph={{
           url: "https://new.storyplace.com",
           title: title,
