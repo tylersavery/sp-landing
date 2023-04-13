@@ -10,6 +10,9 @@ import Header from '../components/header'
 import OurStorySection from '../components/our-story-section'
 import TopSection from '../components/top-section'
 import styles from '../styles/Home.module.scss'
+import HowItWorks from '../components/how-it-works-section'
+import StoriesSection from '../components/stories-section'
+import BottomSection from '../components/bottom-section'
 
 const Home: NextPage = () => {
   const title = "Storyplace - The Social Journal";
@@ -85,8 +88,11 @@ const Home: NextPage = () => {
         <Header />
         <TopSection />
         <AboutSection />
+        <HowItWorks />
+        <StoriesSection />
         <OurStorySection />
         <AmbassadorSection />
+        <BottomSection />
         <Footer />
 
 

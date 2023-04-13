@@ -3,11 +3,26 @@
 
 
 .section {
-    background-color: $color-teal;
+    
     position: relative;
-    color: #fff;
-    background-image: url(/images/ambassador-bg.jpg);
-    background-size: cover;
+    color: #000;
+
+    h2 {
+        font-size: 45px;
+        font-weight: 600;
+    }
+
+    p {
+        font-size: 25px;
+
+        a {
+            color: #000;
+            text-decoration: none;
+            &:hover{
+                text-decoration: underline;
+            }
+        }
+    }
 
 }
 

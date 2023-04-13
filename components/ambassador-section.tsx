@@ -9,35 +9,32 @@ const AmbassadorSection = () => {
     const { t } = useTranslation('common')
 
     return <div className={styles.section}>
-        <div className={styles.map}></div>
-        <div className="container pt-3 pb-3">
-            <div className={styles.logoContainer}>
-                <Image src={"/images/logo.svg"} width={430} height={124} alt="Storyplace" />
+        <div className="container py-5">
+
+            <div className="row align-items-center">
+
+                <div className="col-12 col-md-6">
+                    <h2>Become and ambassador.</h2>
+                    <p>Our community of ambassadors around the world:</p>
+                    <div className="py-2"></div>
+
+                    <p>Represent Storyplace in their city</p>
+                    <p>Are the first to try out new features</p>
+                    <p>Participate in calls and group chats</p>
+                    <p>Suggest story topics and events</p>
+                    <p>Host Storyplace events with their community</p>
+                    <div className="py-2"></div>
+
+                    <p>If you are interested in joining the family,<br />
+                        email us at: <a href="mailto:ambassador@storyplace.com">ambassador@storyplace.com</a></p>
+
+                </div>
+                <div className="col-12 col-md-6">
+                    <Image className="w-100" alt="map" src="/images/map-purple.png" width={1364} height={796} />
+                </div>
             </div>
-            <div className={styles.heading}>{t('become an ambassador')}.</div>
-            <div className={styles.subheading}>{t('Our community of ambassadors around the world')}:</div>
-            <ul className={styles.list}>
-                <li>{t('Represent Storyplace in their city')}</li>
-                <li>{t('Are the first to try out new features')}</li>
-                <li>{t('Participate in calls and group chats')}</li>
-                <li>{t('Suggest story topics and events')}</li>
-            </ul>
-
         </div>
 
-        <div className="container">
-            <div style={{ marginLeft: -32 }}>
-                <Image src="/images/squiggle.png" width={1016} height={15} alt="squiggle" />
-            </div>
-        </div>
-
-        <div className="container pt-3 pb-5">
-            <p className={styles.emailBody}>{t('If you are interested in joining the family email us at')} <Link href="mailto:ambassador@storyplace.com">
-                <a className={styles.emailLink}>ambassador@storyplace.com</a>
-            </Link>
-            </p>
-        </div>
-        <div className={styles.photo}></div>
 
     </div>
 }

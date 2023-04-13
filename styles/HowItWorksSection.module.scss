@@ -1,0 +1,57 @@
+@import './mixins.module.scss';
+
+.section {
+    position: relative;
+    background-color: #CA5A8F;
+
+    background-image: url(/images/butterfly.png);
+    background-position: right top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: #fff;
+    h2 {
+
+        font-size: 33px;
+        font-weight: 600;
+    }
+
+    p {
+        font-size: 20px;
+        line-height: 1.4;
+        font-weight: 400;
+        max-width: 500px;
+    }
+   
+}
+
+.howItWorks {
+    position: absolute;
+    top: 50%;
+    right: 25%;
+    transform: translateY(-50%);
+    .line1, .line-2 {
+        background-color: #67D3F5;
+    }
+}
+
+.howItWorksLine1, .howItWorksLine2 {
+    position: relative;
+    background-color: #67D3F5;
+    color: #000;
+    font-size: 90px;
+    line-height: 90px;
+    @include fontAlt;
+    text-transform: uppercase;
+    letter-spacing: -10px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.howItWorksLine1 {
+    padding-top: 16px;
+}
+
+.howItWorksLine2 {
+    padding-top: 16px;
+    left: -40px;
+}

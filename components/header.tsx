@@ -8,27 +8,27 @@ const Header = () => {
     const [offset, setOffset] = useState(0);
     const { t } = useTranslation('common')
 
-    useEffect(() => {
-        const onScroll = () => setOffset(window.pageYOffset);
-        // clean up code
-        window.removeEventListener('scroll', onScroll);
-        window.addEventListener('scroll', onScroll, { passive: true });
-        return () => window.removeEventListener('scroll', onScroll);
-    }, []);
+    // useEffect(() => {
+    //     const onScroll = () => setOffset(window.pageYOffset);
+    //     // clean up code
+    //     window.removeEventListener('scroll', onScroll);
+    //     window.addEventListener('scroll', onScroll, { passive: true });
+    //     return () => window.removeEventListener('scroll', onScroll);
+    // }, []);
 
     const handleHelp = () => {
         window.Intercom('show');
     }
 
-    return <header className={`${styles.header} ${offset > 80 ? styles.header__opaque : ''}`}>
+    return <header className={`${styles.header}  ${styles.header__opaque}`}>
 
 
         <div className="container">
 
-            <div className="d-flex p-2 justify-content-between align-items-center">
+            <div className="d-flex py-3 justify-content-between align-items-center">
                 <div className="d-flex align-items-center">
                     <Link href="/">
-                        <Image src={"/images/logo.svg"} width={200} height={60} alt="Storyplace" />
+                        <Image src={"/images/logo.svg"} width={196} height={37} alt="Storyplace" />
                     </Link>
                     <div className="mx-4"></div>
                     <div className="mx-4">
@@ -44,9 +44,9 @@ const Header = () => {
 
                 <div className="d-flex align-items-center">
                     <div className="mx-4">
-                        <Link href="/" locale="english"><a className={`${styles.link} ${styles.link__small}`}>EN</a></Link>
-                        <span className={`${styles.link} ${styles.link__small} ${styles.link__light}`}> | </span>
-                        <Link href="/" locale="espanol"><a className={`${styles.link} ${styles.link__small}`}>ES</a></Link>
+                        <Link href="/" locale="english"><a className={`${styles.link} `}>EN</a></Link>
+                        <span className={`${styles.link}  ${styles.link__light}`}> | </span>
+                        <Link href="/" locale="espanol"><a className={`${styles.link} `}>ES</a></Link>
                     </div>
                     <div className="mx-4">
                         <Link href="https://app.storyplace.com/auth/register" target={"_blank"}><a className={styles.link}>{t('Sign up')}</a></Link>

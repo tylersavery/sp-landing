@@ -1,0 +1,28 @@
+@import './colors.module.scss';
+
+.section {
+    h2 {
+        font-size: 80px;
+        font-weight: 600;
+    }
+
+    p {
+        font-size: 28px;
+    }
+}
+
+.button {
+    background-color: #B55082;
+    color: #fff;
+    padding: 8px 16px 11px 16px;
+    border-radius: 18px;
+    font-size: 28px;
+    text-decoration: none;
+    transition: background-color .3s;
+    font-weight: 600;
+
+    &:hover {
+        color: #fff;
+        background-color: $color-purple;
+    }
+}

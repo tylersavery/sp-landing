@@ -2,33 +2,24 @@
 @import "./colors.module";
 
 .section {
-    background-color: #fff;
     position: relative;
-    padding-top: 60px;
-}
 
-.corner {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 610px;
-    height: 193px;
-    background-image: url(/images/corner-tr.png);
-    background-size: contain;
-    background-position: right top;
-    background-repeat: no-repeat;
+    h2 {
+        font-size: 54px;
+        font-weight: 600;
+        color: #000906;
+    }
 
-}
-
-.heading {
-    text-align: center;
-    font-weight: 600;
-    font-size: 45px;
-    line-height: 1.22;
-    color: $color-purple;
-
-    @include phone {
-        padding-top: 128px;
+    h3 {
         font-size: 28px;
+        font-weight: 600;
+        margin-top: 24px;
+        margin-bottom: 4px;
+    }
+
+    p {
+        color: #180F02;
+        font-size: 18px;
+
     }
 }

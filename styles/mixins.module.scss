@@ -6,3 +6,15 @@
         @content;
     }
 }
+
+
+  
+@mixin fontDefault() {
+    font-family: 'Aeonik', sans-serif;
+  }
+
+
+  @mixin fontAlt() {
+    font-family: 'OldschoolGrotesk', sans-serif;
+
+  }
