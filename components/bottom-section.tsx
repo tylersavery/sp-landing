@@ -19,13 +19,9 @@ const BottomSection = () => {
 
             <p>Share your stories and find your community.</p>
             <div className="py-2"></div>
-            <a href="#" className={styles.button}>Start sharing</a>
+            <a href="https://app.storyplace.com/" className={styles.button}>Start sharing</a>
             <div className="py-2"></div>
-
-
         </div>
-
-
     </div>
 }
 

@@ -26,7 +26,10 @@ const OurStorySection = () => {
                         </div>
                     ) : (
                         <>
-                            <Image src="/images/video-thumb.jpg" className={styles.thumbnail} width={1280} height={720} alt="Video" />
+                            <div className={styles.thumbnail}>
+
+                                <Image src="/images/video-thumb.jpg" sizes='100%' width={1280} height={720} alt="Video" />
+                            </div>
                             <div className={styles.cover} onClick={() => setShowYoutube(true)}>
                                 <div>
                                     <h2>Our Story</h2>

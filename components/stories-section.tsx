@@ -19,20 +19,22 @@ const StoriesSection = () => {
 
                 </div>
 
-                <div className="pt-4">
-                    <Image style={{ width: "100%", height: "auto" }} sizes='100%' src="/images/story-cards.png" width={2422} height={625} alt="Stories" />
-                </div>
+                <a href="https://app.storyplace.com/" >
+                    <div className="pt-4">
+                        <Image style={{ width: "100%", height: "auto" }} sizes='100%' src="/images/story-cards.png" width={2422} height={625} alt="Stories" />
+                    </div>
 
-                <div className="mt-3" style={{ opacity: 0.2 }}>
-                    <Image style={{ width: "100%", height: "auto" }} sizes='100%' src="/images/story-cards-2.png" width={2422} height={335} alt="Stories" />
-                </div>
+                    <div className="mt-3" style={{ opacity: 0.2 }}>
+                        <Image style={{ width: "100%", height: "auto" }} sizes='100%' src="/images/story-cards-2.png" width={2422} height={335} alt="Stories" />
+                    </div>
+                </a>
 
 
             </div>
 
             <div className="pt-4 pb-5" style={{ backgroundColor: "#F0F0EA" }}>
                 <div className="container text-center">
-                    <a href="#" className="btn btn-outline-dark">Continue Reading &gt;</a>
+                    <a href="https://app.storyplace.com/" className="btn btn-outline-dark">Continue Reading &gt;</a>
                 </div>
 
             </div>
