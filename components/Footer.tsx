@@ -60,9 +60,9 @@ const Footer = () => {
                         <li className="phone-only"><a className={styles.link} href="https://app.storyplace.com/" target="_blank" rel="noopener noreferrer">{t('Use web version')}</a></li>
                     </ul>
                     <ul className={styles.linksColumn}>
-                        <li><a className={styles.link} href="/terms" target="_blank" rel="noopener noreferrer">{t('Terms & Conditions')}</a></li>
-                        <li><a className={styles.link} href="/privacy" target="_blank" rel="noopener noreferrer">{t('Privacy')}</a></li>
-                        <li><a className={styles.link} href="/content-guidelines" target="_blank" rel="noopener noreferrer">{t('Content Guidelines')}</a></li>
+                        <li><Link className={styles.link} href="/terms" target="_blank" rel="noopener noreferrer"><a className={styles.link}>{t('Terms & Conditions')}</a></Link></li>
+                        <li><Link className={styles.link} href="/privacy" target="_blank" rel="noopener noreferrer"><a className={styles.link}>{t('Privacy')}</a></Link></li>
+                        <li><Link className={styles.link} href="/content-guidelines" target="_blank" rel="noopener noreferrer"><a className={styles.link}>{t('Content Guidelines')}</a></Link></li>
                         <li><a className={styles.link} href="https://old.storyplace.com/en/copyright-claim" target="_blank" rel="noopener noreferrer">{t('Copyright Claim')}</a></li>
                     </ul>
 
