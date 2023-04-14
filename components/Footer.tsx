@@ -18,17 +18,17 @@ const Footer = () => {
             <div className={styles.content}>
                 <div className={styles.left}>
 
-                    <div className="d-flex flex-row flex-md-column">
+                    <div className="d-flex flex-row flex-md-column align-items-center">
 
                         <div className="py-2">
-                            <a href="https://play.google.com/store/apps/details?id=com.storyplace" target='_blank' className="me-3" rel="noreferrer">
+                            <a href="https://play.google.com/store/apps/details?id=com.storyplace" target='_blank' className="me-3 me-md-0" rel="noreferrer">
                                 <Image src="/images/google-play.png" width={178} height={49} alt="Google Play" />
                             </a>
                         </div>
 
                         <div className="py-2">
 
-                            <a href="https://apps.apple.com/app/storyplace/id1289523039" target='_blank' className="me-3" rel="noreferrer">
+                            <a href="https://apps.apple.com/app/storyplace/id1289523039" target='_blank' className="" rel="noreferrer">
                                 <Image src="/images/app-store.png" width={178} height={49} alt="iOS App Store" />
                             </a>
 

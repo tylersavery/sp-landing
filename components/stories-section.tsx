@@ -14,7 +14,7 @@ const StoriesSection = () => {
         <section className={styles.section}>
             <div className="container mt-5 pb-0">
 
-                <div className="pt-5">
+                <div className="pt-0 pt-md-5">
                     <h2 className="text-center">See what it's like</h2>
 
                 </div>
