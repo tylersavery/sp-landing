@@ -1,0 +1,20 @@
+
+@import "./colors.module.scss";
+
+.section{
+    a{
+        color: $color-purple;
+        font-weight: bold;
+    }
+
+    h1, h2, h3 {
+        font-weight: bold;
+    }
+
+    h2 {
+        margin-bottom: 32px;
+    }
+    
+}
+
+

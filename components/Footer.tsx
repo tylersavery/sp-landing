@@ -8,6 +8,11 @@ import useTranslation from 'next-translate/useTranslation'
 const Footer = () => {
     const { t } = useTranslation('common')
 
+    const handleHelp = (e: any) => {
+        e.preventDefault()
+        window.Intercom('show');
+    }
+
     return <footer className={styles.footer}>
         <div className="container">
             <div className={styles.content}>
@@ -49,15 +54,15 @@ const Footer = () => {
                 <div className={styles.right}>
                     <ul className={styles.linksColumn}>
                         <li><Link href="/"><a className={styles.link}>{t('About')}</a></Link></li>
-                        <li><a className={styles.link} href="https://old.storyplace.com/en/faq">{t('FAQ')}</a></li>
-                        <li><Link href="#"><a className={styles.link}>{t('Support')}</a></Link></li>
-                        <li><a href="https://old.storyplace.com/en/contact" className={styles.link}>{t('Contact')}</a></li>
+                        <li><a className={styles.link} href="/faq">{t('FAQ')}</a></li>
+                        <li><a href="#" onClick={handleHelp} style={{ textDecoration: 'none' }}><a className={styles.link}>{t('Support')}</a></a></li>
+                        <li><a href="mailto:support@storyplace.com" className={styles.link}>{t('Contact')}</a></li>
                         <li className="phone-only"><a className={styles.link} href="https://app.storyplace.com/" target="_blank" rel="noopener noreferrer">{t('Use web version')}</a></li>
                     </ul>
                     <ul className={styles.linksColumn}>
-                        <li><a className={styles.link} href="https://old.storyplace.com/terms" target="_blank" rel="noopener noreferrer">{t('Terms & Conditions')}</a></li>
-                        <li><a className={styles.link} href="https://old.storyplace.com/privacy" target="_blank" rel="noopener noreferrer">{t('Privacy')}</a></li>
-                        <li><a className={styles.link} href="https://old.storyplace.com/en/content-guidelines" target="_blank" rel="noopener noreferrer">{t('Content Guidelines')}</a></li>
+                        <li><a className={styles.link} href="/terms" target="_blank" rel="noopener noreferrer">{t('Terms & Conditions')}</a></li>
+                        <li><a className={styles.link} href="/privacy" target="_blank" rel="noopener noreferrer">{t('Privacy')}</a></li>
+                        <li><a className={styles.link} href="/content-guidelines" target="_blank" rel="noopener noreferrer">{t('Content Guidelines')}</a></li>
                         <li><a className={styles.link} href="https://old.storyplace.com/en/copyright-claim" target="_blank" rel="noopener noreferrer">{t('Copyright Claim')}</a></li>
                     </ul>
 
