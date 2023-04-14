@@ -67,12 +67,13 @@
     font-size: 23px;
     font-weight: 600;
     position: relative;
-    top: -4px;
+    top: 7px;
     margin-left: 10px;
+    padding-bottom: 22px;
 
     @include phone {
       top:0;
-      margin-left: 0;
+      margin-left: 0px;
       margin-top: 12px;
     }
   }

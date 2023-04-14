@@ -17,21 +17,25 @@ const Footer = () => {
         <div className="container">
             <div className={styles.content}>
                 <div className={styles.left}>
-                    <div className="py-2">
-                        <a href="https://play.google.com/store/apps/details?id=com.storyplace" target='_blank' className="me-3" rel="noreferrer">
-                            <Image src="/images/google-play.png" width={178} height={49} alt="Google Play" />
-                        </a>
+
+                    <div className="d-flex flex-row flex-md-column">
+
+                        <div className="py-2">
+                            <a href="https://play.google.com/store/apps/details?id=com.storyplace" target='_blank' className="me-3" rel="noreferrer">
+                                <Image src="/images/google-play.png" width={178} height={49} alt="Google Play" />
+                            </a>
+                        </div>
+
+                        <div className="py-2">
+
+                            <a href="https://apps.apple.com/app/storyplace/id1289523039" target='_blank' className="me-3" rel="noreferrer">
+                                <Image src="/images/app-store.png" width={178} height={49} alt="iOS App Store" />
+                            </a>
+
+                        </div>
                     </div>
 
-                    <div className="py-2">
-
-                        <a href="https://apps.apple.com/app/storyplace/id1289523039" target='_blank' className="me-3" rel="noreferrer">
-                            <Image src="/images/app-store.png" width={178} height={49} alt="iOS App Store" />
-                        </a>
-
-                    </div>
-
-                    <div className="py-2">
+                    <div className="py-2 d-flex justify-content-center">
                         <ul className={styles.socials}>
                             <li><a href="https://www.instagram.com/mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/instagram.png" width={25} height={25} alt="instagram" /></a></li>
                             <li><a href="https://www.facebook.com/storyplacecommunity" target="_blank" rel="noopener noreferrer"><Image src="/images/facebook.png" width={25} height={25} alt="facebook" /></a></li>
