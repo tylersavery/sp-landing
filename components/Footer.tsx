@@ -54,7 +54,7 @@ const Footer = () => {
                 <div className={styles.right}>
                     <ul className={styles.linksColumn}>
                         <li><Link href="/"><a className={styles.link}>{t('About')}</a></Link></li>
-                        <li><a className={styles.link} href="/faq">{t('FAQ')}</a></li>
+                        <li><Link href="/faq"><a className={styles.link} >{t('FAQ')}</a></Link></li>
                         <li><a href="#" onClick={handleHelp} style={{ textDecoration: 'none' }}><a className={styles.link}>{t('Support')}</a></a></li>
                         <li><a href="mailto:support@storyplace.com" className={styles.link}>{t('Contact')}</a></li>
                         <li className="phone-only"><a className={styles.link} href="https://app.storyplace.com/" target="_blank" rel="noopener noreferrer">{t('Use web version')}</a></li>
