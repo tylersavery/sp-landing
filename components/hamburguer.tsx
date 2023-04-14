@@ -4,15 +4,15 @@ import Image from 'next/image';
 import styles from '../styles/Header.module.scss';
 import useTranslation from 'next-translate/useTranslation'
 
-const HamburgerMenu = () => (<div className='d-flex'>
-    <Menu customBurgerIcon={<HamburgerIcon />} noOverlay >
+const HamburgerMenu = () => (<div style={{ height: 54 }}>
+    <Menu customBurgerIcon={<HamburgerIcon />}   >
         <Links />
     </Menu>
 </div>)
 
 const HamburgerIcon = () => (<Image src="/images/hamburguer.svg" width={30} height={30} alt="Storyplace"></Image>)
 
-export const Links = () => { 
+export const Links = () => {
     const { t } = useTranslation('common');
     return <div className='d-flex flex-column'>
         <div className="mx-4 my-3">

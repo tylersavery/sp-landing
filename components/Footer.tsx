@@ -12,12 +12,38 @@ const Footer = () => {
         <div className="container">
             <div className={styles.content}>
                 <div className={styles.left}>
-                    <h4>{t('we want to share')}<br />{t('your story')}.</h4>
-                    <div className="py-3"></div>
-                    <DownloadApp leftAligned />
+                    <div className="py-2">
+                        <a href="https://play.google.com/store/apps/details?id=com.storyplace" target='_blank' className="me-3" rel="noreferrer">
+                            <Image src="/images/google-play.png" width={178} height={49} alt="Google Play" />
+                        </a>
+                    </div>
+
+                    <div className="py-2">
+
+                        <a href="https://apps.apple.com/app/storyplace/id1289523039" target='_blank' className="me-3" rel="noreferrer">
+                            <Image src="/images/app-store.png" width={178} height={49} alt="iOS App Store" />
+                        </a>
+
+                    </div>
+
+                    <div className="py-2">
+                        <ul className={styles.socials}>
+                            <li><a href="https://www.instagram.com/mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/instagram.png" width={25} height={25} alt="instagram" /></a></li>
+                            <li><a href="https://www.facebook.com/storyplacecommunity" target="_blank" rel="noopener noreferrer"><Image src="/images/facebook.png" width={25} height={25} alt="facebook" /></a></li>
+                            <li><a href="https://twitter.com/mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/twitter.png" width={25} height={25} alt="twitter" /></a></li>
+                            <li><a href="https://www.linkedin.com/company/storyplace/" target="_blank" rel="noopener noreferrer"><Image src="/images/linkedin.png" width={25} height={25} alt="linkedin" /></a></li>
+                            <li><a href="https://tiktok.com/@mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/tiktok.png" width={25} height={25} alt="tiktok" /></a></li>
+
+                        </ul>
+                    </div>
                 </div>
+
                 <div className={styles.center}>
-                    <Image src="/images/white-fire.png" width={165} height={188} alt="join the fire" />
+                    <div className="non-phone-only">
+
+                        <Image src="/images/campfire.svg" width={192} height={201} alt="join the fire" />
+                        <div className={styles.copyright}>&copy; {new Date().getFullYear()} Storyplace Inc.<br />{t('All Rights Reserved')}</div>
+                    </div>
 
                 </div>
                 <div className={styles.right}>
@@ -35,19 +61,16 @@ const Footer = () => {
                         <li><a className={styles.link} href="https://old.storyplace.com/en/copyright-claim" target="_blank" rel="noopener noreferrer">{t('Copyright Claim')}</a></li>
                     </ul>
 
-                    <ul className={styles.socials}>
-                        <li><a href="https://www.instagram.com/mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/instagram.png" width={25} height={25} alt="instagram" /></a></li>
-                        <li><a href="https://www.facebook.com/storyplacecommunity" target="_blank" rel="noopener noreferrer"><Image src="/images/facebook.png" width={25} height={25} alt="facebook" /></a></li>
-                        <li><a href="https://twitter.com/mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/twitter.png" width={25} height={25} alt="twitter" /></a></li>
-                        <li><a href="https://www.linkedin.com/company/storyplace/" target="_blank" rel="noopener noreferrer"><Image src="/images/linkedin.png" width={25} height={25} alt="linkedin" /></a></li>
-                        <li><a href="https://tiktok.com/@mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/tiktok.png" width={25} height={25} alt="tiktok" /></a></li>
 
-                    </ul>
                 </div>
             </div>
         </div>
+        <div className="phone-only">
+
+            <div className={styles.copyright}>&copy; {new Date().getFullYear()} Storyplace Inc.<br />{t('All Rights Reserved')}</div>
+        </div>
         <div className="py-4">
-            <div className={styles.copyright}>&copy; 2022 StoryPlace Inc. {t('All Rights Reserved')}</div>
+
         </div>
     </footer>
 }

@@ -16,6 +16,13 @@ const HowItWorks = () => {
 
                 <div className="py-5">
 
+                    <div className="phone-only">
+                        <div className={styles.howItWorksMobile} >
+                            <div className={styles.howItWorksLine1}>How It</div>
+                            <div></div>
+                            <div className={styles.howItWorksLine2}>Works</div>
+                        </div>
+                    </div>
 
                     <Image src="/images/diamond.svg" width={33} height={38} alt="diamond" />
                     <h2>Express yourself.</h2>
@@ -32,10 +39,11 @@ const HowItWorks = () => {
                     <p>Your thoughts and feelings matter here. Our community understands that vulnerability is a strength and separates reading from agreeing.
                     </p>
                 </div>
-
-                <div className={styles.howItWorks}>
-                    <div className={styles.howItWorksLine1}>How It</div>
-                    <div className={styles.howItWorksLine2}>Works</div>
+                <div className="non-phone-only">
+                    <div className={styles.howItWorks} >
+                        <div className={styles.howItWorksLine1}>How It</div>
+                        <div className={styles.howItWorksLine2}>Works</div>
+                    </div>
                 </div>
 
             </div>

@@ -1,8 +1,13 @@
+@import "./mixins.module.scss";
 .section {
 
     h2 {
         font-size: 55px;
         color: #000;
         font-weight: 600;
+
+        @include phone {
+            font-size: 32px;
+        }
     }
 }

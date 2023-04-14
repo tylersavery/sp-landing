@@ -72,14 +72,18 @@ body {
 
 /* General sidebar styles */
 .bm-menu {
-  background: #581ecd;
+  background: $color-purple;
   padding: 50px 10px;
-  border-radius: 20px;
+  // border-radius: 20px;
+}
+
+.bm-menu-wrap{
+  left: 0;
 }
 
 .b-use-web {
-  background: #581ecd;
+  background: $color-purple;
   padding: 50px 10px;
-  border-radius: 20px;
+  // border-radius: 20px;
   text-align: center;
 }

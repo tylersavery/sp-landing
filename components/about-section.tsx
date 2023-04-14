@@ -22,7 +22,7 @@ const AboutSection = () => {
                         <div className="col-12 col-md-6">
                             <Image src="/images/tags.png" width={376} height={485} alt="wellbeing, empathy, community" />
                         </div>
-                        <div className="col-12 col-md-6">
+                        <div className="col-12 col-md-6 pt-5 pt-md-0">
                             <h2>Social journaling is…</h2>
                             <h3>Sharing and caring</h3>
                             <p>Express your honest thoughts, feelings, and stories in a safe space, with a community that appreciates authenticity and celebrates vulnerability.</p>

@@ -20,11 +20,11 @@ const StoriesSection = () => {
                 </div>
 
                 <div className="pt-4">
-                    <Image style={{ width: "100%", height: "auto" }} sizes='100%' src="/images/story-cards.png" width={1166} height={300} alt="Stories" />
+                    <Image style={{ width: "100%", height: "auto" }} sizes='100%' src="/images/story-cards.png" width={2422} height={625} alt="Stories" />
                 </div>
 
                 <div className="mt-3" style={{ opacity: 0.2 }}>
-                    <Image style={{ width: "100%", height: "auto" }} sizes='100%' src="/images/story-cards-2.png" width={1165} height={159} alt="Stories" />
+                    <Image style={{ width: "100%", height: "auto" }} sizes='100%' src="/images/story-cards-2.png" width={2422} height={335} alt="Stories" />
                 </div>
 
 

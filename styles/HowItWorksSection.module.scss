@@ -8,6 +8,10 @@
     background-position: right top;
     background-size: contain;
     background-repeat: no-repeat;
+
+    @include phone {
+        background-image: none;
+    }
     color: #fff;
     h2 {
 
@@ -34,6 +38,10 @@
     }
 }
 
+.howItWorksMobile{
+    padding-bottom: 28px;
+}
+
 .howItWorksLine1, .howItWorksLine2 {
     position: relative;
     background-color: #67D3F5;
@@ -45,6 +53,13 @@
     letter-spacing: -10px;
     padding-left: 16px;
     padding-right: 16px;
+    @include phone {
+        font-size: 45px;
+        line-height: 45px;
+        letter-spacing: -4px;
+        display: inline;
+        margin-left: 40px;
+    }
 }
 
 .howItWorksLine1 {
@@ -54,4 +69,9 @@
 .howItWorksLine2 {
     padding-top: 16px;
     left: -40px;
+
+    @include phone {
+        top: 16px;
+    }
+   
 }

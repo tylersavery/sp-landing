@@ -1,9 +1,15 @@
 @import './colors.module.scss';
+@import './mixins.module.scss';
 
 .section {
+
     h2 {
         font-size: 80px;
         font-weight: 600;
+
+        @include phone {
+            font-size: 60px;
+        }
     }
 
     p {
@@ -24,5 +30,21 @@
     &:hover {
         color: #fff;
         background-color: $color-purple;
+    }
+}
+
+
+.squiggle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 500px;
+    img {
+        width: 100%;
+    }
+
+    @include phone {
+        // max-width: 250px;
+        display: none;
     }
 }
