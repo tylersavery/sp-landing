@@ -6,7 +6,7 @@ import useTranslation from 'next-translate/useTranslation'
 
 
 const Footer = () => {
-    const { t } = useTranslation('common')
+    const { t, lang } = useTranslation('common')
 
     const handleHelp = (e: any) => {
         e.preventDefault()
@@ -21,18 +21,20 @@ const Footer = () => {
                     <div className="d-flex flex-row flex-md-column align-items-center">
 
                         <div className="py-2">
-                            <a href="https://play.google.com/store/apps/details?id=com.storyplace" target='_blank' className="me-3 me-md-0" rel="noreferrer">
-                                <Image src="/images/google-play.png" width={178} height={49} alt="Google Play" />
+
+                            <a href="https://apps.apple.com/app/storyplace/id1289523039" target='_blank' className="me-3 me-md-0" rel="noreferrer">
+                                <Image src={lang == "espanol" ? "/images/app-store_es.png" : "/images/app-store.png"} width={178} height={49} alt="iOS App Store" />
                             </a>
+
                         </div>
 
                         <div className="py-2">
-
-                            <a href="https://apps.apple.com/app/storyplace/id1289523039" target='_blank' className="" rel="noreferrer">
-                                <Image src="/images/app-store.png" width={178} height={49} alt="iOS App Store" />
+                            <a href="https://play.google.com/store/apps/details?id=com.storyplace" target='_blank' rel="noreferrer">
+                                <Image src={lang == "espanol" ? "/images/google-play_es.png" : "/images/google-play.png"} width={178} height={49} alt="Google Play" />
                             </a>
-
                         </div>
+
+
                     </div>
 
                     <div className="py-2 d-flex justify-content-center">

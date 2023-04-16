@@ -6,7 +6,7 @@ import useTranslation from 'next-translate/useTranslation'
 
 
 const AboutSection = () => {
-    const { t } = useTranslation('common')
+    const { t, lang } = useTranslation('common')
 
     return (
         <section className={styles.section}>
@@ -18,7 +18,7 @@ const AboutSection = () => {
 
                     <div className="row align-items-center">
                         <div className="col-12 col-md-6 d-none d-md-block">
-                            <Image src="/images/tags.png" width={376} height={485} alt="wellbeing, empathy, community" />
+                            <Image src={lang == "espanol" ? "/images/tags_es.png" : "/images/tags.png"} width={376} height={485} alt="wellbeing, empathy, community" />
                         </div>
                         <div className="col-12 col-md-6 pt-md-5 pt-4 pt-md-0">
                             <h2>{t('social-journaling-is')}</h2>
