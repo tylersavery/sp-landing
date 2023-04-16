@@ -31,6 +31,16 @@
         }
     }
 
+    ul {
+        li {
+            font-size: 22px;
+
+            @include phone {
+                font-size: 16px;
+            }
+        }
+    }
+
 }
 
 .map {

@@ -1,0 +1,13 @@
+{
+    "i18n-ally.localesPaths": [
+        "locales"
+    ],
+    "i18n-ally.sortKeys": false,
+    "i18n-ally.keepFulfilled": true,
+    "i18n-ally.sourceLanguage": "en",
+    "i18n-ally.enabledFrameworks": [
+        "next-translate"
+    ],
+    "i18n-ally.extract.keyMaxLength": 32,
+    "i18n-ally.indent": 4
+}

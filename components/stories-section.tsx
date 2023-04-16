@@ -1,8 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import Image from 'next/image';
 import styles from '../styles/StoriesSection.module.scss';
-import Carousel from './carousel';
-import MobileCarousel from './MobileCarousel';
 
 import useTranslation from 'next-translate/useTranslation'
 
@@ -15,7 +13,7 @@ const StoriesSection = () => {
             <div className="container mt-5 pb-0">
 
                 <div className="pt-0 pt-md-5">
-                    <h2 className="text-center">See what it's like</h2>
+                    <h2 className="text-center">{t('see-what-its-like')}</h2>
 
                 </div>
 
@@ -34,7 +32,7 @@ const StoriesSection = () => {
 
             <div className="pt-4 pb-5" style={{ backgroundColor: "#F0F0EA" }}>
                 <div className="container text-center">
-                    <a href="https://app.storyplace.com/" className="btn btn-outline-dark">Continue Reading &gt;</a>
+                    <a href="https://app.storyplace.com/" className="btn btn-outline-dark">{t('continue-reading')} &gt;</a>
                 </div>
 
             </div>

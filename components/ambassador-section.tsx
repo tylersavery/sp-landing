@@ -14,19 +14,19 @@ const AmbassadorSection = () => {
             <div className="row align-items-center">
 
                 <div className="col-12 col-md-6">
-                    <h2>Become an ambassador.</h2>
-                    <p>Our community of ambassadors around the world:</p>
+                    <h2>{t('become-an-ambassador')}</h2>
+                    <p>{t('our-community-of-ambassadors-aro')}</p>
                     <ul>
 
-                        <li>Represent Storyplace in their city</li>
-                        <li>Are the first to try out new features</li>
-                        <li>Participate in calls and group chats</li>
-                        <li>Suggest story topics and events</li>
-                        <li>Host Storyplace events with their community</li>
+                        <li>{t('represent-storyplace-in-their-ci')}</li>
+                        <li>{t('are-the-first-to-try-out-new-fea')}</li>
+                        <li>{t('participate-in-calls-and-group-c')}</li>
+                        <li>{t('suggest-story-topics-and-events')}</li>
+                        <li>{t('host-storyplace-events-with-thei')}</li>
                     </ul>
 
-                    <p>If you are interested in joining the family,<br />
-                        email us at: <a href="mailto:ambassador@storyplace.com">ambassador@storyplace.com</a></p>
+                    <p>{t('if-you-are-interested-in-joining')}<br />
+                        {t('email-us-at')}: <a href="mailto:ambassador@storyplace.com">ambassador@storyplace.com</a></p>
 
                 </div>
                 <div className="col-12 col-md-6">

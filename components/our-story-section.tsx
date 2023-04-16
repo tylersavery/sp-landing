@@ -32,8 +32,8 @@ const OurStorySection = () => {
                             </div>
                             <div className={styles.cover} onClick={() => setShowYoutube(true)}>
                                 <div>
-                                    <h2>Our Story</h2>
-                                    <p>Hear from our founder, Ivana de Maria, on how Storyplace plays a role in our society.</p>
+                                    <h2>{t('our-story')}</h2>
+                                    <p>{t('hear-from-our-founder')}</p>
                                     <div className="d-flex justify-content-center">
 
                                         <div className={styles.playButton}>

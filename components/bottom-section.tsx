@@ -17,9 +17,9 @@ const BottomSection = () => {
             <h2>Storyplace</h2>
             <div className="py-2"></div>
 
-            <p>Share your stories and find your community.</p>
+            <p>{t('share-your-stories-and-find-your')}</p>
             <div className="py-2"></div>
-            <a href="https://app.storyplace.com/" className={styles.button}>Start sharing</a>
+            <a href="https://app.storyplace.com/" className={styles.button}>{t('start-sharing')}</a>
             <div className="py-2"></div>
         </div>
     </div>

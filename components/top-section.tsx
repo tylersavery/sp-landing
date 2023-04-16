@@ -22,7 +22,7 @@ const TopSection = () => {
 
                 </div>
                 <div>
-                    <h1>Welcome to Storyplace,<br />where journaling<br />meets community.</h1>
+                    <h1>{t('Welcome to Storyplace,')}<br />{t('where journaling')}<br />{t('meets community.')}</h1>
 
                     <div className={"d-flex align-items-center mt-5 flex-column flex-md-row"}>
 
@@ -36,7 +36,7 @@ const TopSection = () => {
                             </a>
                         </div>
 
-                        <a href="https://app.storyplace.com/" className={styles.exploreWebLink}>explore web</a>
+                        <a href="https://app.storyplace.com/" className={styles.exploreWebLink}>{t('explore web')}</a>
                     </div>
                 </div>
 
