@@ -1,8 +1,9 @@
 
 @import "./mixins.module.scss";
+@import './colors.module.scss';
 
 .footer {
-   background: linear-gradient(90deg, #4E1CA9 16.88%, #7C3CBF 50%);
+   background-color: $color-purple;
     padding-top: 64px;
     color: #fff;
 }
@@ -20,7 +21,7 @@
 .left {
     display: flex;
     flex-direction: column;
-    flex: 2;
+    flex: 1;
 
     h4 {
         font-size: 45px;
@@ -34,18 +35,13 @@
 }
 
 .center {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-
-    @include phone {
-        display: none;
-    }
+  flex: 2;
+  text-align: center;
 }
 
 .right {
     display: flex;
-    flex: 2;
+    flex: 1;
 
     justify-content: space-evenly;
 
@@ -55,10 +51,11 @@
 }
 
 .copyright {
+    margin-top: 16px;
     text-align: center;
     color: #fff;
-    opacity: 0.5;
-    font-size: 12px;
+    font-size: 14px;
+    line-height: 20px;
 }
 
 .linksColumn {
@@ -78,7 +75,7 @@
 
 .link {
     color: #fff;
-    font-size: 12px;
+    font-size: 14px;
     text-decoration: none;
     font-weight: 600;
 

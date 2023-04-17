@@ -2,113 +2,85 @@
 @import "./mixins.module.scss";
 
 .section {
-    background-color: #fff;
     position: relative;
-    padding-top: 60px;
     overflow: hidden;
 
 }
 
-.cornerTl {
+.videoContainer{
+    aspect-ratio: 16/9;
+    position: relative;
+    
+}
+
+.player {
+    width: 100%;
+    aspect-ratio: 16/9;
+}
+
+
+.thumbnail {
+    width: 100%;
+    aspect-ratio: 16/9;
+
+    img {
+        width: 100%;
+    }
+}
+
+.cover {
     position: absolute;
-    width: 724px;
-    height: 786px;
-    background-image: url(/images/our-story-tl.png);
-    background-size: contain;
-    background-position: left top;
-    top: 0;
     left: 0;
-}
-
-.cornerTr {
-    position: absolute;
-    width: 358px;
-    height: 394px;
-    background-image: url(/images/our-story-tr.png);
-    background-size: contain;
-    background-position: left top;
     top: 0;
-    right: 0;
-}
-
-.cornerBl {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 658px;
-    height: 193px;
-    background-image: url(/images/corner-bl.png);
-    background-size: contain;
-    background-position: left bottom;
-    background-repeat: no-repeat;
-
-}
-
-.content {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(46, 26, 104, .9);
     display: flex;
-    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 
-    padding-top: 56px;
+    color: #fff;
+    text-align: center;
 
-    @include phone {
-        flex-direction: column;
+    transition: background-color .4s;
+    cursor: pointer;
+
+    &:hover {
+    background-color: rgba(46, 26, 104, .8);
+
     }
-}
+    h2 {
+        font-size: 54px;
+        font-weight: 600;
 
-.videoContainer {
-    width: 780px;
-    height: 796px;
-    background-image:url(/images/video-bg.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.downloadContainer {
-
-    margin-top: 64px;
-}
-
-.heading {
-    position: relative;
-    font-size: 45px;
-    font-weight: 700;
-    color: $color-purple;
-}
-
-.quote {
-    position: relative;
-
-    font-size: 35px;
-    line-height: 45px;
-    color: $color-purple;   
-    max-width: 600px;
-
-    @include phone {
-        font-size: 30px;
-        line-height: 36px;
-    }
-}
-
-.quoteIvana {
-    position: relative;
-
-    margin-top: 16px;
-    font-size: 24px;
-    color: $color-purple;
-    font-weight: 600;
-    line-height: 1;
-}
-
-.quoteFounder {
-    position: relative;
-
-    margin-top: 8px;
-    font-size: 24px;
-    color: $color-purple;
-    line-height: 1;
-
-    @include phone {
-        padding-bottom: 64px;
+        @include phone {
+            font-size: 40px;
+        }
     }
 
+    p{
+        padding: 20px 0;
+        max-width: 400px;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+
+        @include phone {
+            font-size: 16px;
+            line-height: 18px;
+            padding: 4px 0;
+        }
+    }
+   
+
+
+}
+
+
+.playButton {
+    text-align: center;
+    @include phone {
+        width: 32px;
+        height: 32px;
+    }
 }

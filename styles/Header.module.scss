@@ -3,17 +3,17 @@
 
 
 .header {
-    position: fixed;
     width: 100%;
     z-index: 100;
     transition: background-color .4s;
+
 
     @include phone {
         display: none;
     }
 
     &__opaque {
-        background-color: #581ecd;
+        background-color: $color-purple;
         // background-image: url(/images/top-bg.jpg);
         // background-size: cover;
     }
@@ -22,8 +22,13 @@
 .link {
     color: #fff;
     font-size: 16px;
-    font-weight: 600;
+    font-weight: normal;
     text-decoration: none;
+    text-transform: uppercase;
+
+    @include fontAlt;
+
+
 
     &:hover {
         text-decoration: underline;
