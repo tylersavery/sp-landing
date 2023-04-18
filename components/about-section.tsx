@@ -17,10 +17,10 @@ const AboutSection = () => {
                 <div className="pt-0 pt-md-2 pb-5">
 
                     <div className="row align-items-center">
-                        <div className="col-12 col-md-6 d-none d-md-block">
-                            <Image src={lang == "espanol" ? "/images/tags_es.png?v=2" : "/images/tags.png?v=2"} width={376} height={485} alt="wellbeing, empathy, community" />
+                        <div className="col-12 col-md-6 d-none d-md-block text-center">
+                            <Image src={lang == "espanol" ? "/images/tags_es.png?v=2" : "/images/tags.png?v=3"} width={lang == "espanol" ? 363 : 359} height={lang == "espanol" ? 418 : 415} alt="wellbeing, empathy, community" />
                         </div>
-                        <div className="col-12 col-md-6 pt-md-5 pt-4 pt-md-0">
+                        <div className="col-12 col-md-6 pt-4 pt-md-0">
                             <h2>{t('social-journaling-is')}</h2>
                             <h3>{t('sharing-and-caring')}</h3>
                             <p>{t('sharing-and-caring-p')}</p>
