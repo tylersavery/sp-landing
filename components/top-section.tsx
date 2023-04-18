@@ -22,7 +22,7 @@ const TopSection = () => {
 
                 </div>
                 <div>
-                    <h1>{t('Welcome to Storyplace,')}<br />{t('where journaling')}<br />{t('meets community.')}</h1>
+                    <h1>{t('Welcome to Storyplace,')}<br />{t('where journaling')}<br />{t('meets community')}</h1>
 
                     <div className={"d-flex align-items-center mt-5 flex-column flex-md-row"}>
 
