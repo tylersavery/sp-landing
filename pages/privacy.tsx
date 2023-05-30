@@ -1,14 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import { NextPage } from "next"
-import { AppHead } from "../components/app-head";
-import MobileHeader from "../components/mobile-header";
-import styles from '../styles/Legal.module.scss';
-import Image from "next/image";
-import LegalHeader from "../components/legal-header";
-import Footer from "../components/Footer";
 import LegalContainer from "../components/legal-container";
-
-
 
 const Terms: NextPage = () => {
 
