@@ -22,469 +22,794 @@ const Terms: NextPage = () => {
         return (
             <>
                 <LegalContainer>
-                    <h3>Términos y condiciones</h3>
-                    <p>&iexcl;Bienvenido a StoryPlace!</p>
-                    <p>LEA ATENTAMENTE ESTE ACUERDO DE T&Eacute;RMINOS DE USO (LOS &laquo;T&Eacute;RMINOS DE USO&raquo;). STORYPLACE, INC. (&laquo;STORYPLACE&raquo;) OPERA LA APLICACI&Oacute;N M&Oacute;VIL &laquo;STORYPLACE&raquo; (LA &laquo;APLICACI&Oacute;N&raquo;), SUS SITIOS WEB ASOCIADOS, INCLUIDO&nbsp;<a href="http://www.storyplace.com/">WWW.STORYPLACE.COM</a> (CONJUNTAMETE, EL &laquo;SITIO WEB&raquo;), AS&Iacute; COMO UNA SERIE DE SERVICIOS RELACIONADOS (CONJUNTAMENTE, CON LA APLICACI&Oacute;N, LA PLATAFORMA Y EL SITIO WEB, LOS &laquo;SERVICIOS&raquo;). AL HACER CLIC EN EL BOT&Oacute;N &laquo;ACEPTO&raquo;, COMPLETAR EL PROCESO DE REGISTRO DE LA APLICACI&Oacute;N O&nbsp;LA PLATAFORMA, NAVEGAR POR EL SITIO WEB O DESCARGAR LA APLICACI&Oacute;N, DECLARA QUE (1)&nbsp;HA LE&Iacute;DO, COMPRENDIDO Y ACEPTA REGIRSE POR LAS CONDICIONES DE USO, (2) TIENE LA EDAD LEGAL EN SU LUGAR DE DOMICILIO PARA CELEBRAR UN CONTRATO VINCULANTE CON STORYPLACE Y (3) TIENE LA AUTORIDAD PARA ACEPTAR LAS CONDICIONES DE USO PERSONALMENTE O EN NOMBRE DE LA EMPRESA QUE HA NOMBRADO COMO USUARIO Y PARA OBLIGAR A ESA EMPRESA A CUMPLIR LAS CONDICIONES DE USO. EL T&Eacute;RMINO &laquo;USTED&raquo; SE REFIERE A LA PERSONA F&Iacute;SICA O JUR&Iacute;DICA, SEG&Uacute;N CORRESPONDA, IDENTIFICADA COMO USUARIO CUANDO SE REGISTR&Oacute; A TRAV&Eacute;S DE LOS SERVICIOS. SI NO EST&Aacute; DE ACUERDO CON LOS T&Eacute;RMINOS DE USO, NO PODR&Aacute; ACCEDER NI UTILIZAR NINGUNA PARTE DE LOS SERVICIOS.</p>
-                    <p>TENGA EN CUENTA LOS T&Eacute;RMINOS DE ESTE ACUERDO ENTRE NOSOTROS, A MENOS QUE OPTE POR NO PARTICIPAR EN EL ACUERDO DE ARBITRAJE: (1) S&Oacute;LO SE LE PERMITIR&Aacute; PRESENTAR DEMANDAS Y SOLICITAR REPARACI&Oacute;N CONTRA NOSOTROS A T&Iacute;TULO INDIVIDUAL, NO COMO DEMANDANTE O MIEMBRO DE UNA DEMANDA COLECTIVA EN CUALQUIER ACCI&Oacute;N O PROCEDIMIENTO COLECTIVO O REPRESENTATIVO; Y (2) RENUNCIA A SU DERECHO A SOLICITAR UNA REPARACI&Oacute;N ANTE UN TRIBUNAL DE JUSTICIA Y A QUE SUS DEMANDAS SEAN JUZGADAS CON JURADO.&nbsp;</p>
-                    <p>CUALQUIER DISPUTA O DEMANDA RELACIONADA DE ALGUNA MANERA CON SU USO DE LOS SERVICIOS SE REGIR&Aacute; E INTERPRETAR&Aacute; POR Y BAJO LAS LEYES DEL ESTADO DE CALIFORNIA, DE CONFORMIDAD CON LAS REGLAS DE ARBITRAJE&nbsp;Y DE CONFORMIDAD CON LAS NORMAS Y PROCEDIMIENTOS DE ARBITRAJE SIMPLIFICADOS DE JUDICIAL ARBITRATION AND MEDIATION SERVICES, INC. (&laquo;JAMS&raquo;), EN VIGOR EN ESE MOMENTO, POR UN &Aacute;RBITRO COMERCIAL CON AMPLIA EXPERIENCIA EN LA RESOLUCI&Oacute;N DE DISPUTAS DE PROPIEDAD INTELECTUAL Y CONTRATOS COMERCIALES, QUE SER&Aacute; SELECCIONADO DE LA LISTA CORRESPONDIENTE DE &Aacute;RBITROS DE JAMS DE CONFORMIDAD CON LAS NORMAS Y PROCEDIMIENTOS DE ARBITRAJE SIMPLIFICADOS DE JAMS.&nbsp;</p>
-                    <p>Su uso y participaci&oacute;n en determinados Servicios puede estar sujeto a condiciones adicionales (&laquo;T&eacute;rminos complementarios&raquo;), y dichos T&eacute;rminos complementarios se detallar&aacute;n en las T&eacute;rminos de uso o se le presentar&aacute;n para que los acepte cuando se registre. Si las T&eacute;rminos de uso son incompatibles con los T&eacute;rminos complementarios, prevalecer&aacute;n los T&eacute;rminos complementarios con respecto a dicho Servicio. Las T&eacute;rminos de uso y cualquier T&eacute;rmino complementario aplicable se denominan en lo sucesivo el &laquo;Acuerdo&raquo;.</p>
-                    <p>Los Servicios incluyen, entre otros: la Aplicaci&oacute;n y la plataforma en l&iacute;nea que ofrece un servicio de diario p&uacute;blico que permite a los particulares publicar, compartir y guardar historias escritas y de audio relacionadas con determinados temas y/o lugares.</p>
-                    <p>TENGA EN CUENTA QUE STORYPLACE puede modificar el Acuerdo en cualquier momento, a su entera discreci&oacute;n. Cuando se realicen cambios, STORYPLACE publicar&aacute; una nueva copia de los T&eacute;rminos de uso en el sitio web y en la aplicaci&oacute;n, y cualquier nuevo T&eacute;rmino complementario estar&aacute; disponible en el Servicio afectado o a trav&eacute;s de &eacute;l, en el Sitio web o en la Aplicaci&oacute;n. Tambi&eacute;n actualizaremos la fecha de &laquo;&Uacute;ltima actualizaci&oacute;n&raquo; en la parte superior de los T&eacute;rminos de uso. Si realizamos alg&uacute;n cambio importante y usted se ha registrado con nosotros para crear una Cuenta, tambi&eacute;n le enviaremos un correo electr&oacute;nico a la &uacute;ltima direcci&oacute;n de correo electr&oacute;nico que nos haya proporcionado de conformidad con el Acuerdo. Cualquier cambio en el Acuerdo entrar&aacute; en vigor inmediatamente para los nuevos usuarios del Sitio web, la Aplicaci&oacute;n y/o los Servicios y entrar&aacute; en vigor treinta (30) d&iacute;as despu&eacute;s de la publicaci&oacute;n de la notificaci&oacute;n de dichos cambios en el Sitio web para los usuarios existentes, siempre que cualquier cambio importante entre en vigor para los usuarios que tengan una Cuenta con nosotros treinta (30) d&iacute;as despu&eacute;s de publicar la notificaci&oacute;n de dichos cambios en el Sitio web o treinta (30) d&iacute;as despu&eacute;s del env&iacute;o de un aviso por correo electr&oacute;nico sobre dichos cambios a Usuarios registrados (definidos en la secci&oacute;n 2.1 m&aacute;s adelante). STORYPLACE puede exigirle que d&eacute; su consentimiento al Acuerdo actualizado de una manera espec&iacute;fica antes de permitir el uso posterior del Sitio web, la Aplicaci&oacute;n y/o los Servicios. Si no est&aacute; de acuerdo con alguno de los cambios despu&eacute;s de recibir una notificaci&oacute;n de dichos cambios, deber&aacute; dejar de utilizar el Sitio web, la Aplicaci&oacute;n y los Servicios. De lo contrario, su uso continuo del Sitio web, la Aplicaci&oacute;n y los Servicios constituye su aceptaci&oacute;n sustitutiva de dicho(s) cambio(s). CONSULTE PERI&Oacute;DICAMENTE EL SITIO WEB PARA VER LOS T&Eacute;RMINOS VIGENTES EN ESE MOMENTO.</p>
-                    <p><br /></p>
-                    <p>Uso de los Servicios y las Propiedades de STORYPLACE.&nbsp;</p>
-                    <p>La Aplicaci&oacute;n, el Sitio web, los Servicios y la informaci&oacute;n y el contenido disponibles en el Sitio web y en la Aplicaci&oacute;n, as&iacute; como los Servicios (tal como se definen estos t&eacute;rminos en el presente documento) (cada uno de ellos, una &laquo;Propiedad de STORYPLACE&raquo; y, en conjunto, las &laquo;Propiedades de STORYPLACE&raquo;) est&aacute;n protegidos por las leyes de derechos de autor de todo el mundo.&nbsp;</p>
+                    <h2 style={{ textAlign: 'center' }}>Términos y condiciones</h2>
+                    <p>
+                        <strong>¡Bienvenido a StoryPlace!</strong>
+                    </p>
+                    <p style={{ textAlign: 'justify' }}>
+                        <strong>LEA ATENTAMENTE ESTE ACUERDO DE TÉRMINOS DE USO (LOS «TÉRMINOS DE USO»). STORYPLACE, INC. («STORYPLACE») OPERA LA APLICACIÓN MÓVIL «STORYPLACE» (LA «APLICACIÓN»), SUS SITIOS WEB ASOCIADOS, INCLUIDO
+                        </strong>
+                        <a target="_blank" href="https://www.storyplace.com/" rel="noreferrer">
+                            <strong>WWW.STORYPLACE.COM</strong>
+                        </a>
+                        <strong>
+                            (CONJUNTAMENTE, EL «SITIO WEB»), ASÍ COMO UNA SERIE DE SERVICIOS RELACIONADOS (CONJUNTAMENTE, CON LA APLICACIÓN, LA PLATAFORMA Y EL SITIO WEB, LOS «SERVICIOS»). AL HACER CLIC EN EL BOTÓN «ACEPTO», COMPLETAR EL PROCESO DE REGISTRO DE LA APLICACIÓN O
+                        </strong>
+                        <strong>LA PLATAFORMA, NAVEGAR POR EL SITIO WEB O DESCARGAR LA APLICACIÓN, DECLARA QUE (1)
+                        </strong>
+                        <strong>HA LEÍDO, COMPRENDIDO Y ACEPTA REGIRSE POR LOS TÉRMINOS DE USO, (2) TIENE LA EDAD LEGAL EN SU LUGAR DE DOMICILIO PARA CELEBRAR UN CONTRATO VINCULANTE CON STORYPLACE Y (3) TIENE LA AUTORIDAD PARA ACEPTAR LOS TÉRMINOS DE USO PERSONALMENTE O EN NOMBRE DE LA EMPRESA QUE HA NOMBRADO COMO USUARIO Y PARA OBLIGAR A ESA EMPRESA A CUMPLIR LOS TÉRMINOS DE USO. EL TÉRMINO «USTED» SE REFIERE A LA PERSONA FÍSICA O JURÍDICA, SEGÚN CORRESPONDA, IDENTIFICADA COMO USUARIO CUANDO SE REGISTRÓ A TRAVÉS DE LOS SERVICIOS. SI NO ESTÁ DE ACUERDO CON LOS TÉRMINOS DE USO, NO PODRÁ ACCEDER NI UTILIZAR NINGUNA PARTE DE LOS SERVICIOS.</strong>
+                    </p>
+                    <p style={{ textAlign: 'justify' }}>
+                        <strong>TENGA EN CUENTA LOS TÉRMINOS DE ESTE ACUERDO ENTRE NOSOTROS, A MENOS QUE OPTE POR NO PARTICIPAR EN EL ACUERDO DE ARBITRAJE: (1) SÓLO SE LE PERMITIRÁ PRESENTAR DEMANDAS Y SOLICITAR REPARACIÓN CONTRA NOSOTROS A TÍTULO INDIVIDUAL, NO COMO DEMANDANTE O MIEMBRO DE UNA DEMANDA COLECTIVA EN CUALQUIER ACCIÓN O PROCESO JUDICIAL COLECTIVO O REPRESENTATIVO; Y (2) RENUNCIA A SU DERECHO A SOLICITAR UNA REPARACIÓN ANTE UN TRIBUNAL DE JUSTICIA Y A QUE SUS DEMANDAS SEAN JUZGADAS CON JURADO.&nbsp;</strong>
+                    </p>
+                    <p style={{ textAlign: 'justify' }}>
+                        <strong>CUALQUIER DISPUTA O DEMANDA RELACIONADA DE ALGUNA MANERA CON SU USO DE LOS SERVICIOS SE REGIRÁ E INTERPRETARÁ POR Y BAJO LAS LEYES DEL ESTADO DE CALIFORNIA, DE CONFORMIDAD CON LAS REGLAS DE ARBITRAJE
+                        </strong>
+                        <strong>Y DE CONFORMIDAD CON LAS NORMAS Y PROCEDIMIENTOS DE ARBITRAJE SIMPLIFICADOS DE JUDICIAL ARBITRATION AND MEDIATION SERVICES, INC. («JAMS»), EN VIGOR EN ESE MOMENTO, POR UN ÁRBITRO COMERCIAL CON AMPLIA EXPERIENCIA EN LA RESOLUCIÓN DE CONTROVERSIAS DE PROPIEDAD INTELECTUAL Y CONTRATOS COMERCIALES, QUE SERÁ SELECCIONADO DE LA LISTA CORRESPONDIENTE DE ÁRBITROS DE JAMS DE CONFORMIDAD CON LAS NORMAS Y PROCEDIMIENTOS DE ARBITRAJE SIMPLIFICADOS DE JAMS.&nbsp;</strong>
+                    </p>
+                    <p style={{ textAlign: 'justify' }}>
+                        <strong>Su uso y participación en determinados Servicios puede estar sujeto a condiciones adicionales («Términos Complementarios»), y dichos Términos Complementarios se detallarán en los Términos de Uso o se le presentarán para que los acepte cuando se registre. Si los Términos de Uso son incompatibles con los Términos Complementarios, prevalecerán los Términos Complementarios con respecto a dicho Servicio. Los Términos de Uso y cualquier Término Complementario aplicable se denominan en lo sucesivo el «Acuerdo».</strong>
+                    </p>
+                    <p style={{ textAlign: 'justify' }}>
+                        <strong>Los Servicios incluyen, entre otros: la Aplicación y la plataforma en línea que ofrece un servicio de diario público que permite a los particulares publicar, compartir y guardar historias escritas y de audio relacionadas con determinados temas y/o lugares.</strong>
+                    </p>
+                    <p style={{ textAlign: 'justify' }}>
+                        <strong>TENGA EN CUENTA QUE STORYPLACE puede modificar el Acuerdo en cualquier momento, a su entera discreción. Cuando se realicen cambios, STORYPLACE publicará una nueva copia de los Términos de Uso en el sitio web y en la aplicación, y cualquier nuevo Término Complementario estará disponible en el Servicio afectado o a través de él, en el Sitio web o en la Aplicación. También actualizaremos la fecha de «Última actualización» en la parte superior de los Términos de Uso. Si realizamos algún cambio importante y usted se ha registrado con nosotros para crear una Cuenta, también le enviaremos un correo electrónico a la última dirección de correo electrónico que nos haya proporcionado de conformidad con el Acuerdo. Cualquier cambio en el Acuerdo entrará en vigor inmediatamente para los nuevos usuarios del Sitio web, la Aplicación y/o los Servicios y entrará en vigor treinta (30) días después de la publicación de la notificación de dichos cambios en el Sitio web para los usuarios existentes, siempre que cualquier cambio importante entre en vigor para los usuarios que tengan una Cuenta con nosotros treinta (30) días después de publicar la notificación de dichos cambios en el Sitio web o treinta (30) días después del envío de un aviso por correo electrónico sobre dichos cambios a Usuarios Registrados (definidos en la sección 2.1 más adelante). STORYPLACE puede exigirle que dé su consentimiento al Acuerdo actualizado de una manera específica antes de permitir el uso posterior del Sitio web, la Aplicación y/o los Servicios. Si no está de acuerdo con alguno de los cambios después de recibir una notificación de dichos cambios, deberá dejar de utilizar el Sitio web, la Aplicación y los Servicios. De lo contrario, su uso continuo del Sitio web, la Aplicación y los Servicios constituye su aceptación sustitutiva de dicho(s) cambio(s). CONSULTE PERIÓDICAMENTE EL SITIO WEB PARA VER LOS TÉRMINOS VIGENTES EN ESE MOMENTO.</strong>
+                    </p>
+                    <p style={{ textAlign: 'justify' }}>
+                        <strong>Uso de los Servicios y las Propiedades de STORYPLACE.</strong>
+                    </p>
+                    <p style={{ textAlign: 'justify' }}>
+                        <strong>La Aplicación, el Sitio web, los Servicios y la información y el contenido disponibles en el Sitio web y en la Aplicación, así como los Servicios (tal como se definen estos términos en el presente documento) (cada uno de ellos, una «Propiedad de STORYPLACE» y, en conjunto, las «Propiedades de STORYPLACE») están protegidos por las leyes de derechos de autor de todo el mundo.&nbsp;</strong>
+                    </p>
                     <ol>
                         <li>
-                            <p>T&eacute;rminos de la licencia.</p>
-                            <ol>
-                                <li>
-                                    <p>Licencia de aplicaci&oacute;n. Sujeto al cumplimiento del Acuerdo, STORYPLACE le concede una licencia limitada, no exclusiva, intransferible, no sublicenciable y revocable para descargar, instalar y utilizar una copia de la Aplicaci&oacute;n en un &uacute;nico dispositivo m&oacute;vil u ordenador que posea o controle, y para ejecutar dicha copia de la Aplicaci&oacute;n &uacute;nicamente para sus fines personales o internos. Adem&aacute;s, con respecto a cualquier aplicaci&oacute;n a la que se acceda a trav&eacute;s de la Tienda de aplicaciones de Apple o se descargue de ella (una &laquo;aplicaci&oacute;n con origen en la Tienda de aplicaciones&raquo;), solo utilizar&aacute;s la aplicaci&oacute;n con origen en la Tienda de aplicaciones (a) en un producto de la marca Apple que ejecute iOS (el sistema operativo propietario de Apple) y (b) seg&uacute;n lo permitan las &laquo;Reglas de uso&raquo; establecidas en los T&eacute;rminos de servicio de la Tienda de aplicaciones de Apple. Sin perjuicio de lo dispuesto en la primera frase de esta secci&oacute;n, con respecto a cualquier acceso a la Aplicaci&oacute;n a trav&eacute;s de la tienda o descargada de ella (una &laquo;Aplicaci&oacute;n obtenida&raquo;), es posible que tenga derechos de licencia adicionales con respecto al uso de la Aplicaci&oacute;n de forma compartida dentro del grupo familiar designado.</p>
-                                </li>
-                                <li>
-                                    <p>Actualizaciones. Usted entiende que las Propiedades de STORYPLACE est&aacute;n evolucionando. En consecuencia, STORYPLACE puede exigirle que acepte las actualizaciones de las Propiedades de STORYPLACE que haya instalado en su ordenador o dispositivo m&oacute;vil. Usted reconoce y acepta que STORYPLACE puede actualizar las Propiedades de STORYPLACE con o sin notificaci&oacute;n previa. Es posible que deba actualizar el software de terceros de vez en cuando para poder utilizar las Propiedades de STORYPLACE.</p>
-                                </li>
-                                <li>
-                                    <p>Ciertas restricciones. Los derechos que se le otorgan en el Acuerdo est&aacute;n sujetos a las siguientes restricciones: (a) no podr&aacute; licenciar, vender, alquilar, arrendar, transferir, reproducir, distribuir, alojar ni explotar comercialmente de ning&uacute;n otro modo las Propiedades de STORYPLACE ni ninguna parte de las Propiedades de STORYPLACE, incluido el Sitio web, (b) no enmarcar&aacute; ni utilizar&aacute; t&eacute;cnicas de encuadre para incluir ninguna marca comercial, logotipo u otras Propiedades de STORYPLACE (incluidas im&aacute;genes, texto, dise&ntilde;o de p&aacute;gina o formulario) de STORYPLACE; (c) no utilizar&aacute; ninguna metaetiqueta u otro &laquo;texto oculto&raquo; con el nombre o marcas comerciales de STORYPLACE; (d) no modificar&aacute;, traducir&aacute;, adaptar&aacute;, fusionar&aacute;, realizar&aacute; trabajos derivados, desensamblar&aacute;, descompilar&aacute;, compilar&aacute; de forma inversa ni aplicar&aacute; ingenier&iacute;a inversa a ninguna parte de las Propiedades de STORYPLACE, excepto en la medida en que las restricciones anteriores est&eacute;n expresamente prohibidas por la ley aplicable; (e) no utilizar&aacute; ning&uacute;n software, dispositivo u otro proceso manual o automatizado (incluidos, entre otros, ara&ntilde;as, robots, scrapers, rastreadores, avatares, herramientas de miner&iacute;a de datos) o similares) para &laquo;extraer&raquo; o descargar datos de cualquier p&aacute;gina web contenida en el sitio web (con la salvedad de que concedemos a los operadores de motores de b&uacute;squeda p&uacute;blicos permiso revocable para utilizar ara&ntilde;as que copien materiales del Sitio web con el &uacute;nico fin de crear &iacute;ndices de b&uacute;squeda de materiales disponibles para el p&uacute;blico, pero no cach&eacute;s o archivos de dichos materiales); (f) no acceder&aacute; a las Propiedades de STORYPLACE para crear un sitio web, aplicaci&oacute;n o servicio similar o competitivo; (g) excepto como se indica expresamente en este documento, no se puede copiar, reproducir, distribuir, republicar, descargar, mostrar, o transmitir ninguna parte de cualquier forma o por cualquier medio de las Propiedades de STORYPLACE; y (h) no eliminar&aacute; ni destruir&aacute; ning&uacute;n aviso de derechos de autor u otras marcas de propiedad contenidas en o sobre las Propiedades de STORYPLACE. Cualquier versi&oacute;n, actualizaci&oacute;n u otra adici&oacute;n futura a las Propiedades de STORYPLACE estar&aacute; sujeta al Acuerdo. STORYPLACE, sus proveedores y sus proveedores de servicios se reservan todos los derechos no otorgados en el Acuerdo. Cualquier uso no autorizado de cualquier Propiedad de STORYPLACE pone fin a las licencias concedidas por STORYPLACE de conformidad con el Acuerdo, al tiempo que garantiza que los derechos de indemnizaci&oacute;n que el usuario adeuda a StoryPlace en virtud del presente documento permanezcan vigentes tras la rescisi&oacute;n o el vencimiento de este Acuerdo.</p>
-                                </li>
-                                <li>
-                                    <p>Materiales de terceros. Como parte de las Propiedades de STORYPLACE, es posible que tenga acceso a materiales alojados por terceros. Usted acepta que es imposible que STORYPLACE supervise dichos materiales y que accede a ellos&nbsp;por su cuenta y riesgo.</p>
-                                </li>
-                                <li>
-                                    <p>Registrando su cuenta. Para acceder a determinadas funciones de las Propiedades de STORYPLACE, es posible que deba convertirse en usuario registrado (&laquo;Usuario&raquo; o &laquo;Usuario registrado&raquo;). A los efectos del Acuerdo, un &laquo;Usuario&raquo; o &laquo;Usuario registrado&nbsp;&raquo; es un usuario que ha registrado una cuenta en el sitio web, PRO o la Aplicaci&oacute;n (&laquo;Cuenta&raquo;) o que tiene una cuenta v&aacute;lida en el servicio de redes sociales (&laquo;SNS&raquo;) a trav&eacute;s de la cual el usuario se ha conectado al sitio web o la aplicaci&oacute;n (cada una de esas cuentas, una &laquo;Cuenta de terceros&raquo;).</p>
-                                </li>
-                                <li>
-                                    <p>Acceso a trav&eacute;s de un SNS.&nbsp;Si accede a las Propiedades de STORYPLACE a trav&eacute;s de un SNS como parte de la funcionalidad del Sitio web, la Aplicaci&oacute;n y/o los Servicios, puede vincular su Cuenta con Cuentas de Terceros, permitiendo que STORYPLACE acceda a su Cuenta de Terceros, seg&uacute;n lo permitido en los t&eacute;rminos y condiciones aplicables que rigen el uso de cada Cuenta de Terceros. Usted declara que tiene derecho a divulgar la informaci&oacute;n de inicio de sesi&oacute;n de su Cuenta de terceros a STORYPLACE y/o a conceder a STORYPLACE el acceso a su Cuenta de terceros (lo que incluye, entre otros, para su uso con los fines descritos en este documento) sin infringir ninguno de los t&eacute;rminos y condiciones que rigen el uso de la Cuenta de terceros correspondiente y sin obligar a STORYPLACE a pagar ninguna tarifa ni someter a STORYPLACE a las limitaciones de uso impuestas por dichos proveedores de servicios externos. Al conceder a STORYPLACE el acceso a cualquier Cuenta de Terceros, usted comprende que STORYPLACE puede acceder, poner a disposici&oacute;n y almacenar (si corresponde) cualquier informaci&oacute;n, datos, texto, software, m&uacute;sica, sonido, fotograf&iacute;as, gr&aacute;ficos, v&iacute;deo, mensajes, etiquetas u otros materiales accesibles a trav&eacute;s de las Propiedades de STORYPLACE (conjuntamente, &laquo;Contenido&raquo;) que haya proporcionado y almacenado en su Cuenta de Terceros (&laquo;Contenido de SNS&raquo;) para que est&eacute; disponible en y a trav&eacute;s de las Propiedades de STORYPLACE a trav&eacute;s de su Cuenta. A menos que se especifique lo contrario en el Acuerdo, todo el Contenido de SNS se considerar&aacute; Su contenido a todos los efectos del Acuerdo. Dependiendo de las Cuentas de Terceros que elija y de acuerdo con la configuraci&oacute;n de privacidad que haya establecido en dichas Cuentas de Terceros, la informaci&oacute;n de identificaci&oacute;n personal que publique en sus Cuentas de Terceros puede estar disponible en y a trav&eacute;s de su Cuenta en las Propiedades de STORYPLACE. Tenga en cuenta que, si una Cuenta de Terceros o un servicio asociado deja de estar disponible o si el proveedor de servicios externo cancela el acceso de STORYPLACE a dicha Cuenta de Terceros, el Contenido de SNS dejar&aacute; de estar disponible en y a trav&eacute;s de las Propiedades de STORYPLACE. Puede deshabilitar la conexi&oacute;n entre su cuenta y sus Cuentas de terceros en cualquier momento accediendo a la secci&oacute;n &laquo;Configuraci&oacute;n&raquo; del Sitio web. TENGA EN CUENTA QUE SU RELACI&Oacute;N CON LOS PROVEEDORES DE SERVICIOS EXTERNOS ASOCIADOS A SUS CUENTAS DE TERCEROS SE RIGE &Uacute;NICAMENTE POR SUS ACUERDOS CON DICHOS PROVEEDORES DE SERVICIOS EXTERNOS, Y STORYPLACE SE EXIME DE CUALQUIER RESPONSABILIDAD POR LA INFORMACI&Oacute;N DE IDENTIFICACI&Oacute;N PERSONAL QUE DICHOS PROVEEDORES DE SERVICIOS EXTERNOS LE PUEDAN PROPORCIONAR EN VIOLACI&Oacute;N DE LA CONFIGURACI&Oacute;N DE PRIVACIDAD QUE HAYA ESTABLECIDO EN DICHAS CUENTAS DE TERCEROS. STORYPLACE no hace ning&uacute;n esfuerzo por revisar ning&uacute;n Contenido de SNS para ning&uacute;n prop&oacute;sito, incluidos, entre otros, para comprobar su precisi&oacute;n, legalidad o no infracci&oacute;n, y STORYPLACE no es responsable de ning&uacute;n Contenido de SNS.</p>
-                                </li>
-                                <li>
-                                    <p>Datos de registro. Al registrar una cuenta en el Sitio web, usted se compromete a (a) proporcionar informaci&oacute;n verdadera, precisa, actual y completa sobre usted tal como se indica en el formulario de registro (los &laquo;Datos de Registro&raquo;); y (b) mantener y actualizar de inmediato los Datos de Registro para que sigan siendo verdaderos, precisos, actuales y completos. Usted declara que (l) tiene al menos trece (13) a&ntilde;os; (m) es mayor de edad para celebrar un contrato vinculante; y (n) no es una persona a la que se le proh&iacute;ba utilizar las Propiedades de STORYPLACE en virtud de las leyes de los Estados Unidos, su lugar de residencia o cualquier otra jurisdicci&oacute;n aplicable. Si no tiene la edad legal para celebrar acuerdos vinculantes dentro de la jurisdicci&oacute;n de su domicilio, debe proporcionar un permiso por escrito en su nombre de un tutor o padre autorizado que sea mayor de edad para quedar obligado en virtud de los mismos. Usted es responsable de todas las actividades que se realicen en su Cuenta. Usted acepta que supervisar&aacute; su Cuenta para restringir el uso por parte de menores no autorizados y asumir&aacute; toda la responsabilidad por cualquier uso no autorizado de las Propiedades de STORYPLACE por parte de menores. No puede compartir su Cuenta ni su contrase&ntilde;a con nadie, y se compromete a (y) notificar inmediatamente a STORYPLACE cualquier uso no autorizado de su contrase&ntilde;a o cualquier otra violaci&oacute;n de seguridad; y (z) salir de su Cuenta al final de cada sesi&oacute;n. Si proporciona informaci&oacute;n falsa, inexacta, desactualizada o incompleta, o si STORYPLACE tiene motivos razonables para sospechar que cualquier informaci&oacute;n que proporcione es falsa, inexacta, desactualizada o incompleta, STORYPLACE tiene el derecho de suspender o cancelar su Cuenta y negarle el uso actual o futuro de las Propiedades de STORYPLACE (o cualquier parte de estas). Usted se compromete a no crear una Cuenta utilizando una identidad o informaci&oacute;n falsas, o en nombre de alguien que no sea usted mismo. Usted acepta que no tendr&aacute; m&aacute;s de una cuenta por plataforma o SNS en un momento dado. STORYPLACE se reserva el derecho de eliminar o reclamar cualquier nombre de usuario en cualquier momento y por cualquier motivo, incluidas, entre otras, las afirmaciones de un tercero en el sentido de que un nombre de usuario infringe los derechos del tercero. Acepta no crear una cuenta ni utilizar las Propiedades de STORYPLACE si STORYPLACE lo ha eliminado anteriormente o si anteriormente se le ha prohibido el acceso a alguna de las Propiedades de STORYPLACE.</p>
-                                </li>
-                                <li>
-                                    <p>Su cuenta. Sin perjuicio de lo establecido en el presente que indique lo contrario, usted reconoce y acepta que no tendr&aacute; ning&uacute;n derecho de propiedad sobre su Cuenta, y adem&aacute;s reconoce y acepta que todos los derechos sobre su Cuenta son y ser&aacute;n para siempre propiedad y redundar&aacute;n en beneficio de STORYPLACE. STORYPLACE se reserva el derecho de cancelar su Cuenta si ha estado inactiva (es decir, si no ha iniciado sesi&oacute;n en su Cuenta) durante ciento ochenta (180) d&iacute;as y, en tal caso, no tendr&aacute; derecho a ninguna contraprestaci&oacute;n por dicha cancelaci&oacute;n.</p>
-                                </li>
-                                <li>
-                                    <p>Equipo y software necesarios. Debe proporcionar todo el equipo y el software necesarios para conectarse a las Propiedades de STORYPLACE, incluido, entre otros, un dispositivo m&oacute;vil que sea adecuado para conectarse y utilizar las Propiedades de STORYPLACE, en los casos en que los Servicios ofrezcan un componente m&oacute;vil. Usted es el &uacute;nico responsable de las tarifas, incluidas las tarifas de conexi&oacute;n a Internet o de telefon&iacute;a m&oacute;vil, en las que incurra al acceder a las Propiedades de STORYPLACE. Al proporcionar su n&uacute;mero de tel&eacute;fono m&oacute;vil y utilizar los Servicios, usted acepta afirmativamente que usemos su n&uacute;mero de tel&eacute;fono m&oacute;vil para llamadas y mensajes de texto con el fin de prestar y mejorar los Servicios. STORYPLACE no evaluar&aacute; ni cobrar&aacute; ninguna llamada o mensaje de texto, pero es posible que se apliquen cargos por mensajes est&aacute;ndar u otros cargos de su operador de telefon&iacute;a m&oacute;vil. Puede optar por no recibir nuestros mensajes de texto en su cuenta.</p>
-                                </li>
-                            </ol>
+                            <strong>Términos de la licencia.</strong>
                         </li>
+                        <ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Licencia de aplicación</strong>
+                                </span>
+                                <strong>. Sujeto al cumplimiento del Acuerdo, STORYPLACE le concede una licencia limitada, no exclusiva, intransferible, no sublicenciable y revocable para descargar, instalar y utilizar una copia de la Aplicación en un único dispositivo móvil u ordenador que posea o controle, y para ejecutar dicha copia de la Aplicación únicamente para sus fines personales o internos. Además, con respecto a cualquier aplicación a la que se acceda a través de la Tienda de Aplicaciones de Apple o se descargue de ella (una «Aplicación obtenida de la Tienda de Aplicaciones»), solo utilizará la aplicación con origen en la Tienda de Aplicaciones (a) en un producto de la marca Apple que ejecute iOS (el sistema operativo propietario de Apple) y (b) según lo permitan las «Reglas de uso» establecidas en los Términos de servicio de la Tienda de Aplicaciones de Apple. Sin perjuicio de lo dispuesto en la primera frase de esta sección, con respecto a cualquier acceso a la Aplicación a través de la tienda de Google Play o descargada de ella (una «Aplicación obtenida de Google Play»), es posible que tenga derechos de licencia adicionales con respecto al uso de la Aplicación de forma compartida dentro del grupo familiar designado.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Actualizaciones</strong>
+                                </span>
+                                <strong>. Usted entiende que las Propiedades de STORYPLACE están evolucionando. En consecuencia, STORYPLACE puede exigirle que acepte las actualizaciones de las Propiedades de STORYPLACE que haya instalado en su ordenador o dispositivo móvil. Usted reconoce y acepta que STORYPLACE puede actualizar las Propiedades de STORYPLACE con o sin notificación previa. Es posible que deba actualizar el software de terceros de vez en cuando para poder utilizar las Propiedades de STORYPLACE.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Ciertas restricciones</strong>
+                                </span>
+                                <strong>. Los derechos que se le otorgan en el Acuerdo están sujetos a las siguientes restricciones: (a) no podrá licenciar, vender, alquilar, arrendar, transferir, reproducir, distribuir, alojar ni explotar comercialmente de ningún otro modo las Propiedades de STORYPLACE ni ninguna parte de las Propiedades de STORYPLACE, incluido el Sitio web, (b) no enmarcará ni utilizará técnicas de encuadre para incluir ninguna marca comercial, logotipo u otras Propiedades de STORYPLACE (incluidas imágenes, texto, diseño de página o formulario) de STORYPLACE; (c) no utilizará ninguna metaetiqueta u otro «texto oculto» con el nombre o marcas comerciales de STORYPLACE; (d) no modificará, traducirá, adaptará, fusionará, realizará trabajos derivados, desensamblará, descompilará, compilará de forma inversa ni aplicará ingeniería inversa a ninguna parte de las Propiedades de STORYPLACE, excepto en la medida en que las restricciones anteriores estén expresamente prohibidas por la ley aplicable; (e) no utilizará ningún software, dispositivo u otro proceso manual o automatizado (incluidos, entre otros, arañas, robots, scrapers, rastreadores, avatares, herramientas de minería de datos o similares) para «extraer» o descargar datos de cualquier página web contenida en el sitio web (con la salvedad de que concedemos a los operadores de motores de búsqueda públicos permiso revocable para utilizar arañas que copien materiales del Sitio web con el único fin de crear índices de búsqueda de materiales disponibles para el público, pero no cachés o archivos de dichos materiales); (f) no accederá a las Propiedades de STORYPLACE para crear un sitio web, aplicación o servicio similar o competitivo; (g) excepto como se indica expresamente en este documento, no se puede copiar, reproducir, distribuir, republicar, descargar, mostrar, o transmitir ninguna parte de cualquier forma o por cualquier medio de las Propiedades de STORYPLACE; y (h) no eliminará ni destruirá ningún aviso de derechos de autor u otras marcas de propiedad contenidas en o sobre las Propiedades de STORYPLACE. Cualquier versión, actualización u otra adición futura a las Propiedades de STORYPLACE estará sujeta al Acuerdo. STORYPLACE, sus proveedores y prestadores de servicios se reservan todos los derechos no otorgados en el Acuerdo. Cualquier uso no autorizado de cualquier Propiedad de STORYPLACE pone fin a las licencias concedidas por STORYPLACE de conformidad con el Acuerdo, al tiempo que garantiza que los derechos de indemnización que el usuario adeuda a StoryPlace en virtud del presente documento permanezcan vigentes tras la terminación o el vencimiento de este Acuerdo.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Materiales de terceros</strong>
+                                </span>
+                                <strong>. Como parte de las Propiedades de STORYPLACE, es posible que tenga acceso a materiales alojados por terceros. Usted acepta que es imposible que STORYPLACE supervise dichos materiales y que accede a ellos
+                                </strong>
+                                <strong>por su cuenta y riesgo</strong>
+                                <strong>.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Registrando su cuenta</strong>
+                                </span>
+                                <strong>. Para acceder a determinadas funciones de las Propiedades de STORYPLACE, es posible que deba convertirse en Usuario Registrado («Usuario» o «Usuario Registrado»). A los efectos del Acuerdo, un «Usuario» o «Usuario Registrado»</strong>
+                                <strong>
+                                    es un usuario que ha registrado una cuenta en el sitio web, PRO o la Aplicación («Cuenta») o que tiene una cuenta válida en el servicio de redes sociales («SNS») a través de la cual el usuario se ha conectado al sitio web o la aplicación (cada una de esas cuentas, una «Cuenta de Terceros»).</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Acceso a través de un SNS.</strong>
+                                </span>
+                                <strong>
+                                    Si accede a las Propiedades de STORYPLACE a través de un SNS como parte de la funcionalidad del Sitio web, la Aplicación y/o los Servicios, puede vincular su Cuenta con Cuentas de Terceros, permitiendo que STORYPLACE acceda a su Cuenta de Terceros, según lo permitido en los términos y condiciones aplicables que rigen el uso de cada Cuenta de Terceros. Usted declara que tiene derecho a divulgar la información de inicio de sesión de su Cuenta de Terceros a STORYPLACE y/o a conceder a STORYPLACE el acceso a su Cuenta de Terceros (lo que incluye, entre otros, para su uso con los fines descritos en este documento) sin infringir ninguno de los términos y condiciones que rigen el uso de la Cuenta de Terceros correspondiente y sin obligar a STORYPLACE a pagar ninguna tarifa ni someter a STORYPLACE a las limitaciones de uso impuestas por dichos proveedores de servicios externos. Al conceder a STORYPLACE el acceso a cualquier Cuenta de Terceros, usted comprende que STORYPLACE puede acceder, poner a disposición y almacenar (si corresponde) cualquier información, datos, texto, software, música, sonido, fotografías, gráficos, vídeo, mensajes, etiquetas u otros materiales accesibles a través de las Propiedades de STORYPLACE (conjuntamente, «Contenido») que haya proporcionado y almacenado en su Cuenta de Terceros («Contenido de SNS») para que esté disponible en y a través de las Propiedades de STORYPLACE a través de su Cuenta. A menos que se especifique lo contrario en el Acuerdo, todo el Contenido de SNS se considerará Su Contenido a todos los efectos del Acuerdo. Dependiendo de las Cuentas de Terceros que elija y de acuerdo con la configuración de privacidad que haya establecido en dichas Cuentas de Terceros, la información de identificación personal que publique en sus Cuentas de Terceros puede estar disponible en y a través de su Cuenta en las Propiedades de STORYPLACE. Tenga en cuenta que, si una Cuenta de Terceros o un servicio asociado deja de estar disponible o si el proveedor de servicios externo cancela el acceso de STORYPLACE a dicha Cuenta de Terceros, el Contenido de SNS dejará de estar disponible en y a través de las Propiedades de STORYPLACE. Puede deshabilitar la conexión entre su cuenta y sus Cuentas de Terceros en cualquier momento accediendo a la sección «Configuración» del Sitio web. TENGA EN CUENTA QUE SU RELACIÓN CON LOS PROVEEDORES DE SERVICIOS EXTERNOS ASOCIADOS A SUS CUENTAS DE TERCEROS SE RIGE ÚNICAMENTE POR SUS ACUERDOS CON DICHOS PROVEEDORES DE SERVICIOS EXTERNOS, Y STORYPLACE SE EXIME DE CUALQUIER RESPONSABILIDAD POR LA INFORMACIÓN DE IDENTIFICACIÓN PERSONAL QUE DICHOS PROVEEDORES DE SERVICIOS EXTERNOS LE PUEDAN PROPORCIONAR EN VIOLACIÓN DE LA CONFIGURACIÓN DE PRIVACIDAD QUE HAYA ESTABLECIDO EN DICHAS CUENTAS DE TERCEROS. STORYPLACE no hace ningún esfuerzo por revisar ningún Contenido de SNS para ningún propósito, incluidos, entre otros, para comprobar su precisión, legalidad o no infracción, y STORYPLACE no es responsable de ningún Contenido de SNS.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Datos de registro</strong>
+                                </span>
+                                <strong>. Al registrar una cuenta en el Sitio web, usted se compromete a (a) proporcionar información verdadera, precisa, actual y completa sobre usted tal como se indica en el formulario de registro (los «Datos de Registro»); y (b) mantener y actualizar de inmediato los Datos de Registro para que sigan siendo verdaderos, precisos, actuales y completos. Usted declara que (l) tiene al menos trece (13) años; (m) es mayor de edad para celebrar un contrato vinculante; y (n) no es una persona a la que se le prohíba utilizar las Propiedades de STORYPLACE en virtud de las leyes de los Estados Unidos, su lugar de residencia o cualquier otra jurisdicción aplicable. Si no tiene la edad legal para celebrar acuerdos vinculantes dentro de la jurisdicción de su domicilio, debe proporcionar un permiso por escrito en su nombre de un tutor o padre autorizado que sea mayor de edad para quedar obligado en virtud de estos. Usted es responsable de todas las actividades que se realicen en su Cuenta. Usted acepta que supervisará su Cuenta para restringir el uso por parte de menores no autorizados y asumirá toda la responsabilidad por cualquier uso no autorizado de las Propiedades de STORYPLACE por parte de menores. No puede compartir su Cuenta ni su contraseña con nadie, y se compromete a (y) notificar inmediatamente a STORYPLACE cualquier uso no autorizado de su contraseña o cualquier otra violación de seguridad; y (z) salir de su Cuenta al final de cada sesión. Si proporciona información falsa, inexacta, desactualizada o incompleta, o si STORYPLACE tiene motivos razonables para sospechar que cualquier información que proporcione es falsa, inexacta, desactualizada o incompleta, STORYPLACE tiene el derecho de suspender o cancelar su Cuenta y negarle el uso actual o futuro de las Propiedades de STORYPLACE (o cualquier parte de estas). Usted se compromete a no crear una Cuenta utilizando una identidad o información falsas, o en nombre de alguien que no sea usted mismo. Usted acepta que no tendrá más de una cuenta por plataforma o SNS en un momento dado. STORYPLACE se reserva el derecho de eliminar o reclamar cualquier nombre de usuario en cualquier momento y por cualquier motivo, incluidas, entre otras, las afirmaciones de un tercero en el sentido de que un nombre de usuario infringe los derechos del tercero. Acepta no crear una cuenta ni utilizar las Propiedades de STORYPLACE si STORYPLACE lo ha eliminado antes o si anteriormente se le ha prohibido el acceso a alguna de las Propiedades de STORYPLACE.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Su cuenta</strong>
+                                </span>
+                                <strong>. Sin perjuicio de lo establecido en el presente que indique lo contrario, usted reconoce y acepta que no tendrá ningún derecho de propiedad sobre su Cuenta, y además reconoce y acepta que todos los derechos sobre su Cuenta son y serán para siempre propiedad y redundarán en beneficio de STORYPLACE. STORYPLACE se reserva el derecho de cancelar su Cuenta si ha estado inactiva (es decir, si no ha iniciado sesión en su Cuenta) durante ciento ochenta (180) días y, en tal caso, no tendrá derecho a ninguna contraprestación por dicha cancelación.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Equipo y software necesarios</strong>
+                                </span>
+                                <strong>. Usted debe proporcionar todo el equipo y el software necesarios para conectarse a las Propiedades de STORYPLACE, incluido, entre otros, un dispositivo móvil que sea adecuado para conectarse y utilizar las Propiedades de STORYPLACE, en los casos en que los Servicios ofrezcan un componente móvil. Usted es el único responsable de las tarifas, incluidas las tarifas de conexión a Internet o de telefonía móvil, en las que incurra al acceder a las Propiedades de STORYPLACE. Al proporcionar su número de teléfono móvil y utilizar los Servicios, usted acepta afirmativamente que usemos su número de teléfono móvil para llamadas y mensajes de texto con el fin de prestar y mejorar los Servicios. STORYPLACE no evaluará ni cobrará ninguna llamada o mensaje de texto, pero es posible que se apliquen cargos por mensajes estándar u otros cargos de su operador de telefonía móvil. Puede optar por no recibir nuestros mensajes de texto en su cuenta.</strong>
+                            </li>
+                        </ol>
                     </ol>
-                    <p><br /></p>
-                    <ol start={2}>
-                        <li>
-                            <p>Responsabilidad por el contenido.</p>
-                        </li>
-                    </ol>
-                    <p><br /></p>
                     <ol>
                         <li>
-                            <p>Tipos de contenido. Usted reconoce que todo el Contenido, incluidas las Propiedades de STORYPLACE, es responsabilidad exclusiva de la parte que origin&oacute; dicho Contenido. Esto significa que usted, y no STORYPLACE, es totalmente responsable de todo el Contenido que cargue, publique, env&iacute;e por correo electr&oacute;nico, transmita o ponga a disposici&oacute;n de otro modo (&laquo;Poner a disposici&oacute;n&raquo;) a trav&eacute;s de las Propiedades de STORYPLACE (&laquo;Su contenido&raquo;), y que usted y otros Usuarios registrados de las Propiedades de STORYPLACE, y no STORYPLACE, son igualmente responsables de todo el Contenido que usted y ellos Pongan a disposici&oacute;n a trav&eacute;s de las Propiedades de STORYPLACE (&laquo;Contenido del usuario&raquo;).&nbsp;</p>
-                        </li>
-                        <li>
-                            <p>Ausencia de obligaci&oacute;n de preevaluar contenido.&nbsp;Usted reconoce que STORYPLACE no tiene la obligaci&oacute;n de preevaluar el Contenido (incluido, entre otros, el Contenido del usuario), aunque STORYPLACE se reserva el derecho, a su entera y absoluta discreci&oacute;n, de preevaluar, rechazar o eliminar cualquier Contenido. Al celebrar el Acuerdo, usted da su consentimiento irrevocable a dicha supervisi&oacute;n. Usted reconoce y acepta que no tiene expectativas de privacidad en relaci&oacute;n con la transmisi&oacute;n de Su contenido, incluidas, entre otras, las comunicaciones por chat, texto o voz. En caso de que STORYPLACE preeval&uacute;e, rechace o elimine cualquier Contenido, usted reconoce que STORYPLACE lo har&aacute; en beneficio de STORYPLACE, no en el suyo. Sin perjuicio de lo anterior, STORYPLACE tendr&aacute; el derecho de eliminar cualquier Contenido que infrinja el Acuerdo o que sea objetable por alg&uacute;n otro motivo.</p>
-                        </li>
-                        <li>
-                            <p>Almacenamiento. A menos que STORYPLACE lo acuerde expresamente por escrito en otro lugar, STORYPLACE no tiene la obligaci&oacute;n de almacenar ninguno de Su contenido que usted Ponga a disposici&oacute;n en las Propiedades de STORYPLACE. STORYPLACE no asume ninguna responsabilidad por la eliminaci&oacute;n o precisi&oacute;n de ning&uacute;n Contenido, incluido Su contenido; por no almacenar, transmitir o recibir la transmisi&oacute;n del Contenido; ni por la seguridad, la privacidad, el almacenamiento o la transmisi&oacute;n de otras comunicaciones que se originen o impliquen el uso de las Propiedades de STORYPLACE. Ciertos Servicios pueden permitirle especificar el nivel en el que dichos Servicios restringen el acceso a Su contenido. Usted es el &uacute;nico responsable de aplicar el nivel de acceso adecuado a Su contenido, si lo hubiera. Si no lo elige, es posible que el sistema utilice de forma predeterminada su configuraci&oacute;n m&aacute;s permisiva. Usted acepta que STORYPLACE se reserva el derecho de establecer l&iacute;mites razonables al uso y almacenamiento del Contenido por parte de STORYPLACE, incluido Su contenido, como l&iacute;mites en cuanto al tama&ntilde;o del archivo, el espacio de almacenamiento, la capacidad de procesamiento y los l&iacute;mites similares descritos en el Sitio web y seg&uacute;n lo determine STORYPLACE a su entera discreci&oacute;n.</p>
-                        </li>
-                        <li>
-                            <p>Propiedades de STORYPLACE.&nbsp;Excepto en lo que respecta a Su contenido y el Contenido del usuario, usted acepta que STORYPLACE y sus proveedores son propietarios de todos los derechos, t&iacute;tulos e intereses sobre las Propiedades de STORYPLACE, incluidos, entre otros, el software operativo de StoryPlace, el mapa y los contenidos de estos. Usted no eliminar&aacute;, alterar&aacute; ni ocultar&aacute; ning&uacute;n aviso de derechos de autor, marca comercial, marca de servicio u otros avisos de derechos de propiedad incorporados o adjuntos a las Propiedades de STORYPLACE.</p>
-                        </li>
-                        <li>
-                            <p>Marcas comerciales. El nombre de STORYPLACE y todos los gr&aacute;ficos, logotipos, marcas de servicio y nombres comerciales relacionados que se utilicen en o en relaci&oacute;n con cualquier Propiedad de STORYPLACE o en relaci&oacute;n con los Servicios son marcas comerciales de STORYPLACE y no se pueden utilizar sin permiso en relaci&oacute;n con usted, sus productos y/o servicios ni con los productos y/o servicios de terceros. Otras marcas comerciales, marcas de servicio y nombres comerciales que puedan aparecer en las Propiedades de STORYPLACE son propiedad de sus respectivos due&ntilde;os.</p>
-                        </li>
-                        <li>
-                            <p>Otro contenido. Salvo en lo que respecta a Su contenido, usted acepta que no tiene ning&uacute;n derecho, t&iacute;tulo o inter&eacute;s sobre ning&uacute;n contenido que aparezca en o sobre las Propiedades de STORYPLACE.</p>
-                        </li>
-                        <li>
-                            <p>Su contenido. STORYPLACE no reclama la propiedad de Su contenido. Sin embargo, cuando usted, como Usuario registrado, env&iacute;e o publique Su contenido en o dentro de las Propiedades de STORYPLACE, usted declara que posee o tiene un derecho libre de regal&iacute;as, perpetuo, irrevocable, mundial y no exclusivo (incluidos los derechos morales) y una licencia para usar, licenciar, reproducir, modificar, publicar, traducir, crear obras derivadas, distribuir, obtener ingresos u otra remuneraci&oacute;n, y comunicarlo al p&uacute;blico, reproducir y mostrar Su contenido (en total o parcialmente) en todo el mundo y/o para incorporarlo a sus otras obras en cualquier forma, medio o tecnolog&iacute;a ahora conocida o desarrollada posteriormente, durante toda la vigencia de cualquier derecho de propiedad intelectual mundial que pueda existir en Su contenido.&nbsp;</p>
-                        </li>
-                        <li>
-                            <p>Licencia para su contenido. Sujeto a cualquier configuraci&oacute;n de cuenta aplicable que seleccione, usted otorga a STORYPLACE un derecho totalmente pagado, libre de regal&iacute;as, perpetuo, irrevocable, mundial, libre de regal&iacute;as, no exclusivo y totalmente sublicenciable (incluido cualquier derecho moral) y una licencia para usar, licenciar, distribuir, reproducir, modificar, adaptar, presentar p&uacute;blicamente y mostrar p&uacute;blicamente Su contenido (en su totalidad o en parte) con el fin de operar el negocio de STORYPLACE. Recuerde que otros usuarios pueden buscar, ver, usar, modificar y reproducir cualquier contenido suyo que usted env&iacute;e a cualquier &aacute;rea &laquo;p&uacute;blica&raquo; de las Propiedades de STORYPLACE. Usted garantiza que el titular de cualquier derecho de propiedad intelectual mundial, incluidos los derechos morales, en Su contenido, le ha otorgado una licencia irrevocable para su uso para permitirle conceder la licencia indicada anteriormente, o ha renunciado total y efectivamente a todos esos derechos y le ha otorgado de manera v&aacute;lida e irrevocable el derecho a conceder la licencia indicada anteriormente. Usted acepta que usted, y no STORYPLACE, es responsable de todo Su contenido que Ponga a disposici&oacute;n en o dentro de las Propiedades de STORYPLACE. Sujeto a la configuraci&oacute;n de cuenta aplicable que seleccione, usted otorga a STORYPLACE un derecho totalmente pagado, libre de regal&iacute;as, perpetuo, irrevocable, mundial, libre de regal&iacute;as, no exclusivo y totalmente sublicenciable (incluido cualquier derecho moral) y una licencia para usar, licenciar, distribuir, reproducir, modificar, adaptar, presentar p&uacute;blicamente y mostrar p&uacute;blicamente Su contenido (total o parcialmente, incluidos sus derechos derivados, afines, complementarios y conexos) para los prop&oacute;sitos de operar el negocio de STORYPLACE. Para&nbsp;evitar dudas, STORYPLACE se dedica actualmente a fomentar el intercambio global de historias y, con ello, conectar a los narradores y a los Creadores&nbsp;de contenido. Si posteriormente STORYPLACE entra en el negocio de producir obras audiovisuales basadas en alguno de Sus contenidos, solo lo har&aacute; con su permiso expreso. Recuerde que otros usuarios pueden buscar, ver, usar, modificar y reproducir cualquier contenido suyo que usted env&iacute;e a cualquier &aacute;rea &laquo;p&uacute;blica&raquo; de las Propiedades de STORYPLACE.&nbsp;</p>
-                        </li>
-                        <li>
-                            <p>Nombre de usuario. Sin perjuicio de lo dispuesto en este documento que indique lo contrario, al enviar Su contenido a cualquier foro, comentario o cualquier otra &aacute;rea de las Propiedades de STORYPLACE, usted permite expresamente que STORYPLACE lo identifique mediante su nombre de usuario (que puede ser un seud&oacute;nimo) como autor de Su contenido en cualquier publicaci&oacute;n de cualquier forma, medio o tecnolog&iacute;a actualmente conocido o desarrollado posteriormente en relaci&oacute;n con Su contenido.</p>
-                        </li>
-                        <li>
-                            <p>Su perfil. Cualquier Contenido que publique en su perfil no podr&aacute; contener desnudos, violencia, contenido sexualmente expl&iacute;cito u ofensivo, seg&uacute;n lo determine STORYPLACE a su entera y absoluta discreci&oacute;n. No puede publicar ni enviar a los servicios de impresi&oacute;n una fotograf&iacute;a de o hecha por otra persona sin el permiso de esa persona.</p>
-                        </li>
-                        <li>
-                            <p>Comentarios. Usted acepta que el env&iacute;o de cualquier idea, sugerencia, documento o propuesta a STORYPLACE a trav&eacute;s de sus p&aacute;ginas de sugerencias, comentarios, wiki, foro o similares (&laquo;Comentarios&raquo;) es bajo su propio riesgo y que STORYPLACE no tiene ninguna obligaci&oacute;n (incluidas, entre otras, las obligaciones de confidencialidad) con respecto a dichos Comentarios. Usted declara y garantiza que tiene todos los derechos necesarios para enviar los Comentarios. Por la presente, usted otorga a STORYPLACE un derecho y una licencia totalmente pagados, libres de regal&iacute;as, perpetuos, irrevocables, mundiales, no exclusivos y totalmente sublicenciables para utilizar, reproducir, ejecutar, mostrar, distribuir, adaptar, modificar, reformatear, crear obras derivadas y explotar comercialmente o no comercialmente de cualquier manera, todos y cada uno de los Comentarios, y para sublicenciar los derechos anteriores, en relaci&oacute;n con el funcionamiento y mantenimiento de las Propiedades de STORYPLACE y/o el negocio de STORYPLACE.</p>
-                        </li>
-                        <li>
-                            <p>Trampas y pirater&iacute;a.&nbsp;Usted se compromete a no hacer lo siguiente en ning&uacute;n momento y bajo ninguna circunstancia:</p>
-                            <ol>
-                                <li>
-                                    <p>Utilizar trampas, exploits, software de automatizaci&oacute;n, bots, hacks, mods o cualquier software no autorizado dise&ntilde;ado para modificar o interferir con cualquier Propiedad de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Interferir o da&ntilde;ar las Propiedades de STORYPLACE, lo que incluye, entre otros, mediante el uso de virus, bots de cancelaci&oacute;n, troyanos, c&oacute;digos da&ntilde;inos, flood pings, ataques de denegaci&oacute;n de servicio, suplantaci&oacute;n de paquetes o IP, informaci&oacute;n de enrutamiento o direcci&oacute;n de correo electr&oacute;nico falsificada o m&eacute;todos o tecnolog&iacute;as similares;</p>
-                                </li>
-                                <li>
-                                    <p>Modificar o hacer que se modifique cualquier archivo que forme parte de las Propiedades de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Interrumpir, sobrecargar o ayudar o contribuir a la interrupci&oacute;n o sobrecarga de: (i) cualquier computadora o servidor utilizado para ofrecer o respaldar las Propiedades de STORYPLACE; o (ii) el disfrute de las Propiedades de STORYPLACE por parte de cualquier otra persona;</p>
-                                </li>
-                                <li>
-                                    <p>Instituir, ayudar o participar en cualquier tipo de ataque, incluidos, entre otros, la distribuci&oacute;n de un virus, los ataques de denegaci&oacute;n de servicio a las Propiedades de STORYPLACE u otros intentos de interrumpir el uso o disfrute de las Propiedades de STORYPLACE por parte de cualquier otra persona;</p>
-                                </li>
-                                <li>
-                                    <p>Intentar obtener acceso no autorizado a las Propiedades de STORYPLACE, a las cuentas registradas a nombre de otros o a las computadoras, servidores o redes conectados a las Propiedades de STORYPLACE por cualquier medio que no sea la interfaz de usuario proporcionada por STORYPLACE, lo que incluye, entre otros, eludiendo o modificando, intentando eludir o modificar, o alentando o ayudando a cualquier otra persona a eludir o modificar, cualquier seguridad, tecnolog&iacute;a, dispositivo o software que forme parte de las Propiedades de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Acceder, manipular o utilizar &aacute;reas no p&uacute;blicas de las Propiedades de STORYPLACE, los sistemas inform&aacute;ticos de STORYPLACE, la propiedad intelectual de STORYPLACE o los sistemas de entrega t&eacute;cnica de los proveedores de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Intentar investigar, escanear o probar la vulnerabilidad de cualquier sistema o red de STORYPLACE (incluidas sus empresas matrices, subsidiarias y afiliadas, lo que se aplicar&aacute; a lo largo del presente Acuerdo cuando se haga referencia a STORYPLACE), o infringir cualquier medida de seguridad o autenticaci&oacute;n;</p>
-                                </li>
-                                <li>
-                                    <p>Interrumpir o interferir con la seguridad de las propiedades, los sistemas, los recursos, las cuentas, las contrase&ntilde;as, los servidores o las redes de STORYPLACE conectados o accesibles a trav&eacute;s de las Propiedades de STORYPLACE o cualquier sitio afiliado o enlazado; o</p>
-                                </li>
-                                <li>
-                                    <p>Evitar, omitir, eliminar, desactivar, copiar, codificar, deteriorar, descodificar o eludir de otro modo cualquier medida tecnol&oacute;gica implementada por STORYPLACE o cualquiera de los proveedores de STORYPLACE o cualquier otro tercero (incluido otro Usuario registrado) para proteger las Propiedades de STORYPLACE.</p>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>Actividades comerciales. Usted acepta que, bajo ninguna circunstancia (excepto en la medida en que lo autorice expresamente el Acuerdo):</p>
-                            <ol>
-                                <li>
-                                    <p>Reproducir&aacute;, duplicar&aacute;, copiar&aacute;, vender&aacute;, intercambiar&aacute;, revender&aacute; o explotar&aacute; con cualquier fin comercial cualquier parte de las Propiedades de STORYPLACE (incluida su Cuenta), o el acceso o uso de las Propiedades de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Cargar&aacute;, publicar&aacute;, enviar&aacute; por correo electr&oacute;nico, transmitir&aacute; o pondr&aacute; a disposici&oacute;n de cualquier otra forma cualquier otra forma de publicidad no solicitada o no autorizada, material promocional, &laquo;correo basura&raquo;, &laquo;spam&raquo;, &laquo;cartas en cadena&raquo;, &laquo;esquemas piramidales&raquo; o cualquier otra forma de solicitud en relaci&oacute;n con cualquier propiedad de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Utilizar&aacute; las Propiedades de STORYPLACE o cualquier parte de las mismas para cualquier prop&oacute;sito comercial, lo que incluye, entre otros, comunicar o facilitar cualquier anuncio o solicitud comercial;</p>
-                                </li>
-                                <li>
-                                    <p>Participar&aacute; en cualquier cadena de cartas, concursos, correo basura, esquemas piramidales, spam, encuestas u otros mensajes duplicados o no solicitados (comerciales o de otro tipo) en relaci&oacute;n con las Propiedades de STORYPLACE; o</p>
-                                </li>
-                                <li>
-                                    <p>Comercializar&aacute; cualquier producto o servicio para cualquier prop&oacute;sito comercial en o en relaci&oacute;n con cualquiera de las Propiedades de STORYPLACE.</p>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>Uso o acceso no autorizados. Usted se compromete a no realizar, bajo ninguna circunstancia, lo siguiente:</p>
-                            <ol>
-                                <li>
-                                    <p>Interferir o intentar interferir con el correcto funcionamiento de las Propiedades de STORYPLACE o conectarse o utilizar las Propiedades de STORYPLACE de cualquier forma que no est&eacute; expresamente permitida por el Acuerdo;</p>
-                                </li>
-                                <li>
-                                    <p>Recuperar sistem&aacute;ticamente datos u otro contenido de las Propiedades de STORYPLACE para crear o compilar, directa o indirectamente, en descargas &uacute;nicas o m&uacute;ltiples, una colecci&oacute;n, una compilaci&oacute;n, una base de datos, un directorio o similar, ya sea mediante m&eacute;todos manuales o mediante el uso de bots, rastreadores, ara&ntilde;as o de otro modo;</p>
-                                </li>
-                                <li>
-                                    <p>Utilizar, exponer, replicar o encuadrar las Propiedades de STORYPLACE o cualquier elemento individual de las Propiedades de STORYPLACE, el nombre de STORYPLACE, cualquier marca comercial, logotipo u otra informaci&oacute;n de propiedad de STORYPLACE, la propiedad intelectual o el dise&ntilde;o de cualquier p&aacute;gina o formulario contenido en una p&aacute;gina, sin el consentimiento expreso por escrito de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Utilizar cualquier software no autorizado que acceda, intercepte, &laquo;mine&raquo; o recopile informaci&oacute;n de o a trav&eacute;s de las Propiedades de STORYPLACE o que est&eacute; en tr&aacute;nsito desde o hacia las Propiedades de STORYPLACE, incluido, entre otros, cualquier software que lea &aacute;reas de RAM o flujos de tr&aacute;fico de red utilizados por las Propiedades de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Interceptar, examinar u observar de otro modo cualquier protocolo de comunicaciones propietario utilizado por un cliente, un servidor o las Propiedades de STORYPLACE, ya sea mediante el uso de un analizador de redes, un rastreador de paquetes u otro dispositivo;</p>
-                                </li>
-                                <li>
-                                    <p>Hacer un uso automatizado de las Propiedades de STORYPLACE o tomar cualquier medida que imponga o pueda imponer (a la entera y absoluta discreci&oacute;n de STORYPLACE) una carga irrazonable o desproporcionadamente grande en la infraestructura de las Propiedades de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Eludir los encabezados de exclusi&oacute;n de robots u otras medidas que STORYPLACE tome para restringir el acceso a las Propiedades de STORYPLACE, o utilizar cualquier software, tecnolog&iacute;a o dispositivo para enviar contenido o mensajes, extraer, ara&ntilde;ar o rastrear las Propiedades de STORYPLACE, o recopilar o manipular datos;</p>
-                                </li>
-                                <li>
-                                    <p>Utilizar, facilitar, crear o mantener cualquier conexi&oacute;n no autorizada a las Propiedades de STORYPLACE, lo que incluye, entre otros: (i) cualquier conexi&oacute;n a un servidor no autorizado que emule o intente emular cualquier parte de las Propiedades de STORYPLACE; o (ii) cualquier conexi&oacute;n que utilice programas, herramientas o software no aprobados expresamente (por escrito) por STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Realizar ingenier&iacute;a inversa, descompilar, desensamblar, descifrar o intentar obtener de cualquier otro modo el c&oacute;digo fuente de cualquier software subyacente u otra propiedad intelectual utilizada para proporcionar las Propiedades de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Falsificar los encabezados o manipular de otro modo los identificadores para ocultar el origen de cualquier contenido transmitido a trav&eacute;s de las Propiedades de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Cargar, publicar, enviar por correo electr&oacute;nico, transmitir o poner a disposici&oacute;n de otro modo cualquier material que contenga virus de software o cualquier otro c&oacute;digo, archivo o programa inform&aacute;tico dise&ntilde;ado para interrumpir, destruir o limitar la funcionalidad de cualquier software o hardware de computadora o equipo de telecomunicaciones;</p>
-                                </li>
-                                <li>
-                                    <p>Solicitar o intentar solicitar informaci&oacute;n personal de otros usuarios registrados de las Propiedades de STORYPLACE;</p>
-                                </li>
-                                <li>
-                                    <p>Utilizar las Propiedades de STORYPLACE para recoger, recopilar, transmitir, distribuir, publicar o enviar cualquier informaci&oacute;n relativa a cualquier otra persona o entidad, incluyendo, sin limitaci&oacute;n, fotograf&iacute;as de otras personas sin su permiso, informaci&oacute;n de contacto personal o n&uacute;meros de cr&eacute;dito, d&eacute;bito, tarjeta telef&oacute;nica, tarjeta de cr&eacute;dito u otros n&uacute;meros de cuenta;</p>
-                                </li>
-                                <li>
-                                    <p>Falsificar cualquier encabezado de paquete TCP/IP o cualquier parte de la informaci&oacute;n del encabezado de cualquier publicaci&oacute;n de correo electr&oacute;nico o grupo de noticias, o utilizar de alguna manera las Propiedades de STORYPLACE para enviar informaci&oacute;n de identificaci&oacute;n de la fuente alterada, enga&ntilde;osa o falsa; o</p>
-                                </li>
-                                <li>
-                                    <p>Cargar o transmitir (o intentar cargar o transmitir) cualquier material que act&uacute;e como un mecanismo pasivo o activo de recopilaci&oacute;n o transmisi&oacute;n de informaci&oacute;n, incluidos, entre otros, GIF transparentes, p&iacute;xeles 1x1, web bugs, cookies u otros dispositivos similares (a veces denominados &laquo;spyware&raquo;, &laquo;mecanismos de recopilaci&oacute;n pasiva&raquo; o &laquo;pcms&raquo;).</p>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>General. En relaci&oacute;n con el uso de las Propiedades de STORYPLACE, no deber&aacute;:</p>
-                            <ol>
-                                <li>
-                                    <p>Poner a disposici&oacute;n cualquier Contenido que, a la entera y absoluta discreci&oacute;n de STORYPLACE, se determine que (i) es ilegal, doloso, difamatorio, vulgar, obsceno, calumnioso o censurable desde el punto de vista racial, &eacute;tnico o de otro modo; (ii) infrinja o fomente cualquier conducta que infrinja cualquier ley o reglamento aplicable o que d&eacute; lugar a responsabilidad civil o penal; (iii) promueva la discriminaci&oacute;n, la intolerancia, el racismo, el odio o el acoso o da&ntilde;o contra cualquier individuo o grupo; (iv) es violento o amenazante, o promueve la violencia o acciones que supongan una amenaza para cualquier otra persona o empresa; o (v) promueva actividades ilegales o da&ntilde;inas;</p>
-                                </li>
-                                <li>
-                                    <p>Da&ntilde;ar a los menores de cualquier manera;</p>
-                                </li>
-                                <li>
-                                    <p>Hacerse pasar por cualquier persona o entidad, incluido, entre otros, el personal de STORYPLACE, o declarar falsamente o tergiversar de otro modo su afiliaci&oacute;n con una persona o entidad;</p>
-                                </li>
-                                <li>
-                                    <p>Poner a disposici&oacute;n cualquier Contenido que no tenga derecho a publicar en virtud de ninguna ley o en virtud de relaciones contractuales o fiduciarias (como informaci&oacute;n privilegiada, informaci&oacute;n confidencial y de propiedad exclusiva obtenida o divulgada como parte de relaciones laborales o en virtud de acuerdos de confidencialidad);</p>
-                                </li>
-                                <li>
-                                    <p>Poner a disposici&oacute;n cualquier Contenido que infrinja los derechos de cualquier persona o entidad, incluidos, entre otros, cualquier patente, marca registrada, secreto comercial, derechos de autor, privacidad, publicidad u otros derechos de propiedad o contractuales;</p>
-                                </li>
-                                <li>
-                                    <p>Violar intencionalmente o involuntariamente cualquier ley o reglamento local, estatal, nacional o internacional aplicable, o cualquier orden de un tribunal;</p>
-                                </li>
-                                <li>
-                                    <p>Registrar m&aacute;s de una cuenta o crear una Cuenta en nombre de una persona que no sea usted;</p>
-                                </li>
-                                <li>
-                                    <p>Acechar o acosar de cualquier otro modo a cualquier otro Usuario registrado de nuestras Propiedades de STORYPLACE; o</p>
-                                </li>
-                                <li>
-                                    <p>Abogar, alentar o ayuda a cualquier tercero a realizar cualquiera de las actividades anteriores en esta secci&oacute;n.</p>
-                                </li>
-                            </ol>
+                            <strong>Responsabilidad por el contenido.</strong>
                         </li>
                     </ol>
-                    <p><br /></p>
-                    <ol start={3}>
-                        <li>
-                            <p>Investigaciones.</p>
-                        </li>
-                    </ol>
-                    <p><br /></p>
                     <ol>
                         <li>
-                            <p>STORYPLACE puede, pero no est&aacute; obligada a, monitorear o revisar las Propiedades y el Contenido de STORYPLACE en cualquier momento. Sin perjuicio de lo anterior, STORYPLACE tendr&aacute; el derecho, a su entera discreci&oacute;n, de eliminar cualquier parte de Su contenido por cualquier motivo (o sin motivo), incluidos, entre otros, si dicho Contenido infringe el Acuerdo o cualquier ley aplicable. Si bien STORYPLACE no suele supervisar la actividad de los usuarios en relaci&oacute;n con las propiedades o el contenido de STORYPLACE, si STORYPLACE tiene conocimiento de cualquier posible infracci&oacute;n por su parte de alguna disposici&oacute;n del Acuerdo, STORYPLACE se reserva el derecho de investigar dichas infracciones y STORYPLACE podr&aacute;, a su entera y absoluta discreci&oacute;n, rescindir inmediatamente su licencia de uso de las Propiedades de STORYPLACE o cambiar, alterar o eliminar, durante cualquier per&iacute;odo de tiempo, Su contenido, total o parcialmente, sin previo aviso.</p>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Tipos de contenido</strong>
+                            </span>
+                            <strong>. Usted reconoce que todo el Contenido, incluidas las Propiedades de STORYPLACE, es responsabilidad exclusiva de la parte que originó dicho Contenido. Esto significa que usted, y no STORYPLACE, es totalmente responsable de todo el Contenido que cargue, publique, envíe por correo electrónico, transmita o ponga a disposición de otro modo («Poner a Disposición») a través de las Propiedades de STORYPLACE («Su Contenido»), y que usted y otros Usuarios Registrados de las Propiedades de STORYPLACE, y no STORYPLACE, son igualmente responsables de todo el Contenido que usted y ellos Pongan a Disposición a través de las Propiedades de STORYPLACE («Contenido del Usuario»).&nbsp;</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Sin obligación de preevaluar contenido.</strong>
+                            </span>
+                            <strong>
+                                Usted reconoce que STORYPLACE no tiene la obligación de preevaluar el Contenido (incluido, entre otros, el Contenido del Usuario), aunque STORYPLACE se reserva el derecho, a su entera y absoluta discreción, de preevaluar, rechazar o eliminar cualquier Contenido. Al celebrar el Acuerdo, usted da su consentimiento irrevocable a dicha supervisión. Usted reconoce y acepta que no tiene expectativas de privacidad en relación con la transmisión de Su Contenido, incluidas, entre otras, las comunicaciones por chat, texto o voz. En caso de que STORYPLACE preevalúe, rechace o elimine cualquier Contenido, usted reconoce que STORYPLACE lo hará en beneficio de STORYPLACE, no en el suyo. Sin perjuicio de lo anterior, STORYPLACE tendrá el derecho de eliminar cualquier Contenido que infrinja el Acuerdo o que sea objetable por algún otro motivo.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Almacenamiento</strong>
+                            </span>
+                            <strong>. A menos que STORYPLACE lo acuerde expresamente por escrito en otro lugar, STORYPLACE no tiene la obligación de almacenar ninguno de Su Contenido que usted Ponga a Disposición en las Propiedades de STORYPLACE. STORYPLACE no asume ninguna responsabilidad por la eliminación o precisión de ningún Contenido, incluido Su Contenido; por no almacenar, transmitir o recibir la transmisión del Contenido; ni por la seguridad, la privacidad, el almacenamiento o la transmisión de otras comunicaciones que se originen o impliquen el uso de las Propiedades de STORYPLACE. Ciertos Servicios pueden permitirle especificar el nivel en el que dichos Servicios restringen el acceso a Su Contenido. Usted es el único responsable de aplicar el nivel de acceso adecuado a Su Contenido, si lo hubiera. Si no lo elige, es posible que el sistema utilice de forma predeterminada su configuración más permisiva. Usted acepta que STORYPLACE se reserva el derecho de establecer límites razonables al uso y almacenamiento del Contenido por parte de STORYPLACE, incluido Su Contenido, como límites en cuanto al tamaño del archivo, el espacio de almacenamiento, la capacidad de procesamiento y los límites similares descritos en el Sitio web y según lo determine STORYPLACE a su entera discreción.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Propiedades de STORYPLACE.</strong>
+                            </span>
+                            <strong>
+                                Excepto en lo que respecta a Su Contenido y el Contenido del Usuario, usted acepta que STORYPLACE y sus proveedores son propietarios de todos los derechos, títulos e intereses sobre las Propiedades de STORYPLACE, incluidos, entre otros, el software operativo de StoryPlace, el mapa y los contenidos de estos. Usted no eliminará, alterará ni ocultará ningún aviso de derechos de autor, marca comercial, marca de servicio u otros avisos de derechos de propiedad incorporados o adjuntos a las Propiedades de STORYPLACE.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Marcas comerciales</strong>
+                            </span>
+                            <strong>. El nombre de STORYPLACE y todos los gráficos, logotipos, marcas de servicio y nombres comerciales relacionados que se utilicen en o en relación con cualquier Propiedad de STORYPLACE o en relación con los Servicios son marcas comerciales de STORYPLACE y no se pueden utilizar sin permiso en relación con usted, sus productos y/o servicios ni con los productos y/o servicios de terceros. Otras marcas comerciales, marcas de servicio y nombres comerciales que puedan aparecer en las Propiedades de STORYPLACE son propiedad de sus respectivos dueños.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Otro contenido</strong>
+                            </span>
+                            <strong>. Salvo en lo que respecta a Su Contenido, usted acepta que no tiene ningún derecho, título o interés sobre ningún contenido que aparezca en o sobre las Propiedades de STORYPLACE.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Su Contenido</strong>
+                            </span>
+                            <strong>. STORYPLACE no reclama la propiedad de Su Contenido. Sin embargo, cuando usted, como Usuario Registrado, envíe o publique Su Contenido en o dentro de las Propiedades de STORYPLACE, usted declara que posee o tiene un derecho libre de regalías, perpetuo, irrevocable, mundial y no exclusivo (incluidos los derechos morales) y una licencia para usar, licenciar, reproducir, modificar, publicar, traducir, crear obras derivadas, distribuir, obtener ingresos u otra remuneración, y comunicarlo al público, reproducir y mostrar Su Contenido (en total o parcialmente) en todo el mundo y/o para incorporarlo a sus otras obras en cualquier forma, medio o tecnología ahora conocida o desarrollada posteriormente, durante toda la vigencia de cualquier derecho de propiedad intelectual mundial que pueda existir en Su Contenido.&nbsp;</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Licencia para Su Contenido</strong>
+                            </span>
+                            <strong>. Sujeto a cualquier configuración de cuenta aplicable que seleccione, usted otorga a STORYPLACE un derecho totalmente pagado, libre de regalías, perpetuo, irrevocable, mundial, libre de regalías, no exclusivo y totalmente sublicenciable (incluido cualquier derecho moral) y una licencia para usar, licenciar, distribuir, reproducir, modificar, adaptar, presentar públicamente y mostrar públicamente Su Contenido (en su totalidad o en parte) con el fin de operar el negocio de STORYPLACE. Recuerde que otros usuarios pueden buscar, ver, usar, modificar y reproducir cualquier contenido suyo que usted envíe a cualquier área «pública» de las Propiedades de STORYPLACE. Usted garantiza que el titular de cualquier derecho de propiedad intelectual mundial, incluidos los derechos morales, en Su Contenido, le ha otorgado una licencia irrevocable para su uso para permitirle conceder la licencia indicada anteriormente, o ha renunciado total y efectivamente a todos esos derechos y le ha otorgado de manera válida e irrevocable el derecho a conceder la licencia indicada anteriormente. Usted acepta que usted, y no STORYPLACE, es responsable de todo Su Contenido que Ponga a Disposición en o dentro de las Propiedades de STORYPLACE. Sujeto a la configuración de cuenta aplicable que seleccione, usted otorga a STORYPLACE un derecho totalmente pagado, libre de regalías, perpetuo, irrevocable, mundial, libre de regalías, no exclusivo y totalmente sublicenciable (incluido cualquier derecho moral) y una licencia para usar, licenciar, distribuir, reproducir, modificar, adaptar, presentar públicamente y mostrar públicamente Su Contenido (total o parcialmente, incluidos sus derechos derivados, afines, complementarios y conexos) para los propósitos de operar el negocio de STORYPLACE. Para
+                            </strong>
+                            <strong>evitar dudas, STORYPLACE se dedica actualmente a fomentar el intercambio global de historias y, con ello, conectar a los narradores y a los Creadores de Contenido</strong>
+                            <strong>. Si posteriormente STORYPLACE entra en el negocio de producir obras audiovisuales basadas en alguno de Sus Contenidos, solo lo hará con su permiso expreso. Recuerde que otros usuarios pueden buscar, ver, usar, modificar y reproducir cualquier contenido suyo que usted envíe a cualquier área «pública» de las Propiedades de STORYPLACE.&nbsp;</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Nombre de usuario</strong>
+                            </span>
+                            <strong>. Sin perjuicio de lo dispuesto en este documento que indique lo contrario, al enviar Su Contenido a cualquier foro, comentario o cualquier otra área de las Propiedades de STORYPLACE, usted permite expresamente que STORYPLACE lo identifique mediante su nombre de usuario (que puede ser un seudónimo) como autor de Su Contenido en cualquier publicación de cualquier forma, medio o tecnología en la actualidad conocido o desarrollado posteriormente en relación con Su Contenido.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Su perfil</strong>
+                            </span>
+                            <strong>. El Contenido que publique en su perfil no podrá contener desnudos, violencia, contenido sexualmente explícito u ofensivo, según lo determine STORYPLACE a su entera y absoluta discreción. No puede publicar ni enviar a los servicios de impresión una fotografía de o hecha por otra persona sin el permiso de esa persona.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Comentarios</strong>
+                            </span>
+                            <strong>. Usted acepta que el envío de cualquier idea, sugerencia, documento o propuesta a STORYPLACE a través de sus páginas de sugerencias, comentarios, wiki, foro o similares («Comentarios») es bajo su propio riesgo y que STORYPLACE no tiene ninguna obligación (incluidas, entre otras, las obligaciones de confidencialidad) con respecto a dichos Comentarios. Usted declara y garantiza que tiene todos los derechos necesarios para enviar los Comentarios. Por la presente, usted otorga a STORYPLACE un derecho y una licencia totalmente pagados, libres de regalías, perpetuos, irrevocables, mundiales, no exclusivos y totalmente sublicenciables para utilizar, reproducir, ejecutar, mostrar, distribuir, adaptar, modificar, reformatear, crear obras derivadas y explotar comercialmente o no comercialmente de cualquier manera, todos y cada uno de los Comentarios, y para sublicenciar los derechos anteriores, en relación con el funcionamiento y mantenimiento de las Propiedades de STORYPLACE y/o el negocio de STORYPLACE.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Trampas y piratería.</strong>
+                            </span>
+                            <strong>
+                                Usted se compromete a no hacer lo siguiente en ningún momento y bajo ninguna circunstancia:</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <strong>Utilizar trampas, exploits, software de automatización, bots, hacks, mods o cualquier software no autorizado diseñado para modificar o interferir con cualquier Propiedad de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Interferir o dañar las Propiedades de STORYPLACE, lo que incluye, entre otros, mediante el uso de virus, bots de cancelación, troyanos, códigos dañinos, flood pings, ataques de denegación de servicio, suplantación de paquetes o IP, información de enrutamiento o dirección de correo electrónico falsificada o métodos o tecnologías similares;</strong>
+                            </li>
+                            <li>
+                                <strong>Modificar o hacer que se modifique cualquier archivo que forme parte de las Propiedades de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Interrumpir, sobrecargar o ayudar o contribuir a la interrupción o sobrecarga de: (i) cualquier computadora o servidor utilizado para ofrecer o respaldar las Propiedades de STORYPLACE; o (ii) el disfrute de las Propiedades de STORYPLACE por parte de cualquier otra persona;</strong>
+                            </li>
+                            <li>
+                                <strong>Instituir, ayudar o participar en cualquier tipo de ataque, incluidos, entre otros, la distribución de un virus, los ataques de denegación de servicio a las Propiedades de STORYPLACE u otros intentos de interrumpir el uso o disfrute de las Propiedades de STORYPLACE por parte de cualquier otra persona;</strong>
+                            </li>
+                            <li>
+                                <strong>Intentar obtener acceso no autorizado a las Propiedades de STORYPLACE, a las cuentas registradas a nombre de otros o a las computadoras, servidores o redes conectados a las Propiedades de STORYPLACE por cualquier medio que no sea la interfaz de usuario proporcionada por STORYPLACE, lo que incluye, entre otros, eludiendo o modificando, intentando eludir o modificar, o alentando o ayudando a cualquier otra persona a eludir o modificar, cualquier seguridad, tecnología, dispositivo o software que forme parte de las Propiedades de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Acceder, manipular o utilizar áreas no públicas de las Propiedades de STORYPLACE, los sistemas informáticos de STORYPLACE, la propiedad intelectual de STORYPLACE o los sistemas de entrega técnica de los proveedores de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Intentar investigar, escanear o probar la vulnerabilidad de cualquier sistema o red de STORYPLACE (incluidas sus empresas matrices, subsidiarias y afiliadas, lo que se aplicará a lo largo del presente Acuerdo cuando se haga referencia a STORYPLACE), o infringir cualquier medida de seguridad o autenticación;</strong>
+                            </li>
+                            <li>
+                                <strong>Interrumpir o interferir con la seguridad de las propiedades, los sistemas, los recursos, las cuentas, las contraseñas, los servidores o las redes de STORYPLACE conectados o accesibles a través de las Propiedades de STORYPLACE o cualquier sitio afiliado o enlazado; o</strong>
+                            </li>
+                            <li>
+                                <strong>Evitar, omitir, eliminar, desactivar, copiar, codificar, deteriorar, descodificar o eludir de otro modo cualquier medida tecnológica implementada por STORYPLACE o cualquiera de los proveedores de STORYPLACE o cualquier otro tercero (incluido otro Usuario Registrado) para proteger las Propiedades de STORYPLACE.</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Actividades comerciales</strong>
+                            </span>
+                            <strong>. Usted acepta que, bajo ninguna circunstancia (excepto en la medida en que lo autorice expresamente el Acuerdo):</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <strong>Reproducirá, duplicará, copiará, venderá, intercambiará, revenderá o explotará con cualquier fin comercial cualquier parte de las Propiedades de STORYPLACE (incluida su Cuenta), o el acceso o uso de las Propiedades de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Cargará, publicará, enviará por correo electrónico, transmitirá o pondrá a disposición de cualquier otra forma cualquier otra forma de publicidad no solicitada o no autorizada, material promocional, «correo basura», «spam», «cartas en cadena», «esquemas piramidales» o cualquier otra forma de solicitud en relación con cualquier propiedad de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Utilizará las Propiedades de STORYPLACE o cualquier parte de estas para cualquier propósito comercial, lo que incluye, entre otros, comunicar o facilitar cualquier anuncio o solicitud comercial;</strong>
+                            </li>
+                            <li>
+                                <strong>Participará en cualquier cadena de cartas, concursos, correo basura, esquemas piramidales, spam, encuestas u otros mensajes duplicados o no solicitados (comerciales o de otro tipo) en relación con las Propiedades de STORYPLACE; o</strong>
+                            </li>
+                            <li>
+                                <strong>Comercializará cualquier producto o servicio para cualquier propósito comercial en o en relación con cualquiera de las Propiedades de STORYPLACE.</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Uso o acceso no autorizados</strong>
+                            </span>
+                            <strong>. Usted se compromete a no realizar, bajo ninguna circunstancia, lo siguiente:</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <strong>Interferir o intentar interferir con el correcto funcionamiento de las Propiedades de STORYPLACE o conectarse o utilizar las Propiedades de STORYPLACE de cualquier forma que no esté expresamente permitida por el Acuerdo;</strong>
+                            </li>
+                            <li>
+                                <strong>Recuperar sistemáticamente datos u otro contenido de las Propiedades de STORYPLACE para crear o compilar, directa o indirectamente, en descargas únicas o múltiples, una colección, una compilación, una base de datos, un directorio o similar, ya sea mediante métodos manuales o mediante el uso de bots, rastreadores, arañas o de otro modo;</strong>
+                            </li>
+                            <li>
+                                <strong>Utilizar, exponer, replicar o encuadrar las Propiedades de STORYPLACE o cualquier elemento individual de las Propiedades de STORYPLACE, el nombre de STORYPLACE, cualquier marca comercial, logotipo u otra información de propiedad de STORYPLACE, la propiedad intelectual o el diseño de cualquier página o formulario contenido en una página, sin el consentimiento expreso por escrito de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Utilizar cualquier software no autorizado que acceda, intercepte, «mine» o recopile información de o a través de las Propiedades de STORYPLACE o que esté en tránsito desde o hacia las Propiedades de STORYPLACE, incluido, entre otros, cualquier software que lea áreas de RAM o flujos de tráfico de red utilizados por las Propiedades de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Interceptar, examinar u observar de otro modo cualquier protocolo de comunicaciones propietario utilizado por un cliente, un servidor o las Propiedades de STORYPLACE, ya sea mediante el uso de un analizador de redes, un rastreador de paquetes u otro dispositivo;</strong>
+                            </li>
+                            <li>
+                                <strong>Hacer un uso automatizado de las Propiedades de STORYPLACE o tomar cualquier medida que imponga o pueda imponer (a la entera y absoluta discreción de STORYPLACE) una carga irrazonable o desproporcionadamente grande en la infraestructura de las Propiedades de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Eludir los encabezados de exclusión de robots u otras medidas que STORYPLACE tome para restringir el acceso a las Propiedades de STORYPLACE, o utilizar cualquier software, tecnología o dispositivo para enviar contenido o mensajes, extraer, arañar o rastrear las Propiedades de STORYPLACE, o recopilar o manipular datos;</strong>
+                            </li>
+                            <li>
+                                <strong>Utilizar, facilitar, crear o mantener cualquier conexión no autorizada a las Propiedades de STORYPLACE, lo que incluye, entre otros: (i) cualquier conexión a un servidor no autorizado que emule o intente emular cualquier parte de las Propiedades de STORYPLACE; o (ii) cualquier conexión que utilice programas, herramientas o software no aprobados expresamente (por escrito) por STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Realizar ingeniería inversa, descompilar, desensamblar, descifrar o intentar obtener de cualquier otro modo el código fuente de cualquier software subyacente u otra propiedad intelectual utilizada para proporcionar las Propiedades de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Falsificar los encabezados o manipular de otro modo los identificadores para ocultar el origen de cualquier contenido transmitido a través de las Propiedades de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Cargar, publicar, enviar por correo electrónico, transmitir o poner a disposición de otro modo cualquier material que contenga virus de software o cualquier otro código, archivo o programa informático diseñado para interrumpir, destruir o limitar la funcionalidad de cualquier software o hardware de computadora o equipo de telecomunicaciones;</strong>
+                            </li>
+                            <li>
+                                <strong>Solicitar o intentar solicitar información personal de otros usuarios registrados de las Propiedades de STORYPLACE;</strong>
+                            </li>
+                            <li>
+                                <strong>Utilizar las Propiedades de STORYPLACE para recoger, recopilar, transmitir, distribuir, publicar o enviar cualquier información relativa a cualquier otra persona o entidad, incluyendo, sin limitación, fotografías de otras personas sin su permiso, información de contacto personal o números de crédito, débito, tarjeta telefónica, tarjeta de crédito u otros números de cuenta;</strong>
+                            </li>
+                            <li>
+                                <strong>Falsificar cualquier encabezado de paquete TCP/IP o cualquier parte de la información del encabezado de cualquier publicación de correo electrónico o grupo de noticias, o utilizar de alguna manera las Propiedades de STORYPLACE para enviar información de identificación de la fuente alterada, engañosa o falsa; o</strong>
+                            </li>
+                            <li>
+                                <strong>Cargar o transmitir (o intentar cargar o transmitir) cualquier material que actúe como un mecanismo pasivo o activo de recopilación o transmisión de información, incluidos, entre otros, GIF transparentes, píxeles 1x1, web bugs, cookies u otros dispositivos similares (a veces denominados «spyware», «mecanismos de recopilación pasiva» o «pcms»).</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>General</strong>
+                            </span>
+                            <strong>. En relación con el uso de las Propiedades de STORYPLACE, no deberá:</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <strong>Poner a disposición cualquier Contenido que, a la entera y absoluta discreción de STORYPLACE, se determine que (i) es ilegal, doloso, difamatorio, vulgar, obsceno, calumnioso o censurable desde el punto de vista racial, étnico o de otro modo; (ii) infrinja o fomente cualquier conducta que infrinja cualquier ley o reglamento aplicable o que dé lugar a responsabilidad civil o penal; (iii) promueva la discriminación, la intolerancia, el racismo, el odio o el acoso o daño contra cualquier individuo o grupo; (iv) es violento o amenazante, o promueve la violencia o acciones que supongan una amenaza para cualquier otra persona o empresa; o (v) promueva actividades ilegales o dañinas;</strong>
+                            </li>
+                            <li>
+                                <strong>Dañar a los menores de cualquier manera;</strong>
+                            </li>
+                            <li>
+                                <strong>Hacerse pasar por cualquier persona o entidad, incluido, entre otros, el personal de STORYPLACE, o declarar falsamente o tergiversar de otro modo su afiliación con una persona o entidad;</strong>
+                            </li>
+                            <li>
+                                <strong>Poner a Disposición cualquier Contenido que no tenga derecho a publicar en virtud de ninguna ley o en virtud de relaciones contractuales o fiduciarias (como información privilegiada, información confidencial y de propiedad exclusiva obtenida o divulgada como parte de relaciones laborales o en virtud de acuerdos de confidencialidad);</strong>
+                            </li>
+                            <li>
+                                <strong>Poner a Disposición cualquier Contenido que infrinja los derechos de cualquier persona o entidad, incluidos, entre otros, cualquier patente, marca registrada, secreto comercial, derechos de autor, privacidad, publicidad u otros derechos de propiedad o contractuales;</strong>
+                            </li>
+                            <li>
+                                <strong>Violar intencional o involuntariamente cualquier ley o reglamento local, estatal, nacional o internacional aplicable, o cualquier orden de un tribunal;</strong>
+                            </li>
+                            <li>
+                                <strong>Registrar más de una cuenta o crear una Cuenta en nombre de una persona que no sea usted;</strong>
+                            </li>
+                            <li>
+                                <strong>Acechar o acosar de cualquier otro modo a cualquier otro Usuario Registrado de nuestras Propiedades de STORYPLACE; o</strong>
+                            </li>
+                            <li>
+                                <strong>Abogar, alentar o ayuda a cualquier tercero a realizar cualquiera de las actividades anteriores en esta sección.</strong>
+                            </li>
+                        </ol>
+                    </ol>
+                    <ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Investigaciones</strong>
+                            </span>
+                            <strong>.</strong>
                         </li>
                     </ol>
-                    <ol start={4}>
+                    <ol>
                         <li>
-                            <p>Interacciones con otros usuarios.</p>
-                            <ol>
-                                <li>
-                                    <p>Responsabilidad del usuario. Usted es el &uacute;nico responsable de sus interacciones con otros usuarios registrados y cualquier otra parte con la que interact&uacute;e en o a trav&eacute;s de las Propiedades de STORYPLACE. STORYPLACE se reserva el derecho, pero no tiene la obligaci&oacute;n, de interceder en dichas disputas. Usted acepta que STORYPLACE no tendr&aacute; ninguna responsabilidad legal o de cualquier otra &iacute;ndole en la que incurra como resultado de dichas interacciones, incluidas, entre otras, las interacciones entre los Creadores de Contenido. USTED REALIZA TODAS LAS INTERACCIONES CON CUALQUIER OTRO USUARIO &Uacute;NICAMENTE POR SU CUENTA Y RIESGO, Y STORYPLACE SE EXIME DE TODA RESPONSABILIDAD EN RELACI&Oacute;N CON ELLO. ADEM&Aacute;S, STORYPLACE SE EXIME DE TODA RESPONSABILIDAD EN RELACI&Oacute;N CON CUALQUIER DISPUTA ENTRE LOS USUARIOS DE NUESTROS SERVICIOS, INCLUIDA CUALQUIER DISPUTA RELACIONADA CON LAS HISTORIAS, EL ACCESO A LAS HISTORIAS, LA PRESENTACI&Oacute;N DE IDEAS, LA INFORMACI&Oacute;N INTERCAMBIADA ENTRE LOS USUARIOS Y CUALQUIER RESPONSABILIDAD RELACIONADA CON CUALQUIER DISCUSI&Oacute;N O ACUERDO ENTRE LOS CREADORES DE CONTENIDO Y LOS USUARIOS, INCLUIDOS, ENTRE OTROS, LOS RELACIONADOS CON LA COMPRA, LA ADQUISICI&Oacute;N, EL DESARROLLO, LA PRODUCCI&Oacute;N, LA DISTRIBUCI&Oacute;N Y/O LA EXPLOTACI&Oacute;N DE CONTENIDO. ADEM&Aacute;S, USTED RECONOCE Y ACEPTA QUE STORYPLACE NO ELABORA PERFILES NI VERIFICA NING&Uacute;N TIPO DE USUARIO, INCLUIDAS B&Uacute;SQUEDAS DE ANTECEDENTES PENALES. STORYPLACE NO HACE DECLARACIONES NI GARANTIZA LA CONDUCTA DE NING&Uacute;N USUARIO NI LA COMPATIBILIDAD DE NING&Uacute;N USUARIO CON NING&Uacute;N OTRO USUARIO ACTUAL O FUTURO.&nbsp;</p>
-                                </li>
-                                <li>
-                                    <p>Contenido proporcionado por otros usuarios. Las Propiedades de STORYPLACE pueden contener Contenido de Usuario proporcionado por otros Usuarios Registrados. STORYPLACE no es responsable ni controla el Contenido del Usuario. STORYPLACE no tiene la obligaci&oacute;n de revisar ni supervisar, y no aprueba, respalda ni ofrece ninguna declaraci&oacute;n o garant&iacute;a con respecto al Contenido del Usuario ni a ning&uacute;n contenido no generado por STORYPLACE. Usted utiliza todo el Contenido del Usuario e interact&uacute;a con otros usuarios bajo su propio riesgo.</p>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>Servicios y tarifas de terceros.</p>
-                            <ol>
-                                <li>
-                                    <p>Sitios web, aplicaciones y anuncios de terceros. Las Propiedades de STORYPLACE pueden contener enlaces a sitios web de terceros (&laquo;Sitios Web de terceros&raquo;) y aplicaciones (&laquo;Aplicaciones de terceros&raquo;) y anuncios de terceros (&laquo;Anuncios de terceros&raquo;). Al hacer clic en un enlace a un Sitio web de terceros, una Aplicaci&oacute;n de terceros o un Anuncio de terceros, no le avisaremos que ha abandonado las Propiedades de STORYPLACE y que est&aacute; sujeto a los t&eacute;rminos y condiciones (incluidas las pol&iacute;ticas de privacidad) de otro sitio web o destino. Dichos Sitios web de terceros, Aplicaciones de terceros y Anuncios de terceros no est&aacute;n bajo el control de STORYPLACE. STORYPLACE no es responsable de ning&uacute;n Sitios web de terceros, Aplicaciones de terceros o Anuncios de terceros. STORYPLACE proporciona estos Sitios web de terceros, Aplicaciones de terceros y Anuncios de terceros &uacute;nicamente para su comodidad y no respalda, revisa, aprueba, monitorea, garantiza ni hace ninguna declaraci&oacute;n con respecto a los Sitios web de terceros, Aplicaciones de terceros y Anuncios de terceros, ni ning&uacute;n producto o servicio proporcionado en relaci&oacute;n con los mismos. Usted utiliza todos los enlaces de Sitios web de terceros, Aplicaciones de terceros y Anuncios de terceros por su propia cuenta y riesgo. Cuando abandona nuestro Sitio web, el Acuerdo y las pol&iacute;ticas dejan de regir. Debe revisar los t&eacute;rminos y pol&iacute;ticas aplicables, incluidas las pr&aacute;cticas de privacidad y recopilaci&oacute;n de datos, de los Sitios web de terceros o Aplicaciones de terceros, y se le recomienda que realice las investigaciones que considere necesarias o apropiadas antes de continuar con cualquier transacci&oacute;n con un tercero.</p>
-                                </li>
-                                <li>
-                                    <p>Tiendas de aplicaciones. Usted reconoce y acepta que la disponibilidad de la Aplicaci&oacute;n y los Servicios depende del tercero del que haya recibido la licencia de la Aplicaci&oacute;n, por ejemplo, la Tienda de aplicaciones (cada una de ellas, una &laquo;Tienda de aplicaciones&raquo;). Usted reconoce que el Acuerdo es entre usted y STORYPLACE y no con una Tienda de aplicaciones. STORYPLACE, no una Tienda de aplicaciones, es la &uacute;nica responsable de las Propiedades de STORYPLACE, incluida la Aplicaci&oacute;n, Su contenido, el mantenimiento, los servicios de soporte y la garant&iacute;a de estas, y de abordar cualquier reclamaci&oacute;n relacionada con las mismas (por ejemplo, el cumplimiento legal o la infracci&oacute;n de la propiedad intelectual). Para acceder a la Aplicaci&oacute;n, debe tener acceso a una red inal&aacute;mbrica y se compromete a pagar todas las tarifas asociadas a dicho acceso. Tambi&eacute;n acepta pagar todas las tarifas (si las hubiera) que cobre una Tienda de aplicaciones en relaci&oacute;n con las Propiedades de STORYPLACE, incluidas las relacionadas con la Aplicaci&oacute;n, si las hubiera. Usted acepta cumplir con la Aplicaci&oacute;n y su licencia de uso est&aacute; condicionada a que cumpla con todos los t&eacute;rminos del acuerdo impuestos por la Tienda de aplicaciones correspondiente al utilizar cualquier Propiedad de STORYPLACE, incluida, entre otros, la Aplicaci&oacute;n. Usted reconoce que la Tienda de aplicaciones (y sus subsidiarias) son terceros beneficiarios del Acuerdo y tendr&aacute;n el derecho de hacerlo cumplir.&nbsp;</p>
-                                </li>
-                                <li>
-                                    <p>Impuesto sobre las ventas. STORYPLACE no cobra actualmente ninguna tarifa por ninguno de sus Servicios. Si en alg&uacute;n momento en el futuro, STORYPLACE comienza a cobrar una tarifa por alguno de sus Servicios, Servicios Complementarios u otros (&laquo;Tarifas Adicionales&raquo;), las Tarifas Adicionales no incluir&aacute;n ning&uacute;n impuesto sobre las ventas que pueda adeudarse en relaci&oacute;n con dichos Servicios antes mencionados. Si STORYPLACE determina que tiene la obligaci&oacute;n legal de cobrarle el impuesto sobre las ventas u otro impuesto gubernamental en relaci&oacute;n con este Acuerdo, STORYPLACE recaudar&aacute; dicho impuesto sobre las ventas u otro impuesto gubernamental, adem&aacute;s de las Tarifas y cualquier Tarifa Adicional (si la hubiera). Si alguno de los Servicios, o el pago de cualquier Servicio, en virtud del Acuerdo est&aacute;n sujetos al impuesto sobre las ventas en cualquier jurisdicci&oacute;n y usted no ha remitido el impuesto sobre las ventas aplicable a STORYPLACE, usted ser&aacute; responsable del pago de dicho impuesto sobre las ventas (incluidos otros impuestos gubernamentales) y de cualquier penalizaci&oacute;n o inter&eacute;s relacionados con STORYPLACE y otros, e indemnizar&aacute; a STORYPLACE et al., por toda responsabilidad y gasto en que STORYPLACE y otros pueda incurrir en relaci&oacute;n con ello. A petici&oacute;n de STORYPLACE, usted le proporcionar&aacute; los recibos oficiales emitidos por la autoridad tributaria correspondiente u otra prueba similar de que ha pagado todos los impuestos aplicables. A los efectos de esta secci&oacute;n, por &laquo;Impuesto sobre las ventas&raquo; se entender&aacute; cualquier impuesto sobre las ventas y/o el uso y/o cualquier otro impuesto medido por los ingresos de las ventas que sea el equivalente funcional de un impuesto sobre las ventas, cuando la jurisdicci&oacute;n fiscal aplicable no imponga de otro modo un impuesto sobre las ventas o el uso.</p>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>Usted se compromete a indemnizar, defender y eximir a STORYPLACE, sus sociedades matrices, subsidiarias, filiales, accionistas, directivos, empleados, agentes, abogados, socios, proveedores y licenciantes (cada una, una &laquo;Parte de STORYPLACE&raquo; y, colectivamente, las &laquo;Partes de STORYPLACE&raquo;) de cualquier p&eacute;rdida, coste, responsabilidad legal y gasto (incluidos los honorarios razonables de los abogados y los costes de los testigos expertos) relacionados o derivados de cualquiera de los siguientes: (a) Su contenido, incluida cualquier demanda, reclamaci&oacute;n o acci&oacute;n de otro Usuario registrado o cualquier otro tercero que alegue que Su contenido infrinja cualquier derecho, incluidos los derechos de propiedad intelectual, derechos de autor y privacidad; (b) cualquier demanda, reclamaci&oacute;n o acci&oacute;n relacionada con el uso de nuestros Servicios interpuesta contra cualquier Parte de STORYPLACE, incluida, entre otras, cualquier demanda, reclamaci&oacute;n o acci&oacute;n de un usuario, tercero y/o creador de contenido que alegue (i) robo de ideas, (ii) incumplimiento de un contrato impl&iacute;cito o (iii) infracci&oacute;n de propiedad intelectual o derechos de autor; (c) cualquier demanda, reclamaci&oacute;n o acci&oacute;n de otra persona Usuario registrado o cualquier otro tercero que alegue que Su contenido es difamatorio; (d) su uso de, o incapacidad de utilizar cualquier propiedad de STORYPLACE; (e) su violaci&oacute;n del Acuerdo; (f) su violaci&oacute;n de cualquier derecho de otra parte, incluidos, entre otros, los Usuarios registrados; o (g) su violaci&oacute;n de cualquier ley, norma o reglamento aplicable. STORYPLACE se reserva el derecho, a su propia costa, de asumir la defensa y el control exclusivos de cualquier asunto que de otro modo est&eacute; sujeto a una indemnizaci&oacute;n por su parte, en cuyo caso usted cooperar&aacute; plenamente con STORYPLACE en hacer valer cualquier defensa disponible, sin que STORYPLACE renuncie a ninguno de los derechos de indemnizaci&oacute;n que se le adeudan a STORYPLACE. Usted acepta que las disposiciones de esta secci&oacute;n seguir&aacute;n vigentes despu&eacute;s de la rescisi&oacute;n de su Cuenta, del Acuerdo o de su acceso a las Propiedades de STORYPLACE.</p>
-                        </li>
-                        <li>
-                            <p>Exenci&oacute;n de garant&iacute;as y condiciones.</p>
-                            <ol>
-                                <li>
-                                    <p>Tal cual.&nbsp;USTED ENTIENDE Y ACEPTA EXPRESAMENTE QUE, EN LA MEDIDA EN QUE LO PERMITA LA LEY APLICABLE, EL USO QUE HAGA DE LAS PROPIEDADES DE STORYPLACE CORRE POR SU CUENTA Y RIESGO, Y QUE LAS PROPIEDADES DE STORYPLACE SE PROPORCIONAN &laquo;TAL CUAL&raquo; Y &laquo;SEG&Uacute;N SU DISPONIBILIDAD&raquo;, CON TODOS SUS DEFECTOS. LAS PARTES DE STORYPLACE RENUNCIAN EXPRESAMENTE A TODAS LAS GARANT&Iacute;AS, DECLARACIONES Y CONDICIONES DE CUALQUIER TIPO, YA SEAN EXPRESAS O IMPL&Iacute;CITAS, INCLUIDAS, ENTRE OTRAS, LAS GARANT&Iacute;AS O CONDICIONES IMPL&Iacute;CITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRACCI&Oacute;N QUE SURJAN DEL USO DEL SITIO WEB.&nbsp;</p>
-                                    <ol>
-                                        <li>
-                                            <p>LAS PARTES DE STORYPLACE NO GARANTIZAN, DECLARAN NI CONDICIONAN QUE: (1) LAS PROPIEDADES DE STORYPLACE CUMPLIR&Aacute;N CON SUS REQUISITOS O EXPECTATIVAS; (2) SU USO DE LAS PROPIEDADES DE STORYPLACE SER&Aacute; ININTERRUMPIDO, PUNTUAL, SEGURO O LIBRE DE ERRORES; O (3) LOS RESULTADOS QUE SE PUEDAN OBTENER DEL USO DE LAS PROPIEDADES DE STORYPLACE SER&Aacute;N PRECISOS O CONFIABLES.</p>
-                                        </li>
-                                        <li>
-                                            <p>EL ACCESO A CUALQUIER CONTENIDO DESCARGADO DE STORYPLACE O AL QUE SE ACCEDA DE CUALQUIER OTRA FORMA A TRAV&Eacute;S DEL MISMO SE REALIZA POR SU CUENTA Y RIESGO, Y USTED SER&Aacute; EL &Uacute;NICO RESPONSABLE DE CUALQUIER DA&Ntilde;O A SU PROPIEDAD, INCLUIDOS, ENTRE OTROS, SU SISTEMA INFORM&Aacute;TICO Y CUALQUIER DISPOSITIVO QUE UTILICE PARA ACCEDER A LAS PROPIEDADES DE STORYPLACE, O DE CUALQUIER OTRA P&Eacute;RDIDA QUE RESULTE DEL ACCESO A DICHO CONTENIDO.&nbsp;</p>
-                                        </li>
-                                        <li>
-                                            <p>LOS SERVICIOS PUEDEN ESTAR SUJETOS A RETRASOS, CANCELACIONES Y OTRAS INTERRUPCIONES. STORYPLACE NO OFRECE NINGUNA GARANT&Iacute;A, DECLARACI&Oacute;N O CONDICI&Oacute;N CON RESPECTO A LOS SERVICIOS, INCLUIDAS, ENTRE OTRAS, LA CALIDAD, LA EFICACIA, LA REPUTACI&Oacute;N Y OTRAS CARACTER&Iacute;STICAS DE LOS SERVICIOS.</p>
-                                        </li>
-                                        <li>
-                                            <p>NING&Uacute;N CONSEJO O INFORMACI&Oacute;N, YA SEA ORAL O ESCRITA, OBTENIDO DE STORYPLACE O A TRAV&Eacute;S DE LAS PROPIEDADES DE STORYPLACE GENERAR&Aacute; NINGUNA GARANT&Iacute;A QUE NO EST&Eacute; EXPRESAMENTE ESTIPULADA EN ESTE DOCUMENTO.</p>
-                                        </li>
-                                        <li>
-                                            <p>De vez en cuando, STORYPLACE puede ofrecer nuevas funciones o herramientas &laquo;beta&raquo; con las que los usuarios registrados pueden experimentar. Dichas funciones o herramientas se ofrecen &uacute;nicamente con fines experimentales y sin garant&iacute;a&nbsp;de ning&uacute;n tipo, y pueden modificarse o discontinuarse a la entera y absoluta discreci&oacute;n de STORYPLACE. Las disposiciones de esta secci&oacute;n se aplican con plena vigencia a dichas funciones o herramientas.</p>
-                                        </li>
-                                    </ol>
-                                </li>
-                                <li>
-                                    <p>Descargo de responsabilidad por la conducta de terceros. USTED RECONOCE Y ACEPTA QUE LAS PARTES DE STORYPLACE NO SON RESPONSABLES Y SE COMPROMETE A NO PRETENDER RESPONSABILIZAR A LAS PARTES DE STORYPLACE POR LA CONDUCTA DE TERCEROS, INCLUIDOS LOS OPERADORES DE SITIOS EXTERNOS, Y QUE EL RIESGO DE LESIONES POR PARTE DE DICHOS TERCEROS RECAE EXCLUSIVAMENTE EN USTED.</p>
-                                </li>
-                                <li>
-                                    <p>Descargo de responsabilidad por la conducta de otros usuarios. USTED ES EL &Uacute;NICO RESPONSABLE DE TODAS SUS COMUNICACIONES E INTERACCIONES CON OTROS USUARIOS DE LAS PROPIEDADES DE STORYPLACE. USTED COMPRENDE QUE STORYPLACE NO INTENTA VERIFICAR LAS DECLARACIONES DE LOS USUARIOS DE LAS PROPIEDADES DE STORYPLACE. STORYPLACE NO HACE DECLARACIONES NI GARANTIZA LA CONDUCTA DE LOS USUARIOS DE LAS PROPIEDADES DE STORYPLACE NI SU COMPATIBILIDAD CON LOS USUARIOS ACTUALES O FUTUROS DE LAS PROPIEDADES DE STORYPLACE. USTED SE COMPROMETE A TOMAR PRECAUCIONES RAZONABLES EN TODAS LAS COMUNICACIONES E INTERACCIONES CON OTROS USUARIOS DE LAS PROPIEDADES DE STORYPLACE, ESPECIALMENTE SI DECIDE REUNIRSE FUERA DE L&Iacute;NEA O EN PERSONA. USTED RECONOCE Y ACEPTA QUE STORYPLACE NO VERIFICA LOS ANTECEDENTES DE NING&Uacute;N USUARIO.</p>
-                                </li>
-                                <li>
-                                    <p>Descargo de responsabilidad por la conducta de los usuarios de PRO. SI ES UN USUARIO, ES EL &Uacute;NICO RESPONSABLE DE TODAS SUS COMUNICACIONES E INTERACCIONES CON OTROS USUARIOS, INCLUIDAS, ENTRE OTRAS, LAS INTERACCIONES RELACIONADAS CON CUALQUIER HISTORIA, EL ACCESO A DICHAS HISTORIAS Y SU PRESENTACI&Oacute;N, Y CUALQUIER COMUNICACI&Oacute;N O ACUERDO RELACIONADO (PERO SIN LIMITARSE A) LA ADQUISICI&Oacute;N DE CUALQUIER DERECHO, T&Iacute;TULO O INTER&Eacute;S EN DICHAS HISTORIAS.</p>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>Limitaci&oacute;n de responsabilidad.</p>
-                            <ol>
-                                <li>
-                                    <p>Descargo de responsabilidad por ciertos da&ntilde;os. USTED ENTIENDE Y ACEPTA QUE, EN NING&Uacute;N CASO, LAS PARTES DE STORYPLACE SER&Aacute;N RESPONSABLES DE NINGUNA P&Eacute;RDIDA DE BENEFICIOS, INGRESOS O DATOS, DA&Ntilde;OS INDIRECTOS, INCIDENTALES, ESPECIALES O CONSECUENTES, NI DE LOS DA&Ntilde;OS O COSTOS DEBIDOS A LA P&Eacute;RDIDA DE PRODUCCI&Oacute;N O USO, LA INTERRUPCI&Oacute;N DE LA ACTIVIDAD COMERCIAL, LA ADQUISICI&Oacute;N DE BIENES O SERVICIOS SUSTITUTIVOS, EN CUALQUIER CASO, INDEPENDIENTEMENTE DE QUE STORYPLACE HAYA SIDO INFORMADA O NO DE LA POSIBILIDAD DE DICHOS DA&Ntilde;OS, QUE SURJAN O EST&Eacute;N RELACIONADOS CON EL ACUERDO O CUALQUIER COMUNICACI&Oacute;N, INTERACCI&Oacute;N O REUNI&Oacute;N CON OTROS USUARIOS DE LAS PROPIEDADES DE STORYPLACE, SEG&Uacute;N CUALQUIER TEOR&Iacute;A DE LA RESPONSABILIDAD LEGAL, RESULTANDO DE: (1) EL USO O LA IMPOSIBILIDAD DE USAR LAS PROPIEDADES DE STORYPLACE; (2) EL COSTO DE ADQUISICI&Oacute;N DE BIENES O SERVICIOS SUSTITUTIVOS RESULTANTE DE CUALQUIER BIEN, DATO, INFORMACI&Oacute;N O SERVICIO COMPRADO U OBTENIDO O DE LOS MENSAJES RECIBIDOS POR TRANSACCIONES REALIZADAS A TRAV&Eacute;S DE LAS PROPIEDADES DE STORYPLACE; (3) EL ACCESO NO AUTORIZADO O LA ALTERACI&Oacute;N DE SUS TRANSMISIONES O DATOS; (4) LAS DECLARACIONES O LA CONDUCTA DE CUALQUIER TERCERO SOBRE LAS PROPIEDADES DE STORYPLACE; O (5) CUALQUIER OTRO ASUNTO RELACIONADO CON LAS PROPIEDADES DE STORYPLACE, YA BASADO EN LA GARANT&Iacute;A, LOS DERECHOS DE AUTOR, EL CONTRATO, LA RESPONSABILIDAD EXTRACONTRACTUAL (INCLUIDA LA NEGLIGENCIA) Y LA RESPONSABILIDAD POR PRODUCTOS DEFECTUOSOS O CUALQUIER OTRA TEOR&Iacute;A JUR&Iacute;DICA. LA LIMITACI&Oacute;N DE RESPONSABILIDAD ANTERIOR NO SE APLICAR&Aacute; A LA RESPONSABILIDAD DE UNA PARTE DE STORYPLACE POR (A) LA MUERTE O LAS LESIONES PERSONALES CAUSADAS POR UNA NEGLIGENCIA GRAVE DE UNA PARTE DE STORYPLACE; NI A (B) NINGUNA LESI&Oacute;N CAUSADA POR UN FRAUDE O TERGIVERSACI&Oacute;N FRAUDULENTA DE UNA PARTE DE STORYPLACE.&nbsp;</p>
-                                </li>
-                                <li>
-                                    <p>L&iacute;mite de responsabilidad. BAJO NINGUNA CIRCUNSTANCIA, LAS PARTES DE STORYPLACE SER&Aacute;N RESPONSABLES ANTE USTED&nbsp;(INCLUIDOS TODOS LOS HONORARIOS Y COSTOS LEGALES Y DE COBRANZA)&nbsp;POR UNA CANTIDAD SUPERIOR A (A) LA CANTIDAD TOTAL PAGADA A STORYPLACE por usted durante el per&iacute;odo de un mes anterior al acto, omisi&oacute;n o suceso que d&eacute; lugar a dicha responsabilidad y (B) EL RECURSO O LA SANCI&Oacute;N IMPUESTOS POR LA LEY EN VIRTUD DEL CUAL SURJA DICHA DEMANDA. &nbsp;EL L&Iacute;MITE DE RESPONSABILIDAD ANTERIOR NO SE APLICAR&Aacute; A LA RESPONSABILIDAD DE UNA PARTE DE STORYPLACE POR (A) LA MUERTE O LAS LESIONES PERSONALES CAUSADAS POR LA NEGLIGENCIA GRAVE DE UNA PARTE DE STORYPLACE; NI POR (B) NINGUNA LESI&Oacute;N CAUSADA POR EL FRAUDE O LA TERGIVERSACI&Oacute;N FRAUDULENTA DE UNA PARTE DE STORYPLACE.</p>
-                                </li>
-                                <li>
-                                    <p>Contenido del usuario. A EXCEPCI&Oacute;N DE LAS OBLIGACIONES DE STORYPLACE DE PROTEGER SUS DATOS PERSONALES, TAL COMO SE ESTABLECE EN LA&nbsp;<a href="https://old.storyplace.com/en/privacy">POL&Iacute;TICA DE PRIVACIDAD</a> DE STORYPLACE, STORYPLACE NO ASUME NINGUNA RESPONSABILIDAD POR LA PUNTUALIDAD, LA ELIMINACI&Oacute;N, LA ENTREGA INCORRECTA O LA FALTA DE ALMACENAMIENTO DE NING&Uacute;N CONTENIDO (INCLUIDOS, ENTRE OTROS, SU CONTENIDO Y CONTENIDO DEL USUARIO), LAS COMUNICACIONES DE LOS USUARIOS Y/O LA CONFIGURACI&Oacute;N DE PERSONALIZACI&Oacute;N.</p>
-                                </li>
-                                <li>
-                                    <p>Base de la negociaci&oacute;n. LAS LIMITACIONES DE LOS DA&Ntilde;OS EXPUESTAS ANTERIORMENTE SON ELEMENTOS FUNDAMENTALES DE LA BASE DE LA NEGOCIACI&Oacute;N ENTRE STORYPLACE Y USTED.</p>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>Procedimiento para presentar demandas por infracci&oacute;n de derechos de autor. La pol&iacute;tica de STORYPLACE consiste en anular los privilegios de membres&iacute;a de cualquier Usuario registrado que infrinja reiteradamente los derechos de autor tras una notificaci&oacute;n inmediata a STORYPLACE por parte del propietario de los derechos de autor o del representante legal del propietario de los derechos de autor. Sin perjuicio de lo anterior, si cree que su obra ha sido copiada y publicada en STORYPLACE Properties de una manera que constituye una infracci&oacute;n de derechos de autor, proporcione a nuestro agente de derechos de autor la siguiente informaci&oacute;n: (a) una firma electr&oacute;nica o f&iacute;sica de la persona autorizada a actuar en nombre del propietario de los derechos de autor; (b) una descripci&oacute;n de la obra protegida por derechos de autor que afirma que se ha infringido; (c) una descripci&oacute;n de la ubicaci&oacute;n en las Propiedades de STORYPLACE del material que, seg&uacute;n usted, infringe; (d) su direcci&oacute;n, n&uacute;mero de tel&eacute;fono y direcci&oacute;n de correo electr&oacute;nico; (e) una declaraci&oacute;n escrita suya en la que afirme que cree de buena fe que el uso en disputa no est&aacute; autorizado por el propietario de los derechos de autor, su agente o la ley; y (f) una declaraci&oacute;n suya, hecha bajo pena de perjurio, de que la informaci&oacute;n anterior de su aviso es precisa y que usted es el propietario de los derechos de autor o est&aacute; autorizado a actuar en nombre del propietario de los derechos de autor. La informaci&oacute;n de contacto del Agente de derechos de autor de STORYPLACE para la notificaci&oacute;n de demandas por infracci&oacute;n de derechos de autor es la siguiente: StoryPlace HQ, 450 N Palm Dr., Beverly Hills, CA 90210.</p>
-                            <ol>
-                                <li>
-                                    <p>Infracciones. Si STORYPLACE se entera de cualquier posible infracci&oacute;n por su parte del Acuerdo, STORYPLACE se reserva el derecho de investigar dichas infracciones. Si, como resultado de la investigaci&oacute;n, STORYPLACE cree que se ha producido una actividad delictiva, STORYPLACE se reserva el derecho de remitir el asunto a todas y cada una de las autoridades legales aplicables y de cooperar con ellas. STORYPLACE tiene derecho, excepto en la medida en que lo proh&iacute;ba la ley aplicable, a divulgar cualquier informaci&oacute;n o material sobre o en las Propiedades de STORYPLACE, incluido Su contenido, en poder de STORYPLACE en relaci&oacute;n con su uso de las Propiedades de STORYPLACE, para (a) cumplir con las leyes aplicables, los procesos legales o las solicitudes gubernamentales; (b) hacer cumplir las condiciones, (c) responder a cualquier afirmaci&oacute;n de que Su contenido infringe los derechos de terceros, (d) responder a sus solicitudes de servicio al cliente, o (e) proteger los derechos, la propiedad o la seguridad personal de STORYPLACE, sus usuarios o el p&uacute;blico y todos los funcionarios encargados de hacer cumplir la ley u otros funcionarios gubernamentales, seg&uacute;n STORYPLACE considere necesario o apropiado, a su entera y absoluta discreci&oacute;n.</p>
-                                </li>
-                                <li>
-                                    <p>Incumplimiento. En caso de que STORYPLACE determine, a su entera y absoluta discreci&oacute;n, que usted ha incumplido alguna parte del Acuerdo o que ha demostrado de otro modo una conducta inapropiada para las Propiedades de STORYPLACE, STORYPLACE se reserva el derecho de:</p>
-                                    <ol>
-                                        <li>
-                                            <p>Advertirle por correo electr&oacute;nico (a cualquier direcci&oacute;n de correo electr&oacute;nico que haya proporcionado a STORYPLACE) de que ha infringido el Acuerdo;</p>
-                                        </li>
-                                        <li>
-                                            <p>Eliminar cualquier parte de Su contenido proporcionado por usted o sus agentes a las Propiedades de STORYPLACE;</p>
-                                        </li>
-                                        <li>
-                                            <p>Interrumpir su registro en cualquiera de las Propiedades de STORYPLACE, incluidos los Servicios o cualquier comunidad de STORYPLACE;</p>
-                                        </li>
-                                        <li>
-                                            <p>Interrumpir su suscripci&oacute;n a cualquier Servicio;</p>
-                                        </li>
-                                        <li>
-                                            <p>Notificar y/o enviar contenido a las autoridades policiales correspondientes y/o cooperar plenamente con ellas para tomar medidas adicionales; y/o</p>
-                                        </li>
-                                        <li>
-                                            <p>Realizar cualquier otra acci&oacute;n que STORYPLACE considere apropiada.</p>
-                                        </li>
-                                    </ol>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>Duraci&oacute;n y terminaci&oacute;n.</p>
-                            <ol>
-                                <li>
-                                    <p>Per&iacute;odo de vigencia.&nbsp;El Acuerdo comienza en la fecha en que usted lo acepta (tal como se describe anteriormente) y permanece en pleno vigor y efecto mientras utilice las Propiedades de STORYPLACE, a menos que se rescinda antes, de conformidad con el Acuerdo, al tiempo que garantiza, acepta y reconoce que ciertas disposiciones que se le deban a STORYPLACE, tal como se estipula en este documento, sobrevivir&aacute;n a dicha rescisi&oacute;n o caducidad.</p>
-                                </li>
-                                <li>
-                                    <p>Uso previo. Sin perjuicio de lo anterior, por la presente reconoce y acepta que el Acuerdo comenz&oacute; en la primera de las siguientes fechas: (a) la fecha en que utiliz&oacute; por primera vez las Propiedades de STORYPLACE o (b) la fecha en que acept&oacute; el Acuerdo, permanecer&aacute; en pleno vigor y efecto mientras utilice cualquier Propiedad de STORYPLACE, a menos que se rescinda antes de conformidad con el Acuerdo, al tiempo que garantiza, acepta y reconoce que ciertas disposiciones que se le deban a STORYPLACE, tal como se estipula en este documento, sobrevivir&aacute;n a dicha rescisi&oacute;n o vencimiento.&nbsp;</p>
-                                </li>
-                                <li>
-                                    <p>Terminaci&oacute;n de los servicios por usted&nbsp;Si desea cancelar los Servicios proporcionados por STORYPLACE, puede hacerlo (a) notific&aacute;ndolo a STORYPLACE en cualquier momento y (b) cerrando su Cuenta para todos los Servicios que utiliza. Su notificaci&oacute;n debe enviarse por escrito a la direcci&oacute;n de STORYPLACE que figura a continuaci&oacute;n,&nbsp;si bien las partes acuerdan que ciertas disposiciones estipuladas en este documento que se le deban a STORYPLACE seguir&aacute;n vigentes despu&eacute;s de dicha rescisi&oacute;n o caducidad.</p>
-                                </li>
-                                <li>
-                                    <p>Efecto de la rescisi&oacute;n. La rescisi&oacute;n de cualquier Servicio incluye (pero no se limita a) la eliminaci&oacute;n del acceso a dicho Servicio y la prohibici&oacute;n de su uso posterior. La rescisi&oacute;n de todos los Servicios tambi&eacute;n incluye la eliminaci&oacute;n de su contrase&ntilde;a y de toda la informaci&oacute;n, los archivos y el contenido relacionados con o dentro de su Cuenta (o cualquier parte de esta), incluido su Contenido (a la entera y absoluta discreci&oacute;n de STORYPLACE). Tras la rescisi&oacute;n de cualquier Servicio, su derecho a utilizar dicho Servicio finalizar&aacute; autom&aacute;ticamente de forma inmediata, al tiempo que garantiza, acepta y reconoce que determinadas disposiciones adeudadas a STORYPLACE, tal como se estipula en este documento, seguir&aacute;n vigentes tras dicha rescisi&oacute;n o caducidad.</p>
-                                </li>
-                                <li>
-                                    <p>Uso previo. Sin perjuicio de lo anterior, usted reconoce que cualquier rescisi&oacute;n de los Servicios puede implicar la eliminaci&oacute;n de su Contenido asociado a los mismos de nuestras bases de datos activas. STORYPLACE no tendr&aacute; ninguna responsabilidad ante usted por cualquier suspensi&oacute;n o rescisi&oacute;n, incluida la eliminaci&oacute;n de su Contenido. Todas las disposiciones del Acuerdo que, por su naturaleza, deban sobrevivir, seguir&aacute;n vigentes despu&eacute;s de la rescisi&oacute;n de los Servicios, incluidas, entre otras, las disposiciones de propiedad, la indemnizaci&oacute;n, las exenciones de garant&iacute;a y la limitaci&oacute;n de responsabilidad,&nbsp;y se aplicar&aacute;n en todo el presente Acuerdo.</p>
-                                </li>
-                                <li>
-                                    <p>Sin registro posterior. Si STORYPLACE interrumpe su registro o la posibilidad de acceder a las Propiedades de STORYPLACE o a cualquier otra comunidad de STORYPLACE debido a la violaci&oacute;n de cualquier parte del Acuerdo o por una conducta que de otro modo sea inapropiada para la comunidad, usted se compromete a no volver a registrarse en las Propiedades de STORYPLACE o a ninguna comunidad de STORYPLACE mediante el uso de un nombre de miembro diferente o de otro modo, y reconoce que no tendr&aacute; derecho a recibir ninguna contraprestaci&oacute;n relacionada con esas Propiedades de STORYPLACE a las que su acceso ha sido cancelado. En caso de que usted infrinja la oraci&oacute;n inmediatamente anterior, STORYPLACE se reserva el derecho, a su entera discreci&oacute;n, de tomar inmediatamente cualquiera o todas las medidas aqu&iacute; establecidas sin previo aviso ni advertencia.</p>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>Usuarios internacionales. Se puede acceder a las Propiedades de STORYPLACE desde pa&iacute;ses de todo el mundo y pueden contener referencias a Servicios y Contenido que no est&aacute;n disponibles en su pa&iacute;s. Estas referencias no implican que STORYPLACE tenga la intenci&oacute;n de anunciar dichos Servicios o Contenido en su pa&iacute;s. STORYPLACE controla y ofrece las Propiedades de STORYPLACE desde sus instalaciones en los Estados Unidos de Am&eacute;rica. STORYPLACE no garantiza que las Propiedades de STORYPLACE sean apropiadas o est&eacute;n disponibles para su uso en otras ubicaciones. Quienes accedan a las Propiedades de STORYPLACE o las utilicen desde otros pa&iacute;ses lo hacen por su propia voluntad y son responsables del cumplimiento de la legislaci&oacute;n local.</p>
-                        </li>
-                        <li>
-                            <p>Soluci&oacute;n de controversias.&nbsp;Lea atentamente el siguiente acuerdo de arbitraje de esta secci&oacute;n (&laquo;Acuerdo de arbitraje&raquo;). Le exige que arbitre las disputas con STORYPLACE y limita la manera en que puede solicitarnos reparaci&oacute;n.&nbsp;</p>
-                            <ol>
-                                <li>
-                                    <p>Aplicabilidad del acuerdo de arbitraje.&nbsp;Usted acepta que cualquier disputa o reclamaci&oacute;n relacionada de alguna manera con su acceso o uso del sitio web, con cualquier producto vendido o distribuido a trav&eacute;s del sitio web, o con cualquier aspecto de su relaci&oacute;n con STORYPLACE, se resolver&aacute; mediante un arbitraje vinculante y no ante un tribunal, excepto que STORYPLACE podr&aacute; solicitar una reparaci&oacute;n equitativa ante los tribunales por infracci&oacute;n u otro uso indebido de los derechos de propiedad intelectual (como marcas comerciales, imagen comercial, nombres de dominio, secretos comerciales, derechos de autor y patentes). Este Acuerdo de Arbitraje se aplicar&aacute;, sin limitaci&oacute;n, a todas las reclamaciones que hayan surgido o se hayan presentado antes de la fecha de entrada en vigor de este Acuerdo o de cualquier versi&oacute;n anterior de este Acuerdo.&nbsp;</p>
-                                </li>
-                                <li>
-                                    <p>Reglas de arbitraje y jurisdicci&oacute;n.&nbsp;Todas las disputas que surjan del presente Acuerdo o est&eacute;n relacionadas con &eacute;l, incluida cualquier cuesti&oacute;n relacionada con su existencia, validez o rescisi&oacute;n, se resolver&aacute;n definitivamente con arreglo a las Reglas de Arbitraje&nbsp;del Condado de Los &Aacute;ngeles, California, de conformidad con las Reglas y procedimientos de arbitraje simplificados de Judicial Arbitration and Mediation Services, Inc. (&laquo;JAMS&raquo;) en vigor en ese momento, por un &aacute;rbitro comercial con una experiencia sustancial en la resoluci&oacute;n de disputas de propiedad intelectual y contratos comerciales, que ser&aacute; seleccionado de la lista adecuada de &aacute;rbitros de JAMS de acuerdo con las Reglas y procedimientos de arbitraje simplificados de JAMS. La sentencia sobre el laudo as&iacute; dictado podr&aacute; ser presentada ante un tribunal competente, o podr&aacute; solicitarse a dicho tribunal la aceptaci&oacute;n judicial de cualquier laudo y una orden de ejecuci&oacute;n, seg&uacute;n sea el caso. Sin perjuicio de lo anterior, usted acepta renunciar a su derecho a solicitar o iniciar una acci&oacute;n ante un tribunal competente para obtener medidas cautelares u otro tipo de compensaci&oacute;n equitativa y acepta limitar todos los recursos que pueda interponer a la indemnizaci&oacute;n por da&ntilde;os y perjuicios. A todos los efectos de estos T&eacute;rminos, usted acepta someterse a la jurisdicci&oacute;n y competencia exclusivas de los tribunales estatales o federales ubicados, respectivamente, en el condado de Los &Aacute;ngeles, California. La parte que prevalezca en cualquier acci&oacute;n o procedimiento que surja de estos T&eacute;rminos tendr&aacute; derecho a que se le impaguen las costas y los honorarios de abogados externos. En la medida en que lo permita la ley, usted y StoryPlace aceptan que todas las demandas contra la otra parte s&oacute;lo pueden presentarse a t&iacute;tulo individual, y no como demandante o miembro de una clase en un supuesto procedimiento colectivo, consolidado o representativo de otro tipo Usted acepta que los &aacute;rbitros no pueden llevar a cabo ning&uacute;n procedimiento colectivo, consolidado o representativo, y se limitan a proporcionar las medidas que justifique la demanda de una parte individual.&nbsp;Sin perjuicio de lo establecido en el presente que indique lo contrario, la ejecuci&oacute;n de cualquier laudo podr&aacute; solicitarse en cualquier tribunal de la jurisdicci&oacute;n competente.</p>
-                                </li>
-                                <li>
-                                    <p>Exenci&oacute;n de juicio con jurado. STORYPLACE Y USTED RENUNCIAN A CUALQUIER DERECHO CONSTITUCIONAL Y LEGAL A DEMANDAR ANTE UN TRIBUNAL Y A CELEBRAR UN JUICIO ANTE UN JUEZ O UN JURADO. En cambio, usted y STORYPLACE eligen que todas las demandas y disputas se resuelvan mediante arbitraje en virtud del presente Acuerdo. Un &aacute;rbitro puede conceder de forma individual los mismos da&ntilde;os y reparaciones que un tribunal y debe cumplir este Acuerdo como lo har&iacute;a un tribunal. Sin embargo, no hay juez ni jurado en el arbitraje, y la revisi&oacute;n judicial de un laudo arbitral est&aacute; sujeta a una revisi&oacute;n muy limitada.&nbsp;</p>
-                                </li>
-                                <li>
-                                    <p>Renuncia a acciones colectivas u otras medidas de reparaci&oacute;n no individualizadas.&nbsp;TODAS LAS DEMANDAS Y DISPUTAS QUE ENTREN EN EL &Aacute;MBITO DE APLICACI&Oacute;N DEL PRESENTE ACUERDO DEBER&Aacute;N SOMETERSE A ARBITRAJE DE FORMA INDIVIDUAL Y NO COLECTIVA, S&Oacute;LO SE CONCEDER&Aacute;N INDEMNIZACIONES INDIVIDUALES, Y LAS DEMANDAS DE M&Aacute;S DE UN CLIENTE O USUARIO NO PODR&Aacute;N SOMETERSE A ARBITRAJE NI CONSOLIDARSE CON LAS DE NING&Uacute;N OTRO CLIENTE O USUARIO. Si se emite una decisi&oacute;n en la que se declare que la ley aplicable impide la aplicaci&oacute;n de cualquiera de las limitaciones de esta subsecci&oacute;n en cuanto a una demanda de reparaci&oacute;n determinada, la demanda debe separarse del arbitraje y presentarse ante los tribunales estatales o federales ubicados en el estado de California. Todas las dem&aacute;s demandas se someter&aacute;n a arbitraje.&nbsp;</p>
-                                </li>
-                                <li>
-                                    <p>Derecho de exclusi&oacute;n de 30 d&iacute;as.&nbsp;Usted tiene derecho a excluirse de las disposiciones de esta cl&aacute;usula de arbitraje enviando una notificaci&oacute;n por escrito de su decisi&oacute;n de excluirse a: support@storyplace.com, en un plazo de 30 d&iacute;as a partir de la fecha en que quede sujeto al presente Acuerdo. Su notificaci&oacute;n debe incluir su nombre y direcci&oacute;n, su nombre de usuario de STORYPLACE (si lo hubiera), la direcci&oacute;n de correo electr&oacute;nico que utiliz&oacute; para configurar su cuenta de STORYPLACE (si tiene una) y una declaraci&oacute;n inequ&iacute;voca de que desea excluirse de esta disposici&oacute;n de arbitraje. Si opta por excluirse de esta disposici&oacute;n de arbitraje, todas las dem&aacute;s partes de este Acuerdo seguir&aacute;n aplic&aacute;ndose a usted. La exclusi&oacute;n voluntaria de esta disposici&oacute;n de arbitraje no afectar&aacute; a ning&uacute;n otro acuerdo que pueda tener actualmente o que pueda celebrar en el futuro con nosotros.</p>
-                                </li>
-                                <li>
-                                    <p>Separabilidad.&nbsp;Si la ley determina que alguna parte o partes de este Acuerdo son inv&aacute;lidas o inaplicables, dicha parte o partes espec&iacute;ficas no tendr&aacute;n vigencia ni efecto y se separar&aacute;n y el resto del Acuerdo continuar&aacute; en pleno vigor y efecto.</p>
-                                </li>
-                                <li>
-                                    <p>Continuidad contractual del acuerdo.&nbsp;El presente Acuerdo seguir&aacute; vigente tras la finalizaci&oacute;n de su relaci&oacute;n con STORYPLACE.</p>
-                                </li>
-                                <li>
-                                    <p>Modificaci&oacute;n. Sin perjuicio de cualquier disposici&oacute;n de este Acuerdo que indique lo contrario, aceptamos que, si STORYPLACE realiza alg&uacute;n cambio material en el futuro en este Acuerdo, usted podr&aacute; rechazar dicho cambio POR ESCRITO en un plazo de treinta (30) d&iacute;as a partir de la entrada en vigor de dicho cambio escribiendo a STORYPLACE a la siguiente direcci&oacute;n: StoryPlace HQ, 450 N Palm Dr., Beverly Hills, CA 90210.</p>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>Disposiciones generales.</p>
-                            <ol>
-                                <li>
-                                    <p>Comunicaciones electr&oacute;nicas. Las comunicaciones entre usted y STORYPLACE pueden realizarse por medios electr&oacute;nicos, ya sea que visite las Propiedades de STORYPLACE o env&iacute;e correos electr&oacute;nicos a STORYPLACE, o bien STORYPLACE publique avisos en las Propiedades de STORYPLACE o se comunique con usted por correo electr&oacute;nico. A efectos contractuales, usted (a) acepta recibir comunicaciones de STORYPLACE en formato electr&oacute;nico; y (b) acepta que todos los t&eacute;rminos y condiciones, acuerdos, avisos, divulgaciones y otras comunicaciones que STORYPLACE le proporcione electr&oacute;nicamente satisfacen cualquier requisito legal que dichas comunicaciones cumplir&iacute;an si se realizaran por escrito. Lo anterior no afecta a sus derechos legales.</p>
-                                </li>
-                                <li>
-                                    <p>Exenci&oacute;n de responsabilidad.&nbsp;Por la presente, exime a las partes de STORYPLACE y a sus sucesores y cesionarios de cualquier reclamaci&oacute;n, demanda, p&eacute;rdida, da&ntilde;o, derecho y acci&oacute;n de cualquier tipo, incluidas las lesiones personales, la muerte y los da&ntilde;os a la propiedad, que est&eacute;n relacionadas directa o indirectamente con su uso de las Propiedades de STORYPLACE o se deriven de ellas, incluidas, entre otras, las interacciones o la conducta de otros usuarios o sitios web de terceros de cualquier tipo que surja en relaci&oacute;n con o como resultado del Acuerdo o su uso de las Propiedades de STORYPLACE. Si usted es residente de California, por la presente renuncia al art&iacute;culo 1542 del C&oacute;digo Civil de California, que establece: &laquo;Una exenci&oacute;n general no se extiende a las reclamaciones que el acreedor o la parte exonerante no conozca o sospeche que existen a su favor en el momento de ejecutar la exenci&oacute;n y que, de saberlo, habr&iacute;an afectado sustancialmente a su acuerdo con el deudor o la&nbsp;parte exonerada&raquo;.&nbsp;La declaraci&oacute;n anterior no se aplica a ninguna reclamaci&oacute;n, demanda ni a ninguna p&eacute;rdida, da&ntilde;o, derecho o acci&oacute;n de ning&uacute;n tipo, incluidas las lesiones personales, la muerte o los da&ntilde;os a la propiedad, por cualquier pr&aacute;ctica comercial desmesurada por parte de una Parte de STORYPLACE o por fraude, enga&ntilde;o, falsa promesa, tergiversaci&oacute;n u ocultaci&oacute;n, supresi&oacute;n u omisi&oacute;n de cualquier hecho material por parte de dicha parte en relaci&oacute;n con el Sitio web.</p>
-                                </li>
-                                <li>
-                                    <p>Cesi&oacute;n. Usted no podr&aacute; ceder, subcontratar, delegar ni transferir de otro modo el Acuerdo ni sus derechos y obligaciones en virtud del presente documento sin el consentimiento previo por escrito de STORYPLACE, que se negar&aacute; a su entera y absoluta discreci&oacute;n, y cualquier intento de cesi&oacute;n, subcontrataci&oacute;n, delegaci&oacute;n o transferencia que infrinja lo anterior se considerar&aacute; inmediatamente nulo y sin efecto ab initio.</p>
-                                </li>
-                                <li>
-                                    <p>Fuerza mayor.&nbsp;STORYPLACE no ser&aacute; responsable de ning&uacute;n retraso o incumplimiento derivado de causas ajenas a su control razonable, incluidos, entre otros, casos fortuitos, guerras, terrorismo, disturbios, embargos, actos de las autoridades civiles o militares, incendios, inundaciones, pandemias, epidemias, accidentes, huelgas o escasez de medios de transporte, combustible, energ&iacute;a, mano de obra o materiales.</p>
-                                </li>
-                                <li>
-                                    <p>Preguntas, quejas, reclamos. Si tiene alguna pregunta, queja o reclamo con respecto a las Propiedades de STORYPLACE, p&oacute;ngase en contacto con nosotros en: support@storyplace.com. Haremos todo lo posible para abordar sus inquietudes. Si considera que sus inquietudes no se han abordado de manera completa, lo invitamos a que nos lo comunique para investigar m&aacute;s a fondo.</p>
-                                </li>
-                                <li>
-                                    <p>Lugar exclusivo. En la medida en que el presente Acuerdo permita a las partes iniciar un recurso, tanto usted como STORYPLACE acuerdan que todas las demandas y disputas que surjan del Acuerdo o est&eacute;n relacionadas con &eacute;l se desarrollar&aacute;n exclusivamente en el condado de Los &Aacute;ngeles (California).</p>
-                                </li>
-                                <li>
-                                    <p>Ley aplicable y jurisdicci&oacute;n. Los T&eacute;rminos de uso y cualquier acci&oacute;n relacionada con los mismos se regir&aacute;n e interpretar&aacute;n por y bajo las leyes del Estado de California, de conformidad con&nbsp;las Reglas y procedimientos simplificados de Judicial Arbitration and Mediation Services, Inc. (&laquo;JAMS&raquo;) en vigor en ese momento, sin dar efecto a ning&uacute;n principio que prevea la aplicaci&oacute;n de la ley de otra jurisdicci&oacute;n.&nbsp;</p>
-                                </li>
-                                <li>
-                                    <p>Elecci&oacute;n de idioma. Este Acuerdo, y cualquier contrato entre nosotros, est&aacute;n &uacute;nicamente en ingl&eacute;s.&nbsp;</p>
-                                </li>
-                                <li>
-                                    <p>Notificaci&oacute;n. Cuando STORYPLACE requiera que proporcione una direcci&oacute;n de correo electr&oacute;nico, usted es responsable de proporcionar a STORYPLACE su direcci&oacute;n de correo electr&oacute;nico m&aacute;s reciente. En caso de que la &uacute;ltima direcci&oacute;n de correo electr&oacute;nico que proporcion&oacute; a STORYPLACE no sea v&aacute;lida o, por cualquier motivo, no pueda enviarle las notificaciones exigidas o permitidas por el Acuerdo, el env&iacute;o por parte de STORYPLACE del correo electr&oacute;nico que contenga dicha notificaci&oacute;n constituir&aacute;, no obstante, una notificaci&oacute;n efectiva. Puede enviar una notificaci&oacute;n a STORYPLACE a la siguiente direcci&oacute;n: StoryPlace HQ, 450 N Palm Dr., Beverly Hills, CA&nbsp;90210. &nbsp;Dicha notificaci&oacute;n se considerar&aacute; entregada cuando STORYPLACE la reciba mediante carta entregada por un servicio de entrega al d&iacute;a siguiente reconocido a nivel nacional o por correo prepagado con franqueo de primera clase a la direcci&oacute;n anterior.</p>
-                                </li>
-                                <li>
-                                    <p>Renuncia. Cualquier renuncia o falta de cumplimiento de cualquier disposici&oacute;n del Acuerdo en una ocasi&oacute;n no se considerar&aacute; una renuncia a ninguna otra disposici&oacute;n ni a dicha disposici&oacute;n en ninguna otra ocasi&oacute;n.</p>
-                                </li>
-                                <li>
-                                    <p>Separabilidad.&nbsp;Si alguna parte de este Acuerdo se considera inv&aacute;lida o inaplicable, dicha parte se interpretar&aacute; de manera que refleje, en la medida de lo posible, la intenci&oacute;n original de las partes, y las partes restantes permanecer&aacute;n en pleno vigor y efecto.</p>
-                                </li>
-                                <li>
-                                    <p>Control de exportaci&oacute;n. No puede usar, exportar, importar ni transferir las Propiedades de STORYPLACE excepto seg&uacute;n lo autorice la ley de EE. UU., las leyes de la jurisdicci&oacute;n en la que obtuvo las Propiedades de STORYPLACE y cualquier otra ley aplicable. En particular, pero sin car&aacute;cter limitativo, las Propiedades de STORYPLACE no pueden exportarse ni reexportarse (a) a ning&uacute;n pa&iacute;s sometido a embargo de los Estados Unidos, ni (b) a ninguna persona que figure en la lista de Nacionales Especialmente Designados del Departamento del Tesoro de Estados Unidos o en la Lista de Personas o Entidades Denegadas del Departamento de Comercio de Estados Unidos. Al utilizar las Propiedades de STORYPLACE, usted declara y garantiza que (y) no se encuentra en un pa&iacute;s que est&eacute; sujeto a un embargo del gobierno de los Estados Unidos o que haya sido designado por el Gobierno de los Estados Unidos como pa&iacute;s que &laquo;apoya al terrorismo&raquo; y (z) no figura en ninguna lista de partes prohibidas o restringidas del gobierno de los EE. UU. Tampoco utilizar&aacute; las Propiedades de STORYPLACE para ning&uacute;n prop&oacute;sito prohibido por la ley estadounidense, incluido el desarrollo, el dise&ntilde;o, la fabricaci&oacute;n o la producci&oacute;n de misiles y armas nucleares, qu&iacute;micas o biol&oacute;gicas. Usted reconoce y acepta que los productos, servicios o tecnolog&iacute;a proporcionados por STORYPLACE est&aacute;n sujetos a las leyes y reglamentos de control de exportaci&oacute;n de los Estados Unidos. Deber&aacute; cumplir con estas leyes y reglamentos y, sin la autorizaci&oacute;n previa del gobierno de los EE. UU., no podr&aacute; exportar, reexportar ni transferir los productos, servicios o tecnolog&iacute;a de STORYPLACE, ya sea directa o indirectamente, a ning&uacute;n pa&iacute;s en violaci&oacute;n de dichas leyes y reglamentos.</p>
-                                </li>
-                                <li>
-                                    <p>Quejas de los consumidores. De conformidad con el art&iacute;culo 1789.3 del C&oacute;digo Civil de California, puede presentar sus quejas a la Unidad de Asistencia para Quejas de la Divisi&oacute;n de Servicios al Consumidor del Departamento de Asuntos del Consumidor de California comunic&aacute;ndose con ellos por escrito en 400 R Street, Sacramento, CA 95814, o por tel&eacute;fono al (800) 952-5210.</p>
-                                </li>
-                                <li>
-                                    <p>Acuerdo completo.&nbsp;El presente Acuerdo es el acuerdo final, completo y exclusivo de las partes con respecto al objeto del presente documento y reemplaza y fusiona todas las discusiones previas entre las partes con respecto a dicho tema.</p>
-                                </li>
-                            </ol>
-                        </li>
-                        <li>
-                            <p>Disposiciones internacionales. Las siguientes disposiciones se aplicar&aacute;n solo si se encuentra en los pa&iacute;ses que se enumeran a continuaci&oacute;n.</p>
-                            <ol>
-                                <li>
-                                    <p>Reino Unido. Un tercero que no sea parte en el Acuerdo no tiene derecho, en virtud de la Ley de Contratos (Derechos de terceros) de 1999, a hacer cumplir ninguna disposici&oacute;n del Acuerdo, pero esto no afecta a ning&uacute;n derecho o recurso de dicho tercero que exista o est&eacute; disponible aparte de esa Ley.</p>
-                                </li>
-                                <li>
-                                    <p>Alemania. No obstante lo dispuesto en el presente documento, STORYPLACE tampoco se hace responsable de los actos de negligencia simple (a menos que causen lesiones o la muerte a una persona), excepto cuando est&eacute;n causados por el incumplimiento de cualquier obligaci&oacute;n contractual sustancial por parte de StoryPlace (vertragswesentliche Pflichten).</p>
-                                </li>
-                            </ol>
+                            <strong>STORYPLACE puede, pero no está obligada a, monitorear o revisar las Propiedades y el Contenido de STORYPLACE en cualquier momento. Sin perjuicio de lo anterior, STORYPLACE tendrá el derecho, a su entera discreción, de eliminar cualquier parte de Su Contenido por cualquier motivo (o sin motivo), incluidos, entre otros, si dicho Contenido infringe el Acuerdo o cualquier ley aplicable. Si bien STORYPLACE no suele supervisar la actividad de los usuarios en relación con las Propiedades o el Contenido de STORYPLACE, si STORYPLACE tiene conocimiento de cualquier posible infracción por su parte de alguna disposición del Acuerdo, STORYPLACE se reserva el derecho de investigar dichas infracciones y STORYPLACE podrá, a su entera y absoluta discreción, rescindir inmediatamente su licencia de uso de las Propiedades de STORYPLACE o cambiar, alterar o eliminar, durante cualquier período de tiempo, Su Contenido, total o parcialmente, sin previo aviso.</strong>
                         </li>
                     </ol>
-                    <p>&nbsp;</p>
-                    <p>Fin del acuerdo</p>
+                    <ol>
+                        <li>
+                            <strong>Interacciones con otros usuarios.</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Responsabilidad del usuario</strong>
+                                </span>
+                                <strong>. Usted es el único responsable de sus interacciones con otros Usuarios Registrados y cualquier otra parte con la que interactúe en o a través de las Propiedades de STORYPLACE. STORYPLACE se reserva el derecho, pero no tiene la obligación, de interceder en dichas controversias. Usted acepta que STORYPLACE no tendrá ninguna responsabilidad legal o de cualquier otra índole en la que incurra como resultado de dichas interacciones, incluidas, entre otras, las interacciones entre los Creadores de Contenido. USTED REALIZA TODAS LAS INTERACCIONES CON CUALQUIER OTRO USUARIO ÚNICAMENTE POR SU CUENTA Y RIESGO, Y STORYPLACE SE EXIME DE TODA RESPONSABILIDAD EN RELACIÓN CON ELLO. ADEMÁS, STORYPLACE SE EXIME DE TODA RESPONSABILIDAD EN RELACIÓN CON CUALQUIER DISPUTA ENTRE LOS USUARIOS DE NUESTROS SERVICIOS, INCLUIDA CUALQUIER DISPUTA RELACIONADA CON LAS HISTORIAS, EL ACCESO A LAS HISTORIAS, LA PRESENTACIÓN DE IDEAS, LA INFORMACIÓN INTERCAMBIADA ENTRE LOS USUARIOS Y CUALQUIER RESPONSABILIDAD RELACIONADA CON CUALQUIER DISCUSIÓN O ACUERDO ENTRE LOS CREADORES DE CONTENIDO Y LOS USUARIOS, INCLUIDOS, ENTRE OTROS, LOS RELACIONADOS CON LA COMPRA, LA ADQUISICIÓN, EL DESARROLLO, LA PRODUCCIÓN, LA DISTRIBUCIÓN Y/O LA EXPLOTACIÓN DE CONTENIDO. ADEMÁS, USTED RECONOCE Y ACEPTA QUE STORYPLACE NO ELABORA PERFILES NI VERIFICA NINGÚN TIPO DE USUARIO, INCLUIDAS BÚSQUEDAS DE ANTECEDENTES PENALES. STORYPLACE NO HACE DECLARACIONES NI GARANTIZA LA CONDUCTA DE NINGÚN USUARIO NI LA COMPATIBILIDAD DE NINGÚN USUARIO CON NINGÚN OTRO USUARIO ACTUAL O FUTURO.&nbsp;</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Contenido proporcionado por otros usuarios</strong>
+                                </span>
+                                <strong>. Las Propiedades de STORYPLACE pueden contener Contenido de Usuario proporcionado por otros Usuarios Registrados. STORYPLACE no es responsable ni controla el Contenido del Usuario. STORYPLACE no tiene la obligación de revisar ni supervisar, y no aprueba, respalda ni ofrece ninguna declaración o garantía con respecto al Contenido del Usuario ni a ningún contenido no generado por STORYPLACE. Usted utiliza todo el Contenido del Usuario e interactúa con otros usuarios bajo su propio riesgo.</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <strong>Servicios y tarifas de terceros.</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Sitios web, aplicaciones y anuncios de terceros</strong>
+                                </span>
+                                <strong>. Las Propiedades de STORYPLACE pueden contener enlaces a sitios web de terceros («Sitios Web de Terceros») y aplicaciones («Aplicaciones de Terceros») y anuncios de terceros («Anuncios de Terceros»). Al hacer clic en un enlace a un Sitio Web de Terceros, una Aplicación de Terceros o un Anuncio de Terceros, no le avisaremos que ha abandonado las Propiedades de STORYPLACE y que está sujeto a los términos y condiciones (incluidas las políticas de privacidad) de otro sitio web o destino. Dichos Sitios Web de Terceros, Aplicaciones de Terceros y Anuncios de Terceros no están bajo el control de STORYPLACE. STORYPLACE no es responsable de ningún Sitios web de terceros, Aplicaciones de terceros o Anuncios de terceros. STORYPLACE proporciona estos Sitios Web de Terceros, Aplicaciones de Terceros y Anuncios de Terceros únicamente para su comodidad y no respalda, revisa, aprueba, monitorea, garantiza ni hace ninguna declaración con respecto a los Sitios Web de Terceros, Aplicaciones de Terceros y Anuncios de Terceros, ni ningún producto o servicio proporcionado en relación con los mismos. Usted utiliza todos los enlaces de Sitios Web de Terceros, Aplicaciones de Terceros y Anuncios de Terceros por su propia cuenta y riesgo. Cuando abandona nuestro Sitio web, el Acuerdo y las políticas dejan de regir. Debe revisar los términos y políticas aplicables, incluidas las prácticas de privacidad y recopilación de datos, de los Sitios web de Terceros o Aplicaciones de Terceros, y se le recomienda que realice las investigaciones que considere necesarias o apropiadas antes de continuar con cualquier transacción con un tercero.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Tiendas de aplicaciones</strong>
+                                </span>
+                                <strong>. Usted reconoce y acepta que la disponibilidad de la Aplicación y los Servicios depende del tercero del que haya recibido la licencia de la Aplicación, por ejemplo, la Tienda de Aplicaciones de Apple o Google Play (cada una de ellas, una «Tienda de Aplicaciones»). Usted reconoce que el Acuerdo es entre usted y STORYPLACE y no con una Tienda de Aplicaciones. STORYPLACE, no una Tienda de Aplicaciones, es la única responsable de las Propiedades de STORYPLACE, incluida la Aplicación, Su Contenido, el mantenimiento, los servicios de soporte y la garantía de estas, y de abordar cualquier reclamación relacionada con estas (por ejemplo, el cumplimiento legal o la infracción de la propiedad intelectual). Para acceder a la Aplicación, debe tener acceso a una red inalámbrica y se compromete a pagar todas las tarifas asociadas a dicho acceso. También acepta pagar todas las tarifas (si las hubiera) que cobre una Tienda de Aplicaciones en relación con las Propiedades de STORYPLACE, incluidas las relacionadas con la Aplicación, si las hubiera. Usted acepta cumplir con la Aplicación y su licencia de uso está condicionada a que cumpla con todos los términos del acuerdo impuestos por la Tienda de Aplicaciones correspondiente al utilizar cualquier Propiedad de STORYPLACE, incluida, entre otros, la Aplicación. Usted reconoce que la Tienda de Aplicaciones (y sus subsidiarias) son terceros beneficiarios del Acuerdo y tendrán el derecho de hacerlo cumplir.&nbsp;</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Impuesto sobre las ventas</strong>
+                                </span>
+                                <strong>. STORYPLACE no cobra actualmente ninguna tarifa por ninguno de sus Servicios. Si en algún momento en el futuro, STORYPLACE comienza a cobrar una tarifa por alguno de sus Servicios, Servicios Complementarios u otros («Tarifas Adicionales»), las Tarifas Adicionales no incluirán ningún impuesto sobre las ventas que pueda adeudarse en relación con dichos Servicios antes mencionados. Si STORYPLACE determina que tiene la obligación legal de cobrarle el impuesto sobre las ventas u otro impuesto gubernamental en relación con este Acuerdo, STORYPLACE recaudará dicho impuesto sobre las ventas u otro impuesto gubernamental, además de las Tarifas y cualquier Tarifa Adicional (si la hubiera). Si alguno de los Servicios, o el pago de cualquier Servicio, en virtud del Acuerdo están sujetos al impuesto sobre las ventas en cualquier jurisdicción y usted no ha remitido el impuesto sobre las ventas aplicable a STORYPLACE, usted será responsable del pago de dicho impuesto sobre las ventas (incluidos otros impuestos gubernamentales) y de cualquier penalización o interés relacionados con STORYPLACE y otros, e indemnizará a STORYPLACE et al., por toda responsabilidad y gasto en que STORYPLACE y otros pueda incurrir en relación con ello. A petición de STORYPLACE, usted le proporcionará los recibos oficiales emitidos por la autoridad tributaria correspondiente u otra prueba similar de que ha pagado todos los impuestos aplicables. A los efectos de esta sección, por «Impuesto sobre las ventas» se entenderá cualquier impuesto sobre las ventas y/o el uso y/o cualquier otro impuesto medido por los ingresos de las ventas que sea el equivalente funcional de un impuesto sobre las ventas, cuando la jurisdicción fiscal aplicable no imponga de otro modo un impuesto sobre las ventas o el uso.</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <strong>Usted se compromete a indemnizar, defender y eximir a STORYPLACE, sus sociedades matrices, subsidiarias, filiales, accionistas, directivos, empleados, agentes, abogados, socios, proveedores y licenciantes (cada una, una «Parte de STORYPLACE» y, colectivamente, las «Partes de STORYPLACE») de cualquier pérdida, coste, responsabilidad legal y gasto (incluidos los honorarios razonables de los abogados y los costes de los testigos expertos) relacionados o derivados de cualquiera de los siguientes: (a) Su Contenido, incluida cualquier demanda, reclamación o acción de otro Usuario Registrado o cualquier otro tercero que alegue que Su Contenido infrinja cualquier derecho, incluidos los derechos de propiedad intelectual, derechos de autor y privacidad; (b) cualquier demanda, reclamación o acción relacionada con el uso de nuestros Servicios interpuesta contra cualquier Parte de STORYPLACE, incluida, entre otras, cualquier demanda, reclamación o acción de un usuario, tercero y/o creador de contenido que alegue (i) robo de ideas, (ii) incumplimiento de un contrato implícito o (iii) infracción de propiedad intelectual o derechos de autor; (c) cualquier demanda, reclamación o acción de otra persona Usuario Registrado o cualquier otro tercero que alegue que Su Contenido es difamatorio; (d) su uso de, o incapacidad de utilizar cualquier propiedad de STORYPLACE; (e) su violación del Acuerdo; (f) su violación de cualquier derecho de otra parte, incluidos, entre otros, los Usuarios registrados; o (g) su violación de cualquier ley, norma o reglamento aplicable. STORYPLACE se reserva el derecho, a su propia costa, de asumir la defensa y el control exclusivos de cualquier asunto que de otro modo esté sujeto a una indemnización por su parte, en cuyo caso usted cooperará plenamente con STORYPLACE en hacer valer cualquier defensa disponible, sin que STORYPLACE renuncie a ninguno de los derechos de indemnización que se le adeudan a STORYPLACE. Usted acepta que las disposiciones de esta sección seguirán vigentes después de la terminación de su Cuenta, del Acuerdo o de su acceso a las Propiedades de STORYPLACE.</strong>
+                        </li>
+                        <li>
+                            <strong>Exención de garantías y condiciones.</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Tal cual.</strong>
+                                </span>
+                                <strong>
+                                    USTED ENTIENDE Y ACEPTA EXPRESAMENTE QUE, EN LA MEDIDA EN QUE LO PERMITA LA LEY APLICABLE, EL USO QUE HAGA DE LAS PROPIEDADES DE STORYPLACE CORRE POR SU CUENTA Y RIESGO, Y QUE LAS PROPIEDADES DE STORYPLACE SE PROPORCIONAN «TAL CUAL» Y «SEGÚN SU DISPONIBILIDAD», CON TODOS SUS DEFECTOS. LAS PARTES DE STORYPLACE RENUNCIAN EXPRESAMENTE A TODAS LAS GARANTÍAS, DECLARACIONES Y CONDICIONES DE CUALQUIER TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS O CONDICIONES IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRACCIÓN QUE SURJAN DEL USO DEL SITIO WEB.&nbsp;</strong>
+                            </li>
+                            <ol>
+                                <li>
+                                    <strong>LAS PARTES DE STORYPLACE NO GARANTIZAN, DECLARAN NI CONDICIONAN QUE: (1) LAS PROPIEDADES DE STORYPLACE CUMPLIRÁN CON SUS REQUISITOS O EXPECTATIVAS; (2) SU USO DE LAS PROPIEDADES DE STORYPLACE SERÁ ININTERRUMPIDO, PUNTUAL, SEGURO O LIBRE DE ERRORES; O (3) LOS RESULTADOS QUE SE PUEDAN OBTENER DEL USO DE LAS PROPIEDADES DE STORYPLACE SERÁN PRECISOS O CONFIABLES.</strong>
+                                </li>
+                                <li>
+                                    <strong>EL ACCESO A CUALQUIER CONTENIDO DESCARGADO DE STORYPLACE O AL QUE SE ACCEDA DE CUALQUIER OTRA FORMA A TRAVÉS DE ESTE SE REALIZA POR SU CUENTA Y RIESGO, Y USTED SERÁ EL ÚNICO RESPONSABLE DE CUALQUIER DAÑO A SU PROPIEDAD, INCLUIDOS, ENTRE OTROS, SU SISTEMA INFORMÁTICO Y CUALQUIER DISPOSITIVO QUE UTILICE PARA ACCEDER A LAS PROPIEDADES DE STORYPLACE, O DE CUALQUIER OTRA PÉRDIDA QUE RESULTE DEL ACCESO A DICHO CONTENIDO.&nbsp;</strong>
+                                </li>
+                                <li>
+                                    <strong>LOS SERVICIOS PUEDEN ESTAR SUJETOS A RETRASOS, CANCELACIONES Y OTRAS INTERRUPCIONES. STORYPLACE NO OFRECE NINGUNA GARANTÍA, DECLARACIÓN O CONDICIÓN CON RESPECTO A LOS SERVICIOS, INCLUIDAS, ENTRE OTRAS, LA CALIDAD, LA EFICACIA, LA REPUTACIÓN Y OTRAS CARACTERÍSTICAS DE LOS SERVICIOS.</strong>
+                                </li>
+                                <li>
+                                    <strong>NINGÚN CONSEJO O INFORMACIÓN, YA SEA ORAL O ESCRITA, OBTENIDO DE STORYPLACE O A TRAVÉS DE LAS PROPIEDADES DE STORYPLACE GENERARÁ NINGUNA GARANTÍA QUE NO ESTÉ EXPRESAMENTE ESTIPULADA EN ESTE DOCUMENTO.</strong>
+                                </li>
+                                <li>
+                                    <strong>De vez en cuando, STORYPLACE puede ofrecer nuevas funciones o herramientas «beta» con las que los usuarios registrados pueden experimentar. Dichas funciones o herramientas se ofrecen únicamente con fines experimentales y sin garantía
+                                    </strong>
+                                    <span style={{ textDecoration: "underline" }}>
+                                        <strong>de ningún tipo</strong>
+                                    </span>
+                                    <strong>, y pueden modificarse o discontinuarse a la entera y absoluta discreción de STORYPLACE. Las disposiciones de esta sección se aplican con plena vigencia a dichas funciones o herramientas.</strong>
+                                </li>
+                            </ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Descargo de responsabilidad por la conducta de terceros</strong>
+                                </span>
+                                <strong>. USTED RECONOCE Y ACEPTA QUE LAS PARTES DE STORYPLACE NO SON RESPONSABLES Y SE COMPROMETE A NO PRETENDER RESPONSABILIZAR A LAS PARTES DE STORYPLACE POR LA CONDUCTA DE TERCEROS, INCLUIDOS LOS OPERADORES DE SITIOS EXTERNOS, Y QUE EL RIESGO DE LESIONES POR PARTE DE DICHOS TERCEROS RECAE EXCLUSIVAMENTE EN USTED.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Descargo de responsabilidad por la conducta de otros usuarios</strong>
+                                </span>
+                                <strong>. USTED ES EL ÚNICO RESPONSABLE DE TODAS SUS COMUNICACIONES E INTERACCIONES CON OTROS USUARIOS DE LAS PROPIEDADES DE STORYPLACE. USTED COMPRENDE QUE STORYPLACE NO INTENTA VERIFICAR LAS DECLARACIONES DE LOS USUARIOS DE LAS PROPIEDADES DE STORYPLACE. STORYPLACE NO HACE DECLARACIONES NI GARANTIZA LA CONDUCTA DE LOS USUARIOS DE LAS PROPIEDADES DE STORYPLACE NI SU COMPATIBILIDAD CON LOS USUARIOS ACTUALES O FUTUROS DE LAS PROPIEDADES DE STORYPLACE. USTED SE COMPROMETE A TOMAR PRECAUCIONES RAZONABLES EN TODAS LAS COMUNICACIONES E INTERACCIONES CON OTROS USUARIOS DE LAS PROPIEDADES DE STORYPLACE, ESPECIALMENTE SI DECIDE REUNIRSE FUERA DE LÍNEA O EN PERSONA. USTED RECONOCE Y ACEPTA QUE STORYPLACE NO VERIFICA LOS ANTECEDENTES DE NINGÚN USUARIO.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Descargo de responsabilidad por la conducta de los usuarios de PRO</strong>
+                                </span>
+                                <strong>. SI ES UN USUARIO, ES EL ÚNICO RESPONSABLE DE TODAS SUS COMUNICACIONES E INTERACCIONES CON OTROS USUARIOS, INCLUIDAS, ENTRE OTRAS, LAS INTERACCIONES RELACIONADAS CON CUALQUIER HISTORIA, EL ACCESO A DICHAS HISTORIAS Y SU PRESENTACIÓN, Y CUALQUIER COMUNICACIÓN O ACUERDO RELACIONADO (PERO SIN LIMITARSE A) LA ADQUISICIÓN DE CUALQUIER DERECHO, TÍTULO O INTERÉS EN DICHAS HISTORIAS.</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <strong>Limitación de responsabilidad.</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Descargo de responsabilidad por ciertos daños</strong>
+                                </span>
+                                <strong>. USTED ENTIENDE Y ACEPTA QUE, EN NINGÚN CASO, LAS PARTES DE STORYPLACE SERÁN RESPONSABLES DE NINGUNA PÉRDIDA DE BENEFICIOS, INGRESOS O DATOS, DAÑOS INDIRECTOS, INCIDENTALES, ESPECIALES O CONSECUENTES, NI DE LOS DAÑOS O COSTOS DEBIDOS A LA PÉRDIDA DE PRODUCCIÓN O USO, LA INTERRUPCIÓN DE LA ACTIVIDAD COMERCIAL, LA ADQUISICIÓN DE BIENES O SERVICIOS SUSTITUTIVOS, EN CUALQUIER CASO, INDEPENDIENTEMENTE DE QUE STORYPLACE HAYA SIDO INFORMADA O NO DE LA POSIBILIDAD DE DICHOS DAÑOS, QUE SURJAN O ESTÉN RELACIONADOS CON EL ACUERDO O CUALQUIER COMUNICACIÓN, INTERACCIÓN O REUNIÓN CON OTROS USUARIOS DE LAS PROPIEDADES DE STORYPLACE, SEGÚN CUALQUIER TEORÍA DE LA RESPONSABILIDAD LEGAL, RESULTANDO DE: (1) EL USO O LA IMPOSIBILIDAD DE USAR LAS PROPIEDADES DE STORYPLACE; (2) EL COSTO DE ADQUISICIÓN DE BIENES O SERVICIOS SUSTITUTIVOS RESULTANTE DE CUALQUIER BIEN, DATO, INFORMACIÓN O SERVICIO COMPRADO U OBTENIDO O DE LOS MENSAJES RECIBIDOS POR TRANSACCIONES REALIZADAS A TRAVÉS DE LAS PROPIEDADES DE STORYPLACE; (3) EL ACCESO NO AUTORIZADO O LA ALTERACIÓN DE SUS TRANSMISIONES O DATOS; (4) LAS DECLARACIONES O LA CONDUCTA DE CUALQUIER TERCERO SOBRE LAS PROPIEDADES DE STORYPLACE; O (5) CUALQUIER OTRO ASUNTO RELACIONADO CON LAS PROPIEDADES DE STORYPLACE, YA BASADO EN LA GARANTÍA, LOS DERECHOS DE AUTOR, EL CONTRATO, LA RESPONSABILIDAD EXTRACONTRACTUAL (INCLUIDA LA NEGLIGENCIA) Y LA RESPONSABILIDAD POR PRODUCTOS DEFECTUOSOS O CUALQUIER OTRA TEORÍA JURÍDICA. LA LIMITACIÓN DE RESPONSABILIDAD ANTERIOR NO SE APLICARÁ A LA RESPONSABILIDAD DE UNA PARTE DE STORYPLACE POR (A) LA MUERTE O LAS LESIONES PERSONALES CAUSADAS POR UNA NEGLIGENCIA GRAVE DE UNA PARTE DE STORYPLACE; NI A (B) NINGUNA LESIÓN CAUSADA POR UN FRAUDE O TERGIVERSACIÓN FRAUDULENTA DE UNA PARTE DE STORYPLACE</strong>
+                                <strong>.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Límite de responsabilidad</strong>
+                                </span>
+                                <strong>. BAJO NINGUNA CIRCUNSTANCIA, LAS PARTES DE STORYPLACE SERÁN RESPONSABLES ANTE USTED
+                                </strong>
+                                <strong>(INCLUIDOS TODOS LOS HONORARIOS Y COSTOS LEGALES Y DE COBRANZA)
+                                </strong>
+                                <strong>POR UNA CANTIDAD SUPERIOR A (A) LA CANTIDAD TOTAL PAGADA A STORYPLACE por usted durante el período de un mes anterior al acto, omisión o suceso que dé lugar a dicha responsabilidad y (B) EL RECURSO O LA SANCIÓN IMPUESTOS POR LA LEY EN VIRTUD DEL CUAL SURJA DICHA DEMANDA.&nbsp; EL LÍMITE DE RESPONSABILIDAD ANTERIOR NO SE APLICARÁ A LA RESPONSABILIDAD DE UNA PARTE DE STORYPLACE POR (A) LA MUERTE O LAS LESIONES PERSONALES CAUSADAS POR LA NEGLIGENCIA GRAVE DE UNA PARTE DE STORYPLACE; NI POR (B) NINGUNA LESIÓN CAUSADA POR EL FRAUDE O LA TERGIVERSACIÓN FRAUDULENTA DE UNA PARTE DE STORYPLACE.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Contenido del usuario</strong>
+                                </span>
+                                <strong>. A EXCEPCIÓN DE LAS OBLIGACIONES DE STORYPLACE DE PROTEGER SUS DATOS PERSONALES, TAL COMO SE ESTABLECE EN LA
+                                </strong>
+                                <a target="_blank" href="https://www.storyplace.com/espanol/privacy" rel="noreferrer">
+                                    <strong>POLÍTICA DE PRIVACIDAD</strong>
+                                </a>
+                                <strong>
+                                    DE STORYPLACE, STORYPLACE NO ASUME NINGUNA RESPONSABILIDAD POR LA PUNTUALIDAD, LA ELIMINACIÓN, LA ENTREGA INCORRECTA O LA FALTA DE ALMACENAMIENTO DE NINGÚN CONTENIDO (INCLUIDOS, ENTRE OTROS, SU CONTENIDO Y CONTENIDO DEL USUARIO), LAS COMUNICACIONES DE LOS USUARIOS Y/O LA CONFIGURACIÓN DE PERSONALIZACIÓN.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Base de la negociación</strong>
+                                </span>
+                                <strong>. LAS LIMITACIONES DE LOS DAÑOS EXPUESTAS ANTERIORMENTE SON ELEMENTOS FUNDAMENTALES DE LA BASE DE LA NEGOCIACIÓN ENTRE STORYPLACE Y USTED.</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <strong>Procedimiento para presentar demandas por infracción de derechos de autor. La política de STORYPLACE consiste en anular los privilegios de membresía de cualquier Usuario Registrado que infrinja reiteradamente los derechos de autor tras una notificación inmediata a STORYPLACE por parte del propietario de los derechos de autor o del representante legal del propietario de los derechos de autor. Sin perjuicio de lo anterior, si cree que su obra ha sido copiada y publicada en las Propiedades de STORYPLACE de una manera que constituye una infracción de derechos de autor, proporcione a nuestro agente de derechos de autor la siguiente información: (a) una firma electrónica o física de la persona autorizada a actuar en nombre del propietario de los derechos de autor; (b) una descripción de la obra protegida por derechos de autor que afirma que se ha infringido; (c) una descripción de la ubicación en las Propiedades de STORYPLACE del material que, según usted, infringe; (d) su dirección, número de teléfono y dirección de correo electrónico; (e) una declaración escrita suya en la que afirme que cree de buena fe que el uso en controversia no está autorizado por el propietario de los derechos de autor, su agente o la ley; y (f) una declaración suya, hecha bajo pena de perjurio, de que la información anterior de su aviso es precisa y que usted es el propietario de los derechos de autor o está autorizado a actuar en nombre del propietario de los derechos de autor. La información de contacto del Agente de derechos de autor de STORYPLACE para la notificación de demandas por infracción de derechos de autor es la siguiente: StoryPlace HQ,
+                            </strong>
+                            <strong>8549 Wilshire Blvd, Unit #3014, Beverly Hills, CA 90211.</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Infracciones</strong>
+                                </span>
+                                <strong>. Si STORYPLACE se entera de cualquier posible infracción por su parte del Acuerdo, STORYPLACE se reserva el derecho de investigar dichas infracciones. Si, como resultado de la investigación, STORYPLACE cree que se ha producido una actividad delictiva, STORYPLACE se reserva el derecho de remitir el asunto a todas y cada una de las autoridades legales aplicables y de cooperar con ellas. STORYPLACE tiene derecho, excepto en la medida en que lo prohíba la ley aplicable, a divulgar cualquier información o material sobre o en las Propiedades de STORYPLACE, incluido Su Contenido, en poder de STORYPLACE en relación con su uso de las Propiedades de STORYPLACE, para (a) cumplir con las leyes aplicables, los procesos legales o las solicitudes gubernamentales; (b) hacer cumplir las condiciones, (c) responder a cualquier afirmación de que Su Contenido infringe los derechos de terceros, (d) responder a sus solicitudes de servicio al cliente, o (e) proteger los derechos, la propiedad o la seguridad personal de STORYPLACE, sus usuarios o el público y todos los funcionarios encargados de hacer cumplir la ley u otros funcionarios gubernamentales, según STORYPLACE considere necesario o apropiado, a su entera y absoluta discreción.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Incumplimiento</strong>
+                                </span>
+                                <strong>. En caso de que STORYPLACE determine, a su entera y absoluta discreción, que usted ha incumplido alguna parte del Acuerdo o que ha demostrado de otro modo una conducta inapropiada para las Propiedades de STORYPLACE, STORYPLACE se reserva el derecho de:</strong>
+                            </li>
+                            <ol>
+                                <li>
+                                    <strong>Advertirle por correo electrónico (a cualquier dirección de correo electrónico que haya proporcionado a STORYPLACE) de que ha infringido el Acuerdo;</strong>
+                                </li>
+                                <li>
+                                    <strong>Eliminar cualquier parte de Su Contenido proporcionado por usted o su(s) agente(s) a las Propiedades de STORYPLACE;</strong>
+                                </li>
+                                <li>
+                                    <strong>Interrumpir su registro en cualquiera de las Propiedades de STORYPLACE, incluidos los Servicios o cualquier comunidad de STORYPLACE;</strong>
+                                </li>
+                                <li>
+                                    <strong>Interrumpir su suscripción a cualquier Servicio;</strong>
+                                </li>
+                                <li>
+                                    <strong>Notificar y/o enviar Contenido a las autoridades policiales correspondientes y/o cooperar plenamente con ellas para tomar medidas adicionales; y/o</strong>
+                                </li>
+                                <li>
+                                    <strong>Realizar cualquier otra acción que STORYPLACE considere apropiada.</strong>
+                                </li>
+                            </ol>
+                        </ol>
+                        <li>
+                            <strong>Vigencia y terminación.</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Vigencia.</strong>
+                                </span>
+                                <strong>
+                                    El Acuerdo comienza en la fecha en que usted lo acepta (tal como se describe anteriormente) y permanece en pleno vigor y efecto mientras utilice las Propiedades de STORYPLACE, a menos que se rescinda antes, de conformidad con el Acuerdo, al tiempo que garantiza, acepta y reconoce que ciertas disposiciones que se le deban a STORYPLACE, tal como se estipula en este documento, sobrevivirán a dicha terminación o vencimiento.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Uso previo</strong>
+                                </span>
+                                <strong>. Sin perjuicio de lo anterior, por la presente reconoce y acepta que el Acuerdo comenzó en la primera de las siguientes fechas: (a) la fecha en que utilizó por primera vez las Propiedades de STORYPLACE o (b) la fecha en que aceptó el Acuerdo, permanecerá en pleno vigor y efecto mientras utilice cualquier Propiedad de STORYPLACE, a menos que se rescinda antes de conformidad con el Acuerdo, al tiempo que garantiza, acepta y reconoce que ciertas disposiciones que se le deban a STORYPLACE, tal como se estipula en este documento, sobrevivirán a dicha terminación o vencimiento.&nbsp;</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Terminación de los servicios por usted</strong>
+                                </span>
+                                <strong>
+                                    Si desea cancelar los Servicios proporcionados por STORYPLACE, puede hacerlo (a) notificándolo a STORYPLACE en cualquier momento y (b) cerrando su Cuenta para todos los Servicios que utiliza. Su notificación debe enviarse por escrito a la dirección de STORYPLACE que figura a continuación</strong>
+                                <strong>,
+                                </strong>
+                                <strong>si bien las partes acuerdan que ciertas disposiciones estipuladas en este documento que se le deban a STORYPLACE seguirán vigentes después de dicha terminación o vencimiento.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Efecto de la terminación</strong>
+                                </span>
+                                <strong>. La terminación de cualquier Servicio incluye (pero no se limita a) la eliminación del acceso a dicho Servicio y la prohibición de su uso posterior. La terminación de todos los Servicios también incluye la eliminación de su contraseña y de toda la información, los archivos y el contenido relacionados con o dentro de su Cuenta (o cualquier parte de esta), incluido Su Contenido (a la entera y absoluta discreción de STORYPLACE). Tras la terminación de cualquier Servicio, su derecho a utilizar dicho Servicio finalizará automáticamente de forma inmediata, al tiempo que garantiza, acepta y reconoce que determinadas disposiciones adeudadas a STORYPLACE, tal como se estipula en este documento, seguirán vigentes tras dicha terminación o vencimiento.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Uso previo</strong>
+                                </span>
+                                <strong>. Sin perjuicio de lo anterior, usted reconoce que cualquier terminación de los Servicios puede implicar la eliminación de su Contenido asociado a los mismos de nuestras bases de datos activas. STORYPLACE no tendrá ninguna responsabilidad ante usted por cualquier suspensión o terminación, incluida la eliminación de Su Contenido. Todas las disposiciones del Acuerdo que, por su naturaleza, deban sobrevivir, seguirán vigentes después de la terminación de los Servicios, incluidas, entre otras, las disposiciones de propiedad, la indemnización, las exenciones de garantía y la limitación de responsabilidad,
+                                </strong>
+                                <strong>y se aplicarán en todo el presente Acuerdo.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Sin registro posterior</strong>
+                                </span>
+                                <strong>. Si STORYPLACE interrumpe su registro o la posibilidad de acceder a las Propiedades de STORYPLACE o a cualquier otra comunidad de STORYPLACE debido a la violación de cualquier parte del Acuerdo o por una conducta que de otro modo sea inapropiada para la comunidad, usted se compromete a no volver a registrarse en las Propiedades de STORYPLACE o a ninguna comunidad de STORYPLACE mediante el uso de un nombre de miembro diferente o de otro modo, y reconoce que no tendrá derecho a recibir ninguna contraprestación relacionada con esas Propiedades de STORYPLACE a las que su acceso ha sido cancelado. En caso de que usted infrinja la oración inmediatamente anterior, STORYPLACE se reserva el derecho, a su entera discreción, de tomar inmediatamente cualquiera o todas las medidas aquí establecidas sin previo aviso ni advertencia.</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <strong>Usuarios internacionales. Se puede acceder a las Propiedades de STORYPLACE desde países de todo el mundo y pueden contener referencias a Servicios y Contenido que no están disponibles en su país. Estas referencias no implican que STORYPLACE tenga la intención de anunciar dichos Servicios o Contenido en su país. STORYPLACE controla y ofrece las Propiedades de STORYPLACE desde sus instalaciones en los Estados Unidos de América. STORYPLACE no garantiza que las Propiedades de STORYPLACE sean apropiadas o estén disponibles para su uso en otras ubicaciones. Quienes accedan a las Propiedades de STORYPLACE o las utilicen desde otros países lo hacen por su propia voluntad y son responsables del cumplimiento de la legislación local.</strong>
+                        </li>
+                        <li>
+                            <strong>Solución de controversias.</strong>
+                            <strong>
+                                <em>
+                                    Lea atentamente el siguiente acuerdo de arbitraje de esta sección («Acuerdo de Arbitraje»). Le exige que arbitre las controversias con STORYPLACE y limita la manera en que puede solicitarnos reparación.&nbsp;</em>
+                            </strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Aplicabilidad del Acuerdo de Arbitraje</strong>
+                                </span>
+                                <strong>
+                                    <em>.</em>
+                                </strong>
+                                <strong>
+                                    Usted acepta que cualquier controversia o reclamación relacionada de alguna manera con su acceso o uso del Sitio Web, con cualquier producto vendido o distribuido a través del Sitio Web, o con cualquier aspecto de su relación con STORYPLACE, se resolverá mediante un arbitraje vinculante y no ante un tribunal, excepto que STORYPLACE podrá solicitar una reparación equitativa ante los tribunales por infracción u otro uso indebido de los derechos de propiedad intelectual (como marcas comerciales, imagen comercial, nombres de dominio, secretos comerciales, derechos de autor y patentes). Este Acuerdo de Arbitraje se aplicará, sin limitación, a todas las reclamaciones que hayan surgido o se hayan presentado antes de la fecha de entrada en vigor de este Acuerdo o de cualquier versión anterior de este Acuerdo.&nbsp;</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Reglas de arbitraje y jurisdicción</strong>
+                                </span>
+                                <strong>
+                                    <em>.
+                                    </em>
+                                </strong>
+                                <strong>Todas las controversias que surjan del presente Acuerdo o estén relacionadas con él, incluida cualquier cuestión relacionada con su existencia, validez o terminación, se resolverán definitivamente con arreglo a las Reglas de Arbitraje
+                                </strong>
+                                <strong>del Condado de Los Ángeles, California, de conformidad con las Reglas y procedimientos de arbitraje simplificados de Judicial Arbitration and Mediation Services, Inc. («JAMS») en vigor en ese momento, por un árbitro comercial con una experiencia sustancial en la resolución de controversias de propiedad intelectual y contratos comerciales, que será seleccionado de la lista adecuada de árbitros de JAMS de acuerdo con las Reglas y Procedimientos de arbitraje simplificados de JAMS. La sentencia sobre el laudo así dictado podrá ser presentada ante un tribunal competente, o podrá solicitarse a dicho tribunal la aceptación judicial de cualquier laudo y una orden de ejecución, según sea el caso. Sin perjuicio de lo anterior, usted acepta renunciar a su derecho a solicitar o iniciar una acción ante un tribunal competente para obtener medidas cautelares u otro tipo de compensación equitativa y acepta limitar todos los recursos que pueda interponer a la indemnización por daños y perjuicios. A todos los efectos de estos Términos, usted acepta someterse a la jurisdicción y competencia exclusivas de los tribunales estatales o federales ubicados, respectivamente, en el condado de Los Ángeles, California. La parte que prevalezca en cualquier acción o proceso judicial que surja de estos Términos tendrá derecho a una compensación en concepto de costas y honorarios de abogados externos. En la medida en que lo permita la ley, usted y StoryPlace aceptan que todas las demandas contra la otra parte solo pueden presentarse a título individual y no como demandantes o miembros de grupo en ningún supuesto proceso judicial colectivo, consolidado u otro proceso judicial representativo. Usted acepta que los árbitros no pueden llevar a cabo ningún proceso judicial colectivo, consolidado o representativo, y se limitan a proporcionar las medidas que justifique la demanda de una parte individual.
+                                </strong>
+                                <strong>Sin perjuicio de lo establecido en el presente que indique lo contrario, la ejecución de cualquier laudo podrá solicitarse en cualquier tribunal de la jurisdicción competente.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Exención de juicio con jurado</strong>
+                                </span>
+                                <strong>. STORYPLACE Y USTED RENUNCIAN A CUALQUIER DERECHO CONSTITUCIONAL Y LEGAL A DEMANDAR ANTE UN TRIBUNAL Y A CELEBRAR UN JUICIO ANTE UN JUEZ O UN JURADO. En cambio, usted y STORYPLACE eligen que todas las demandas y controversias se resuelvan mediante arbitraje en virtud del presente Acuerdo. Un árbitro puede conceder de forma individual los mismos daños y reparaciones que un tribunal y debe cumplir este Acuerdo como lo haría un tribunal. Sin embargo, no hay juez ni jurado en el arbitraje, y la revisión judicial de un laudo arbitral está sujeta a una revisión muy limitada.&nbsp;</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Renuncia a acciones colectivas u otras acciones no individualizadas.</strong>
+                                </span>
+                                <strong>
+                                    TODAS LAS DEMANDAS Y CONTROVERSIAS QUE ENTREN EN EL ÁMBITO DE APLICACIÓN DEL PRESENTE ACUERDO DEBERÁN SOMETERSE A ARBITRAJE DE FORMA INDIVIDUAL Y NO COLECTIVA, SÓLO SE CONCEDERÁN INDEMNIZACIONES INDIVIDUALES, Y LAS DEMANDAS DE MÁS DE UN CLIENTE O USUARIO NO PODRÁN SOMETERSE A ARBITRAJE NI CONSOLIDARSE CON LAS DE NINGÚN OTRO CLIENTE O USUARIO. Si se emite una decisión en la que se declare que la ley aplicable impide la aplicación de cualquiera de las limitaciones de esta subsección en cuanto a una demanda de reparación determinada, la demanda debe separarse del arbitraje y presentarse ante los tribunales estatales o federales ubicados en el estado de California. Todas las demás demandas se someterán a arbitraje.&nbsp;</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Derecho de exclusión de 30 días.</strong>
+                                </span>
+                                <strong>
+                                    Usted tiene derecho a excluirse de las disposiciones de esta cláusula de arbitraje enviando una notificación por escrito de su decisión de excluirse a: support@storyplace.com, en un plazo de 30 días a partir de la fecha en que quede sujeto al presente Acuerdo. Su notificación debe incluir su nombre y dirección, su nombre de usuario de STORYPLACE (si lo hubiera), la dirección de correo electrónico que utilizó para configurar su cuenta de STORYPLACE (si tiene una) y una declaración inequívoca de que desea excluirse de esta disposición de arbitraje. Si opta por excluirse de esta disposición de arbitraje, todas las demás partes de este Acuerdo seguirán aplicándose a usted. La exclusión voluntaria de esta disposición de arbitraje no afectará a ningún otro acuerdo que pueda tener actualmente o que pueda celebrar en el futuro con nosotros.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Separabilidad.</strong>
+                                </span>
+                                <strong>
+                                    <em></em>
+                                </strong>
+                                <strong>Si la ley determina que alguna parte o partes de este Acuerdo son inválidas o inaplicables, dicha parte o partes específicas no tendrán vigencia ni efecto y se separarán y el resto del Acuerdo continuará en pleno vigor y efecto.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Continuidad contractual del Acuerdo</strong>
+                                </span>
+                                <strong>
+                                    <em>.
+                                    </em>
+                                </strong>
+                                <strong>El presente Acuerdo seguirá vigente tras la terminación de su relación con STORYPLACE.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Modificación</strong>
+                                </span>
+                                <strong>. Sin perjuicio de cualquier disposición de este Acuerdo que indique lo contrario, aceptamos que, si STORYPLACE realiza algún cambio material en el futuro en este Acuerdo, usted podrá rechazar dicho cambio POR ESCRITO en un plazo de treinta (30) días a partir de la entrada en vigor de dicho cambio escribiendo a STORYPLACE a la siguiente dirección: Storyplace HQ,
+                                </strong>
+                                <strong>8549 Wilshire Blvd, Unit #3014, Beverly Hills, CA 90211</strong>
+                                <strong>.</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <strong>Disposiciones generales.</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Comunicaciones electrónicas</strong>
+                                </span>
+                                <strong>. Las comunicaciones entre usted y STORYPLACE pueden realizarse por medios electrónicos, ya sea que visite las Propiedades de STORYPLACE o envíe correos electrónicos a STORYPLACE, o bien STORYPLACE publique avisos en las Propiedades de STORYPLACE o se comunique con usted por correo electrónico. A efectos contractuales, usted (a) acepta recibir comunicaciones de STORYPLACE en formato electrónico; y (b) acepta que todos los términos y condiciones, acuerdos, avisos, divulgaciones y otras comunicaciones que STORYPLACE le proporcione electrónicamente satisfacen cualquier requisito legal que dichas comunicaciones cumplirían si se realizaran por escrito. Lo anterior no afecta a sus derechos legales.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Exención de responsabilidad.</strong>
+                                </span>
+                                <strong>
+                                    Por la presente, exime a las partes de STORYPLACE y a sus sucesores y cesionarios de cualquier reclamación, demanda, pérdida, daño, derecho y acción de cualquier tipo, incluidas las lesiones personales, la muerte y los daños a la propiedad, que estén relacionadas directa o indirectamente con su uso de las Propiedades de STORYPLACE o se deriven de ellas, incluidas, entre otras, las interacciones o la conducta de otros usuarios o sitios web de terceros de cualquier tipo que surja en relación con o como resultado del Acuerdo o su uso de las Propiedades de STORYPLACE. Si usted es residente de California, por la presente renuncia al artículo 1542 del Código Civil de California, que establece</strong>
+                                <strong>
+                                    <em>: «Una exención general no se extiende a las reclamaciones que el acreedor o la parte exonerante no conozca o sospeche que existen a su favor en el momento de ejecutar la exención y que, de saberlo, habrían afectado sustancialmente a su acuerdo con el deudor o la</em>
+                                </strong>
+                                <strong></strong>
+                                <strong>
+                                    <em>parte exonerada</em>
+                                </strong>
+                                <strong>».</strong>
+                                <strong>
+                                    <em></em>
+                                </strong>
+                                <strong>La declaración anterior no se aplica a ninguna reclamación, demanda ni a ninguna pérdida, daño, derecho o acción de ningún tipo, incluidas las lesiones personales, la muerte o los daños a la propiedad, por cualquier práctica comercial desmesurada por parte de una Parte de STORYPLACE o por fraude, engaño, falsa promesa, tergiversación u ocultación, supresión u omisión de cualquier hecho material por parte de dicha parte en relación con el Sitio web.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Cesión</strong>
+                                </span>
+                                <strong>. Usted no podrá ceder, subcontratar, delegar ni transferir de otro modo el Acuerdo ni sus derechos y obligaciones en virtud del presente documento sin el consentimiento previo por escrito de STORYPLACE, que se negará a su entera y absoluta discreción, y cualquier intento de cesión, subcontratación, delegación o transferencia que infrinja lo anterior se considerará inmediatamente nulo y sin efecto ab initio.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Fuerza mayor.</strong>
+                                </span>
+                                <strong>
+                                    STORYPLACE no será responsable de ningún retraso o incumplimiento derivado de causas ajenas a su control razonable, incluidos, entre otros, casos fortuitos, guerras, terrorismo, disturbios, embargos, actos de las autoridades civiles o militares, incendios, inundaciones, pandemias, epidemias, accidentes, huelgas o escasez de medios de transporte, combustible, energía, mano de obra o materiales.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Preguntas, quejas, reclamos</strong>
+                                </span>
+                                <strong>. Si tiene alguna pregunta, queja o reclamo con respecto a las Propiedades de STORYPLACE, póngase en contacto con nosotros en: support@storyplace.com. Haremos todo lo posible para abordar sus inquietudes. Si considera que sus inquietudes no se han abordado de manera completa, lo invitamos a que nos lo comunique para investigar más a fondo.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Lugar exclusivo</strong>
+                                </span>
+                                <strong>. En la medida en que el presente Acuerdo permita a las partes iniciar un recurso, tanto usted como STORYPLACE acuerdan que todas las demandas y controversias que surjan del Acuerdo o estén relacionadas con él se desarrollarán exclusivamente en el condado de Los Ángeles (California).</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Ley aplicable y jurisdicción</strong>
+                                </span>
+                                <strong>. Los Términos de Uso y cualquier acción relacionada con los mismos se regirán e interpretarán por y bajo las leyes del Estado de California, de conformidad con
+                                </strong>
+                                <strong>las Reglas y procedimientos simplificados de Judicial Arbitration and Mediation Services, Inc. («JAMS») en vigor en ese momento</strong>
+                                <strong>, sin dar efecto a ningún principio que prevea la aplicación de la ley de otra jurisdicción.&nbsp;</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Elección de idioma</strong>
+                                </span>
+                                <strong>. Este Acuerdo, y cualquier contrato entre nosotros, están únicamente en inglés.&nbsp;</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Notificación</strong>
+                                </span>
+                                <strong>. Cuando STORYPLACE requiera que proporcione una dirección de correo electrónico, usted es responsable de proporcionar a STORYPLACE su dirección de correo electrónico más reciente. En caso de que la última dirección de correo electrónico que proporcionó a STORYPLACE no sea válida o, por cualquier motivo, no pueda enviarle las notificaciones exigidas o permitidas por el Acuerdo, el envío por parte de STORYPLACE del correo electrónico que contenga dicha notificación constituirá, no obstante, una notificación efectiva. Puede enviar una notificación a STORYPLACE a la siguiente dirección: StoryPlace HQ,
+                                </strong>
+                                <strong>8549 Wilshire Blvd, Unit #3014, Beverly Hills, CA 90211.
+                                </strong>
+                                <strong>Dicha notificación se considerará entregada cuando STORYPLACE la reciba mediante carta entregada por un servicio de entrega al día siguiente reconocido a nivel nacional o por correo prepagado con franqueo de primera clase a la dirección anterior.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Renuncia</strong>
+                                </span>
+                                <strong>. Cualquier renuncia o falta de cumplimiento de cualquier disposición del Acuerdo en una ocasión no se considerará una renuncia a ninguna otra disposición ni a dicha disposición en ninguna otra ocasión.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Separabilidad.</strong>
+                                </span>
+                                <strong>
+                                    Si alguna parte de este Acuerdo se considera inválida o inaplicable, dicha parte se interpretará de manera que refleje, en la medida de lo posible, la intención original de las partes, y las partes restantes permanecerán en pleno vigor y efecto.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Control de exportación</strong>
+                                </span>
+                                <strong>. No puede usar, exportar, importar ni transferir las Propiedades de STORYPLACE excepto según lo autorice la ley de EE. UU., las leyes de la jurisdicción en la que obtuvo las Propiedades de STORYPLACE y cualquier otra ley aplicable. En particular, pero sin carácter limitativo, las Propiedades de STORYPLACE no pueden exportarse ni reexportarse (a) a ningún país sometido a embargo de los Estados Unidos, ni (b) a ninguna persona que figure en la lista de Nacionales Especialmente Designados del Departamento del Tesoro de Estados Unidos o en la Lista de Personas o Entidades Denegadas del Departamento de Comercio de Estados Unidos. Al utilizar las Propiedades de STORYPLACE, usted declara y garantiza que (y) no se encuentra en un país que esté sujeto a un embargo del gobierno de los Estados Unidos o que haya sido designado por el Gobierno de los Estados Unidos como país que «apoya al terrorismo» y (z) no figura en ninguna lista de partes prohibidas o restringidas del gobierno de los EE. UU. Tampoco utilizará las Propiedades de STORYPLACE para ningún propósito prohibido por la ley estadounidense, incluido el desarrollo, el diseño, la fabricación o la producción de misiles y armas nucleares, químicas o biológicas. Usted reconoce y acepta que los productos, servicios o tecnología proporcionados por STORYPLACE están sujetos a las leyes y reglamentos de control de exportación de los Estados Unidos. Deberá cumplir con estas leyes y reglamentos y, sin la autorización previa del gobierno de los EE. UU., no podrá exportar, reexportar ni transferir los productos, servicios o tecnología de STORYPLACE, ya sea directa o indirectamente, a ningún país en violación de dichas leyes y reglamentos.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Quejas de los consumidores</strong>
+                                </span>
+                                <strong>. De conformidad con el artículo 1789.3 del Código Civil de California, puede presentar sus quejas a la Unidad de Asistencia para Quejas de la División de Servicios al Consumidor del Departamento de Asuntos del Consumidor de California comunicándose con ellos por escrito en 400 R Street, Sacramento, CA 95814, o por teléfono al (800) 952-5210.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Acuerdo completo.</strong>
+                                </span>
+                                <strong>
+                                    El presente Acuerdo es el acuerdo final, completo y exclusivo de las partes con respecto al objeto del presente documento y reemplaza y fusiona todas las discusiones previas entre las partes con respecto a dicho tema.</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <strong>Disposiciones internacionales. Las siguientes disposiciones se aplicarán solo si se encuentra en los países que se enumeran a continuación.</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Reino Unido</strong>
+                                </span>
+                                <strong>. Un tercero que no sea parte en el Acuerdo no tiene derecho, en virtud de la Ley de Contratos (Derechos de Terceros) de 1999, a hacer cumplir ninguna disposición del Acuerdo, pero esto no afecta a ningún derecho o recurso de dicho tercero que exista o esté disponible aparte de esa Ley.</strong>
+                            </li>
+                            <li>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>Alemania</strong>
+                                </span>
+                                <strong>. No obstante lo dispuesto en el presente documento, STORYPLACE tampoco se hace responsable de los actos de negligencia simple (a menos que causen lesiones o la muerte a una persona), excepto cuando estén causados por el incumplimiento de cualquier obligación contractual sustancial por parte de StoryPlace (vertragswesentliche Pflichten).</strong>
+                            </li>
+                        </ol>
+                    </ol>
+                    <p>
+                        <strong>Fin del Acuerdo</strong>
+                    </p>
 
                 </LegalContainer>
             </>
@@ -496,196 +821,779 @@ const Terms: NextPage = () => {
         <>
             <LegalContainer>
 
-                <h2>Terms &amp; Conditions</h2>
-                <p><span >Welcome to StoryPlace!</span></p>
-                <p><span >PLEASE READ THIS TERMS OF USE AGREEMENT (THE &ldquo;TERMS OF USE&rdquo;) CAREFULLY.&nbsp; STORYPLACE, INC. (&ldquo;STORYPLACE&rdquo;) OPERATES THE MOBILE APPLICATION, &ldquo;STORYPLACE&rdquo; (THE &ldquo;APPLICATION&rdquo;),&nbsp; ITS ASSOCIATED WEBSITES, INCLUDING </span><a href="http://www.storyplace.com/" target="_blank" rel="noopener noreferrer">WWW.STORYPLACE.COM</a><span > (COLLECTIVELY, THE &ldquo;WEBSITE&rdquo;), AS WELL AS A NUMBER OF RELATED SERVICES (COLLECTIVELY, WITH THE APPLICATION, PRO&nbsp; AND THE WEBSITE, THE &ldquo;SERVICES&rdquo;).&nbsp; BY CLICKING ON THE &ldquo;I ACCEPT&rdquo; BUTTON, COMPLETING THE REGISTRATION PROCESS FOR THE APPLICATION OR PRO, AND/OR BROWSING THE WEBSITE OR DOWNLOADING THE APPLICATION, YOU REPRESENT THAT (1) YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF USE, (2) YOU ARE OF LEGAL AGE TO FORM A BINDING CONTRACT WITH STORYPLACE, AND (3) YOU HAVE THE AUTHORITY TO ENTER INTO THE TERMS OF USE PERSONALLY OR ON BEHALF OF THE COMPANY YOU HAVE NAMED AS THE USER, AND TO BIND THAT COMPANY TO THE TERMS OF USE.&nbsp; THE TERM &ldquo;YOU&rdquo; REFERS TO THE INDIVIDUAL OR LEGAL ENTITY, AS APPLICABLE, IDENTIFIED AS THE USER WHEN YOU REGISTERED THROUGH THE SERVICES.&nbsp; IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF USE, YOU MAY NOT ACCESS OR USE ANY PORTION OF THE SERVICES.</span></p>
-                <p><span >PLEASE BE AWARE THAT SECTION 15 OF THIS AGREEMENT, BELOW, CONTAINS PROVISIONS GOVERNING HOW CLAIMS THAT YOU AND WE HAVE AGAINST EACH OTHER ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS THAT AROSE OR WERE ASSERTED PRIOR TO THE EFFECTIVE DATE OF THIS AGREEMENT. IN PARTICULAR, IT CONTAINS AN ARBITRATION AGREEMENT WHICH WILL, WITH LIMITED EXCEPTIONS, REQUIRE DISPUTES BETWEEN US TO BE SUBMITTED TO BINDING AND FINAL ARBITRATION.&nbsp; UNLESS YOU OPT OUT OF THE ARBITRATION AGREEMENT: (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AND SEEK RELIEF AGAINST US ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING; AND (2) YOU ARE WAIVING YOUR RIGHT TO SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL ON YOUR CLAIMS.&nbsp;</span></p>
-                <p><span >ANY DISPUTE OR CLAIM RELATING IN ANY WAY TO YOUR USE OF THE SERVICES WILL BE GOVERNED AND INTERPRETED BY AND UNDER THE LAWS OF THE STATE OF CALIFORNIA, CONSISTENT WITH THE RULES OF ARBITRATION OF THE INTERNATIONAL CHAMBER OF COMMERCE, WITHOUT GIVING EFFECT TO ANY PRINCIPLES THAT PROVIDE FOR THE APPLICATION OF THE LAW OF ANY OTHER JURISDICTION.&nbsp; THE UNITED NATIONS CONVENTION ON CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS IS EXPRESSLY EXCLUDED FROM THIS AGREEMENT.</span></p>
-                <p><span >Your use of, and participation in, certain Services may be subject to additional terms (&ldquo;Supplemental Terms&rdquo;), including without limitation the </span><a href="https://storyplace.com/content-guidelines" target="_blank" rel="noopener noreferrer">2020 Addendum</a><span > and such Supplemental Terms will either be listed in the Terms of Use or will be presented to you for your acceptance when you sign up to use the supplemental Service.&nbsp; If the Terms of Use are inconsistent with the Supplemental Terms, the Supplemental Terms shall control with respect to such Service.&nbsp; The Terms of Use and any applicable Supplemental Terms are referred to herein as the &ldquo;Agreement.&rdquo;</span></p>
-                <p><span >The Services include without limitation: the Application and online platform that offers a public journaling service which enables individuals to publish, share and save written and audio stories related to certain topics and/or locations.</span></p>
-                <p><span >PLEASE NOTE THAT The Agreement IS subject to change by STORYPLACE in its sole discretion at any time.&nbsp; When changes are made, STORYPLACE will make a new copy of the Terms of Use available at the Website and within the Application and any new Supplemental Terms will be made available from within, or through, the affected Service on the Website or within the Application.&nbsp; We will also update the &ldquo;Last Updated&rdquo; date at the top of the Terms of Use.&nbsp; If we make any material changes, and you have registered with us to create an Account (as defined in Section 2.1 below) we will also send an e-mail to you at the last e-mail address you provided to us pursuant to the Agreement.&nbsp; Any changes to the Agreement will be effective immediately for new users of the Website, the Application, and/or the Services and will be effective thirty (30) days after posting notice of such changes on the Website for existing users, provided that any material changes shall be effective for users who have an Account with us upon the earlier of thirty (30) days after posting notice of such changes on the Website or thirty (30) days after dispatch of an e-mail notice of such changes to Registered Users (defined in Section 2.1 below).&nbsp; STORYPLACE may require you to provide consent to the updated Agreement in a specified manner before further use of the Website, the Application, and/or the Services is permitted.&nbsp; If you do not agree to any change(s) after receiving a notice of such change(s), you shall stop using the Website, the Application, and the Services. Otherwise, your continued use of any of the Website, the Application, and Services constitutes your acceptance of such change(s).&nbsp; PLEASE REGULARLY CHECK THE WEBSITE TO VIEW THE THEN-CURRENT TERMS.</span></p>
+                <h2 style={{ textAlign: 'center' }}>Terms &amp; Conditions</h2>
+                <p>
+                    <strong>Welcome to StoryPlace!</strong>
+                </p>
+                <p style={{ textAlign: 'justify' }}>
+                    <strong>PLEASE READ THIS TERMS OF USE AGREEMENT (THE “TERMS OF USE”) CAREFULLY.&nbsp; STORYPLACE, INC. (“STORYPLACE”) OPERATES THE MOBILE APPLICATION, “STORYPLACE” (THE “APPLICATION”), ITS ASSOCIATED WEBSITES, INCLUDING
+                    </strong>
+                    <a target="_blank" href="https://www.storyplace.com/" rel="noreferrer">
+                        <strong>WWW.STORYPLACE.COM</strong>
+                    </a>
+                    <strong>
+                        (COLLECTIVELY, THE “WEBSITE”), AS WELL AS A NUMBER OF RELATED SERVICES (COLLECTIVELY, WITH THE APPLICATION, PLATFORM&nbsp; AND THE WEBSITE, THE “SERVICES”).&nbsp; BY CLICKING ON THE “I ACCEPT” BUTTON, COMPLETING THE REGISTRATION PROCESS FOR THE APPLICATION OR
+                    </strong>
+                    <strong>PLATFORM, AND/OR BROWSING THE WEBSITE OR DOWNLOADING THE APPLICATION, YOU REPRESENT THAT (1)
+                    </strong>
+                    <strong>YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF USE, (2) YOU ARE OF LEGAL AGE IN YOUR PLACE OF DOMICILE TO FORM A BINDING CONTRACT WITH STORYPLACE, AND (3) YOU HAVE THE AUTHORITY TO ENTER INTO THE TERMS OF USE PERSONALLY OR ON BEHALF OF THE COMPANY YOU HAVE NAMED AS THE USER, AND TO BIND THAT COMPANY TO THE TERMS OF USE.&nbsp; THE TERM “YOU” REFERS TO THE INDIVIDUAL OR LEGAL ENTITY, AS APPLICABLE, IDENTIFIED AS THE USER WHEN YOU REGISTERED THROUGH THE SERVICES.&nbsp; IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF USE, YOU MAY NOT ACCESS OR USE ANY PORTION OF THE SERVICES.</strong>
+                </p>
+                <p style={{ textAlign: 'justify' }}>
+                    <strong>PLEASE BE AWARE UNDER THE TERMS OF THIS AGREEMENT BETWEEN US, UNLESS YOU OPT OUT OF THE ARBITRATION AGREEMENT: (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AND SEEK RELIEF AGAINST US ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING; AND (2) YOU ARE WAIVING YOUR RIGHT TO SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL ON YOUR CLAIMS.&nbsp;</strong>
+                </p>
+                <p style={{ textAlign: 'justify' }}>
+                    <strong>ANY DISPUTE OR CLAIM RELATING IN ANY WAY TO YOUR USE OF THE SERVICES WILL BE GOVERNED AND INTERPRETED BY AND UNDER THE LAWS OF THE STATE OF CALIFORNIA, CONSISTENT WITH THE RULES OF ARBITRATION</strong>
+                    <strong>, IN ACCORDANCE WITH THE STREAMLINED ARBITRATION RULES AND PROCEDURES OF JUDICIAL ARBITRATION AND MEDIATION SERVICES, INC. (“JAMS”) THEN IN EFFECT, BY ONE COMMERCIAL ARBITRATOR WITH SUBSTANTIAL EXPERIENCE IN RESOLVING INTELLECTUAL PROPERTY AND COMMERCIAL CONTRACT DISPUTES, WHO SHALL BE SELECTED FROM THE APPROPRIATE LIST OF JAMS ARBITRATORS IN ACCORDANCE WITH THE STREAMLINED ARBITRATION RULES AND PROCEDURES OF JAMS.&nbsp;</strong>
+                </p>
+                <p style={{ textAlign: 'justify' }}>
+                    <strong>Your use of, and participation in, certain Services may be subject to additional terms (“Supplemental Terms”), and such Supplemental Terms will either be listed in the Terms of Use or will be presented to you for your acceptance when you sign up.&nbsp; If the Terms of Use are inconsistent with the Supplemental Terms, the Supplemental Terms shall control with respect to such Service.&nbsp; The Terms of Use and any applicable Supplemental Terms are referred to herein as the “Agreement.”</strong>
+                </p>
+                <p style={{ textAlign: 'justify' }}>
+                    <strong>The Services include without limitation: the Application and online platform that offers a public journaling service which enables individuals to publish, share and save written and audio stories related to certain topics and/or locations.</strong>
+                </p>
+                <p style={{ textAlign: 'justify' }}>
+                    <strong>PLEASE NOTE THAT The Agreement IS subject to change by STORYPLACE in its sole discretion at any time.&nbsp; When changes are made, STORYPLACE will make a new copy of the Terms of Use available at the Website and within the Application and any new Supplemental Terms will be made available from within, or through, the affected Service on the Website or within the Application.&nbsp; We will also update the “Last Updated” date at the top of the Terms of Use.&nbsp; If we make any material changes, and you have registered with us to create an Account, we will also send an e-mail to you at the last e-mail address you provided to us pursuant to the Agreement.&nbsp; Any changes to the Agreement will be effective immediately for new users of the Website, the Application, and/or the Services and will be effective thirty (30) days after posting notice of such changes on the Website for existing users, provided that any material changes shall be effective for users who have an Account with us upon the earlier of thirty (30) days after posting notice of such changes on the Website or thirty (30) days after dispatch of an e-mail notice of such changes to Registered Users (defined in Section 2.1 below).&nbsp; STORYPLACE may require you to provide consent to the updated Agreement in a specified manner before further use of the Website, the Application, and/or the Services is permitted.&nbsp; If you do not agree to any change(s) after receiving a notice of such change(s), you shall stop using the Website, the Application, and the Services. Otherwise, your continued use of any of the Website, the Application, and Services constitutes your superseding acceptance of such change(s).&nbsp; PLEASE REGULARLY CHECK THE WEBSITE TO VIEW THE THEN-CURRENT TERMS.</strong>
+                </p>
+                <p style={{ textAlign: 'justify' }}>
+                    <strong>Use of the Services and STORYPLACE Properties.</strong>
+                </p>
+                <p style={{ textAlign: 'justify' }}>
+                    <strong>The Application, the Website, the Services, and the information and content available on the Website and in the Application, and the Services (as these terms are defined herein) (each, a “STORYPLACE Property” and collectively, the “STORYPLACE Properties”) are protected by copyright laws throughout the world.&nbsp;</strong>
+                </p>
                 <ol>
-                    <li><span >Use of the Services and STORYPLACE Properties. The Application, the Website, the Services, and the information and content available on the Website and in the Application, and the Services (as these terms are defined herein) (each, a &ldquo;STORYPLACE Property&rdquo; and collectively, the &ldquo;STORYPLACE Properties&rdquo;) are protected by copyright laws throughout the world.&nbsp;</span></li>
+                    <li>
+                        <strong>License Terms.</strong>
+                    </li>
                     <ol>
-                        <li><span style={{ textDecoration: "underline" }}>Application License</span><span >. Subject to your compliance with the Agreement, STORYPLACE grants you a limited non-exclusive, non-transferable, non-sublicensable, revocable license to download, install and use a copy of the Application on a single mobile device or computer that you own or control and to run such copy of the Application solely for your own personal or internal business purposes.&nbsp; Furthermore, with respect to any Application accessed through or downloaded from the Apple App Store (an &ldquo;App Store Sourced Application&rdquo;), you will only use the App Store Sourced Application (a) on an Apple-branded product that runs the iOS (Apple&rsquo;s proprietary operating system) and (b) as permitted by the &ldquo;Usage Rules&rdquo; set forth in the Apple App Store Terms of Service. Notwithstanding the first sentence in this section, with respect to any Application access through or downloaded, you may have additional license rights with respect to use of the Application on a shared basis within your designated family group.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Updates</span><span >. You understand that STORYPLACE Properties are evolving.&nbsp; As a result, STORYPLACE may require you to accept updates to STORYPLACE Properties that you have installed on your computer or mobile device.&nbsp; You acknowledge and agree that STORYPLACE may update STORYPLACE Properties with or without notifying you.&nbsp; You may need to update third-party software from time to time in order to use STORYPLACE Properties.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Certain Restrictions</span><span >. The rights granted to you in the Agreement are subject to the following restrictions: (a) you shall not license, sell, rent, lease, transfer, assign, reproduce, distribute, host or otherwise commercially exploit STORYPLACE Properties or any portion of STORYPLACE Properties, including the Website, (b) you shall not frame or utilize framing techniques to enclose any trademark, logo, or other STORYPLACE Properties (including images, text, page layout or form) of STORYPLACE; (c) you shall not use any metatags or other &ldquo;hidden text&rdquo; using STORYPLACE&rsquo;s name or trademarks; (d) you shall not modify, translate, adapt, merge, make derivative works of, disassemble, decompile, reverse compile or reverse engineer any part of STORYPLACE Properties except to the extent the foregoing restrictions are expressly prohibited by applicable law; (e) you shall not use any manual or automated software, devices or other processes (including but not limited to spiders, robots, scrapers, crawlers, avatars, data mining tools or the like) to &ldquo;scrape&rdquo; or download data from any web pages contained in the Website (except that we grant the operators of public search engines revocable permission to use spiders to copy materials from the Website for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials); (f) you shall not access STORYPLACE Properties in order to build a similar or competitive website, application or service; (g) except as expressly stated herein, no part of STORYPLACE Properties may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means; and (h) you shall not remove or destroy any copyright notices or other proprietary markings contained on or in STORYPLACE Properties. Any future release, update or other addition to STORYPLACE Properties shall be subject to the Agreement.&nbsp; STORYPLACE, its suppliers and its service providers reserve all rights not granted in the Agreement.&nbsp; Any unauthorized use of any STORYPLACE Property terminates the licenses granted by STORYPLACE pursuant to the Agreement.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Third-Party Materials</span><span >. As a part of STORYPLACE Properties, you may have access to materials that are hosted by another party.&nbsp; You agree that it is impossible for STORYPLACE to monitor such materials and that you access these materials at your own risk.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Registering Your Account</span><span >. In order to access certain features of STORYPLACE Properties you may be required to become a Registered User.&nbsp; For purposes of the Agreement, a &ldquo;Registered User&rdquo; is a user who has registered an account on the Website, PRO or the Application (&ldquo;Account&rdquo;) or has a valid account on the social networking service (&ldquo;SNS&rdquo;) through which the user has connected to the Website, PRO or the Application (each such account, a &ldquo;Third-Party Account&rdquo;).</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Access Through a SNS</span><span >. If you access the STORYPLACE Properties through a SNS as part of the functionality of the Website, the Application and/or the Services, you may link your Account with Third-Party Accounts, by allowing STORYPLACE to access your Third-Party Account, as is permitted under the applicable terms and conditions that govern your use of each Third-Party Account.&nbsp; You represent that you are entitled to disclose your Third-Party Account login information to STORYPLACE and/or grant STORYPLACE access to your Third-Party Account (including, but not limited to, for use for the purposes described herein) without breach by you of any of the terms and conditions that govern your use of the applicable Third-Party Account and without obligating STORYPLACE to pay any fees or making STORYPLACE subject to any usage limitations imposed by such third-party service providers.&nbsp; By granting STORYPLACE access to any Third-Party Accounts, you understand that STORYPLACE may access, make available and store (if applicable) any information, data, text, software, music, sound, photographs, graphics, video, messages, tags and/or other materials accessible through STORYPLACE Properties (collectively, &ldquo;Content&rdquo;) that you have provided to and stored in your Third-Party Account (&ldquo;SNS Content&rdquo;) so that it is available on and through STORYPLACE Properties via your Account.&nbsp; Unless otherwise specified in the Agreement, all SNS Content shall be considered to be Your Content (as defined in Section 3.1) for all purposes of the Agreement.&nbsp; Depending on the Third-Party Accounts you choose and subject to the privacy settings that you have set in such Third-Party Accounts, personally identifiable information that you post to your Third-Party Accounts may be available on and through your Account on STORYPLACE Properties. Please note that if a Third-Party Account or associated service becomes unavailable or STORYPLACE&rsquo;s access to such Third-Party Account is terminated by the third-party service provider, then SNS Content will no longer be available on and through STORYPLACE Properties.&nbsp; You have the ability to disable the connection between your Account and your Third-Party Accounts at any time by accessing the &ldquo;Settings&rdquo; section of the Website.&nbsp; PLEASE NOTE THAT YOUR RELATIONSHIP WITH THE THIRD-PARTY SERVICE PROVIDERS ASSOCIATED WITH YOUR THIRD-PARTY ACCOUNTS IS GOVERNED SOLELY BY YOUR AGREEMENT(S) WITH SUCH THIRD-PARTY SERVICE PROVIDERS, AND STORYPLACE DISCLAIMS ANY LIABILITY FOR PERSONALLY IDENTIFIABLE INFORMATION THAT MAY BE PROVIDED TO IT BY SUCH THIRD-PARTY SERVICE PROVIDERS IN VIOLATION OF THE PRIVACY SETTINGS THAT YOU HAVE SET IN SUCH THIRD-PARTY ACCOUNTS.&nbsp; STORYPLACE makes no effort to review any SNS Content for any purpose, including but not limited to, for accuracy, legality or noninfringement, and STORYPLACE is not responsible for any SNS Content.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Registration Data</span><span >. In registering an account on the Website (including without limitation PRO), you agree to (a) provide true, accurate, current and complete information about yourself as prompted by the registration form (the &ldquo;Registration Data&rdquo;); and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete.&nbsp; You represent that you are (l) at least sixteen (16) years old; (m) of legal age to form a binding contract; and (n) not a person barred from using STORYPLACE Properties under the laws of the United States, your place of residence or any other applicable jurisdiction.&nbsp; You are responsible for all activities that occur under your Account.&nbsp; You agree that you shall monitor your Account to restrict use by minors, and you will accept full responsibility for any unauthorized use of STORYPLACE Properties by minors.&nbsp; You may not share your Account or password with anyone, and you agree to (y) notify STORYPLACE immediately of any unauthorized use of your password or any other breach of security; and (z) exit from your Account at the end of each session.&nbsp; If you provide any information that is untrue, inaccurate, not current or incomplete, or STORYPLACE has reasonable grounds to suspect that any information you provide is untrue, inaccurate, not current or incomplete, STORYPLACE has the right to suspend or terminate your Account and refuse any and all current or future use of STORYPLACE Properties (or any portion thereof).&nbsp; You agree not to create an Account using a false identity or information, or on behalf of someone other than yourself.&nbsp; You agree that you shall not have more than one Account per platform or SNS at any given time.&nbsp; STORYPLACE reserves the right to remove or reclaim any usernames at any time and for any reason, including but not limited to, claims by a third party that a username violates the third party&rsquo;s rights.&nbsp; You agree not to create an Account or use STORYPLACE Properties if you have been previously removed by STORYPLACE, or if you have been previously banned from any of STORYPLACE Properties.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Your Account</span><span >. Notwithstanding anything to the contrary herein, you acknowledge and agree that you shall have no ownership or other property interest in your Account, and you further acknowledge and agree that all rights in and to your Account are and shall forever be owned by and inure to the benefit of STORYPLACE. STORYPLACE reserves the right to terminate your Account if it has been inactive (i.e., you have not logged into your Account) for one hundred eighty (180) days and in such event, you shall not be entitled to any consideration for such termination.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Necessary Equipment and Software</span><span >. You must provide all equipment and software necessary to connect to STORYPLACE Properties, including but not limited to, a mobile device that is suitable to connect with and use STORYPLACE Properties, in cases where the Services offer a mobile component.&nbsp; You are solely responsible for any fees, including Internet connection or mobile fees, that you incur when accessing STORYPLACE Properties.&nbsp; By providing your cellphone number and using the Services, you hereby affirmatively consent to our use of your cellphone number for calls and texts in order to perform and improve upon the Services. STORYPLACE will not assess and charge for any calls or texts, but standard message charges or other charged from your wireless carrier may apply.&nbsp; You may opt out of receiving text messages from us in your account.</span></li>
-                    </ol>
-                    <li><span >Responsibility for Content.</span></li>
-                    <ol>
-                        <li><span style={{ textDecoration: "underline" }}>Types of Content</span><span >. You acknowledge that all Content, including STORYPLACE Properties, is the sole responsibility of the party from whom such Content originated.&nbsp; This means that you, and not STORYPLACE, are entirely responsible for all Content that you upload, post, e-mail, transmit or otherwise make available (&ldquo;Make Available&rdquo;) through STORYPLACE Properties (&ldquo;Your Content&rdquo;), and that you and other Registered Users of STORYPLACE Properties, and not STORYPLACE, are similarly responsible for all Content that you and they Make Available through STORYPLACE Properties (&ldquo;User Content&rdquo;).&nbsp; Further guidelines for User Content are found in the </span><a href="https://storyplace.com/content-guidelines" target="_blank" rel="noopener noreferrer">2020 Addendum</a><span >.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>No Obligation to Pre-Screen Content</span><span >. You acknowledge that STORYPLACE has no obligation to pre-screen Content (including, but not limited to, User Content), although STORYPLACE reserves the right in its sole discretion to pre-screen, refuse or remove any Content.&nbsp; By entering into the Agreement, you hereby provide your irrevocable consent to such monitoring.&nbsp; You acknowledge and agree that you have no expectation of privacy concerning the transmission of Your Content, including without limitation chat, text, or voice communications.&nbsp; In the event that STORYPLACE pre-screens, refuses or removes any Content, you acknowledge that STORYPLACE will do so for STORYPLACE&rsquo;s benefit, not yours.&nbsp; Without limiting the foregoing, STORYPLACE shall have the right to remove any Content that violates the Agreement or is otherwise objectionable.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Storage</span><span >. Unless expressly agreed to by STORYPLACE in writing elsewhere, STORYPLACE has no obligation to store any of Your Content that you Make Available on STORYPLACE Properties.&nbsp; STORYPLACE has no responsibility or liability for the deletion or accuracy of any Content, including Your Content; the failure to store, transmit or receive transmission of Content; or the security, privacy, storage, or transmission of other communications originating with or involving use of STORYPLACE Properties.&nbsp; Certain Services may enable you to specify the level at which such Services restrict access to Your Content.&nbsp; You are solely responsible for applying the appropriate level of access to Your Content.&nbsp; If you do not choose, the system may default to its most permissive setting.&nbsp; You agree that STORYPLACE retains the right to create reasonable limits on STORYPLACE&rsquo;s use and storage of the Content, including Your Content, such as limits on file size, storage space, processing capacity, and similar limits described on the Website and as otherwise determined by STORYPLACE in its sole discretion.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>STORYPLACE Properties</span><span >. Except with respect to Your Content and User Content, you agree that STORYPLACE and its suppliers own all rights, title and interest in STORYPLACE Properties, including the StoryPlace map and the contents therein.&nbsp; You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying any STORYPLACE Properties.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Trademarks</span><span >. STORYPLACE&rsquo;s name and all related graphics, logos, service marks and trade names used on or in connection with any STORYPLACE Properties or in connection with the Services are the trademarks of STORYPLACE and may not be used without permission in connection with your or any third-party products or services. Other trademarks, service marks and trade names that may appear on or in STORYPLACE Properties are the property of their respective owners.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Other Content</span><span >. Except with respect to Your Content, you agree that you have no right, title, or interest in or to any Content that appears on or in STORYPLACE Properties.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Your Content</span><span >. STORYPLACE does not claim ownership of Your Content.&nbsp; However, when you as a Registered User post or publish Your Content on or in STORYPLACE Properties, you represent that you own and/or have a royalty-free, perpetual, irrevocable, worldwide, non-exclusive right (including any moral rights) and license to use, license, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, derive revenue or other remuneration from, and communicate to the public, perform and display Your Content (in whole or in part) worldwide and/or to incorporate it in other works in any form, media or technology now known or later developed, for the full term of any worldwide intellectual property right that may exist in Your Content.&nbsp; Further guidelines for Your Content, including copyright protection for such content, are found in the </span><a href="https://storyplace.com/content-guidelines" target="_blank" rel="noopener noreferrer">2020 Addendum</a><span >.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>License to Your Content</span><span >. Subject to any applicable account settings that you select, you grant STORYPLACE a fully paid, royalty-free, perpetual, irrevocable, worldwide, royalty-free, non-exclusive and fully sublicensable right (including any moral rights) and license to use, license, distribute, reproduce, modify, adapt, publicly perform, and publicly display Your Content (in whole or in part) for the purposes of operating STORYPLACE&rsquo;s business.&nbsp; Please remember that other users may search for, see, use, modify and reproduce any of Your Content that you submit to any &ldquo;public&rdquo; area of STORYPLACE Properties.&nbsp; You warrant that the holder of any worldwide intellectual property right, including moral rights, in Your Content, has completely and effectively waived all such rights and validly and irrevocably granted to you the right to grant the license stated above.&nbsp; You agree that you, not STORYPLACE, are responsible for all of Your Content that you Make Available on or in STORYPLACE Properties. Subject to any applicable account settings that you select, you grant STORYPLACE a fully paid, royalty-free, perpetual, irrevocable, worldwide, royalty-free, non-exclusive and fully sublicensable right (including any moral rights) and license to use, license, distribute, reproduce, modify, adapt, publicly perform, and publicly display Your Content (in whole or in part) for the purposes of operating STORYPLACE&rsquo;s business. For the avoidance of doubt, STORYPLACE is currently in the business of encouraging the global sharing of stories and, with respect to PRO, connecting Storytellers and Content Creators. If STORYPLACE subsequently enters into the business of producing audio-visual works based on any of Your Content, it shall only do so with your express permission. Please remember that other users may search for, see, use, modify and reproduce any of Your Content that you submit to any &ldquo;public&rdquo; area of STORYPLACE Properties. You warrant that the holder of any worldwide intellectual property right, including moral rights, in Your Content, has completely and effectively waived all such rights and validly and irrevocably granted to you the right to grant the license stated above. You agree that you, not STORYPLACE, are responsible for all of Your Content that you Make Available on or in STORYPLACE Properties.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Username</span><span >. Notwithstanding anything contained herein to the contrary, by submitting Your Content to any forums, comments or any other area on STORYPLACE Properties, you hereby expressly permit STORYPLACE to identify you by your username (which may be a pseudonym) as the contributor of Your Content in any publication in any form, media or technology now known or later developed in connection with Your Content.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Your Profile</span><span >. Any Content posted by you in your profile may not contain nudity, violence, sexually explicit, or offensive subject matter as determined by STORYPLACE in its sole discretion.&nbsp; You may not post or submit for print services a photograph of another person without that person&rsquo;s permission.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Feedback</span><span >. You agree that submission of any ideas, suggestions, documents, and/or proposals to STORYPLACE through its suggestion, feedback, wiki, forum or similar pages (&ldquo;Feedback&rdquo;) is at your own risk and that STORYPLACE has no obligations (including without limitation obligations of confidentiality) with respect to such Feedback.&nbsp; You represent and warrant that you have all rights necessary to submit the Feedback.&nbsp; You hereby grant to STORYPLACE a fully paid, royalty-free, perpetual, irrevocable, worldwide, non-exclusive, and fully sublicensable right and license to use, reproduce, perform, display, distribute, adapt, modify, re-format, create derivative works of, and otherwise commercially or non-commercially exploit in any manner, any and all Feedback, and to sublicense the foregoing rights, in connection with the operation and maintenance of STORYPLACE Properties and/or STORYPLACE&rsquo;s business.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Cheating and Hacking</span><span >. You agree that you will not, under any circumstances:</span></li>
-                        <ol>
-                            <li><span >Use cheats, exploits, automation software, bots, hacks, mods or any unauthorized software designed to modify or interfere with any STORYPLACE Properties;</span></li>
-                            <li><span >Interfere with or damage STORYPLACE Properties, including, without limitation, through the use of viruses, cancel bots, Trojan horses, harmful code, flood pings, denial-of-service attacks, packet or IP spoofing, forged routing or electronic mail address information, or similar methods or technology;</span></li>
-                            <li><span >Modify or cause to be modified any files that are a part of STORYPLACE Properties;</span></li>
-                            <li><span >Disrupt, overburden, or aid or assist in the disruption or overburdening of: (i) any computer or server used to offer or support STORYPLACE Properties; or (ii) the enjoyment of STORYPLACE Properties by any other person;</span></li>
-                            <li><span >Institute, assist, or become involved in any type of attack, including, but not limited to, distribution of a virus, denial of service attacks upon STORYPLACE Properties, or other attempts to disrupt STORYPLACE Properties or any other person&rsquo;s use or enjoyment of STORYPLACE Properties;</span></li>
-                            <li><span >Attempt to gain unauthorized access to STORYPLACE Properties, accounts registered to others, or to the computers, servers or networks connected to STORYPLACE Properties by any means other than the user interface provided by STORYPLACE, including, but not limited to, by circumventing or modifying, attempting to circumvent or modify, or encouraging or assisting any other person to circumvent or modify, any security, technology, device or software that is part of STORYPLACE Properties;</span></li>
-                            <li><span >Access, tamper with or use non-public areas of STORYPLACE Properties, STORYPLACE&rsquo;s computer systems, or the technical delivery systems of STORYPLACE&rsquo;s providers;</span></li>
-                            <li><span >Attempt to probe, scan, or test the vulnerability of any STORYPLACE system or network, or breach any security or authentication measures;</span></li>
-                            <li><span >Disrupt or interfere with the security of, or otherwise cause harm to, STORYPLACE Properties, systems, resources, accounts, passwords, servers or networks connected to or accessible through STORYPLACE Properties or any affiliated or linked sites; or</span></li>
-                            <li><span >Avoid, bypass, remove, deactivate, impair, descramble, or otherwise circumvent any technological measure implemented by STORYPLACE or any of STORYPLACE&rsquo;s providers or any other third party (including another Registered User) to protect STORYPLACE Properties.</span></li>
-                        </ol>
-                        <li><span style={{ textDecoration: "underline" }}>Commercial Activities</span><span >. You agree that you will not, under any circumstances (except to the extent expressly authorized by the Agreement):</span></li>
-                        <ol>
-                            <li><span >Reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purpose any portion of STORYPLACE Properties (including your Account), or access to or use of STORYPLACE Properties;</span></li>
-                            <li><span >Upload, post, e-mail, transmit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, &ldquo;junk mail,&rdquo; &ldquo;spam,&rdquo; &ldquo;chain letters,&rdquo; &ldquo;pyramid schemes,&rdquo; or any other form of solicitation in connection with any STORYPLACE Property;</span></li>
-                            <li><span >Use STORYPLACE Properties or any part thereof for any commercial purpose, including, but not limited to, communicating or facilitating any commercial advertisement or solicitation;</span></li>
-                            <li><span >Engage in any chain letters, contests, junk email, pyramid schemes, spamming, surveys or other duplicative or unsolicited messages (commercial or otherwise) in connection with STORYPLACE Properties; or</span></li>
-                            <li><span >Market any goods or services for any business purposes on or in connection with any STORYPLACE Properties.</span></li>
-                        </ol>
-                        <li><span style={{ textDecoration: "underline" }}>Unauthorized Use or Access</span><span >. You agree that you will not, under any circumstances:</span></li>
-                        <ol>
-                            <li><span >Interfere or attempt to interfere with the proper functioning of STORYPLACE Properties or connect to or use STORYPLACE Properties in any way not expressly permitted by the Agreement;</span></li>
-                            <li><span >Systematically retrieve data or other content from STORYPLACE Properties to create or compile, directly or indirectly, in single or multiple downloads, a collection, compilation, database, directory or the like, whether by manual methods or through the use of bots, crawlers, spiders, or otherwise;</span></li>
-                            <li><span >Use, display, mirror or frame STORYPLACE Properties, or any individual element within STORYPLACE Properties, STORYPLACE&rsquo;s name, any STORYPLACE trademark, logo or other proprietary information, or the layout and design of any page or form contained on a page, without STORYPLACE&rsquo;s express written consent;</span></li>
-                            <li><span >Use any unauthorized software that accesses, intercepts, &ldquo;mines&rdquo; or otherwise collects information from or through STORYPLACE Properties or that is in transit from or to STORYPLACE Properties, including, but not limited to, any software that reads areas of RAM or streams of network traffic used by STORYPLACE Properties;</span></li>
-                            <li><span >Intercept, examine or otherwise observe any proprietary communications protocol used by a client, a server or STORYPLACE Properties, whether through the use of a network analyzer, packet sniffer or other device;</span></li>
-                            <li><span >Make any automated use of STORYPLACE Properties, or take any action that imposes or may impose (in STORYPLACE&rsquo;s sole discretion) an unreasonable or disproportionately large load on the infrastructure for STORYPLACE Properties;</span></li>
-                            <li><span >Bypass any robot exclusion headers or other measures STORYPLACE takes to restrict access to STORYPLACE Properties, or use any software, technology or device to send content or messages, scrape, spider or crawl STORYPLACE Properties, or harvest or manipulate data;</span></li>
-                            <li><span >Use, facilitate, create, or maintain any unauthorized connection to STORYPLACE Properties, including, but not limited to: (i) any connection to any unauthorized server that emulates, or attempts to emulate, any part of STORYPLACE Properties; or (ii) any connection using programs, tools or software not expressly approved by STORYPLACE;</span></li>
-                            <li><span >Reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for any underlying software or other intellectual property used to provide STORYPLACE Properties;</span></li>
-                            <li><span >Forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through STORYPLACE Properties;</span></li>
-                            <li><span >Upload, post, e-mail, transmit or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;</span></li>
-                            <li><span >Solicit or attempt to solicit personal information from other Registered Users of STORYPLACE Properties;</span></li>
-                            <li><span >Use STORYPLACE Properties to collect, harvest, transmit, distribute, post or submit any information concerning any other person or entity, including without limitation, photographs of others without their permission, personal contact information or credit, debit, calling card or account numbers;</span></li>
-                            <li><span >Forge any TCP/IP packet header or any part of the header information in any e-mail or newsgroup posting, or in any way use STORYPLACE Properties to send altered, deceptive or false source-identifying information; or</span></li>
-                            <li><span >Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including, but not limited to, clear GIFs, 1x1 pixels, web bugs, cookies or other similar devices (sometimes referred to as &ldquo;spyware,&rdquo; &ldquo;passive collection mechanisms&rdquo; or &ldquo;pcms&rdquo;).</span></li>
-                        </ol>
-                        <li><span style={{ textDecoration: "underline" }}>General</span><span >. In connection with your use of STORYPLACE Properties, you shall not:</span></li>
-                        <ol>
-                            <li><span >Make Available any Content that, in STORYPLACE&rsquo;s sole discretion, (i) is unlawful, tortious, defamatory, vulgar, obscene, libelous, or racially, ethnically or otherwise objectionable; (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (iii) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (iv) is violent or threatening, or promotes violence or actions that are threatening to any other person; or (v) promotes illegal or harmful activities;</span></li>
-                            <li><span >Harm minors in any way;</span></li>
-                            <li><span >Impersonate any person or entity, including, but not limited to, STORYPLACE personnel, or falsely state or otherwise misrepresent your affiliation with a person or entity;</span></li>
-                            <li><span >Make Available any Content that you do not have a right to Make Available under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under non-disclosure agreements);</span></li>
-                            <li><span >Make Available any Content that infringes the rights of any person or entity, including without limitation, any patent, trademark, trade secret, copyright, privacy, publicity or other proprietary or contractual rights;</span></li>
-                            <li><span >Intentionally or unintentionally violate any applicable local, state, national or international law or regulation, or any order of a court;</span></li>
-                            <li><span >Register for more than one Account or register for an Account on behalf of an individual other than yourself;</span></li>
-                            <li><span >Stalk or otherwise harass any other Registered User of our STORYPLACE Properties; or</span></li>
-                            <li><span >Advocate, encourage or assist any third party in doing any of the foregoing activities in this section.</span></li>
-                        </ol>
-                    </ol>
-                    <li><span style={{ textDecoration: "underline" }}>Investigations</span><span >.</span></li>
-                    <ol>
-                        <li><span >STORYPLACE may, but is not obligated to, monitor or review STORYPLACE Properties and Content at any time.&nbsp; Without limiting the foregoing, STORYPLACE shall have the right, in its sole discretion, to remove any of Your Content for any reason (or no reason), including if such Content violates the Agreement or any applicable law.&nbsp; Although STORYPLACE does not generally monitor user activity occurring in connection with STORYPLACE Properties or Content, if STORYPLACE becomes aware of any possible violations by you of any provision of the Agreement, STORYPLACE reserves the right to investigate such violations, and STORYPLACE may, at its sole discretion, immediately terminate your license to use STORYPLACE Properties, or change, alter or remove Your Content, in whole or in part, without prior notice to you.</span></li>
-                    </ol>
-                    <li><span >Interactions with Other Users.</span></li>
-                    <ol>
-                        <li><span style={{ textDecoration: "underline" }}>User Responsibility</span><span >. You are solely responsible for your interactions with other Registered Users and any other parties with whom you interact on or through the STORYPLACE Properties.&nbsp; For avoidance of doubt, this Section 6.1 is expressly applicable to any interactions between Storytellers and Content Creators within PRO.&nbsp; STORYPLACE reserves the right, but has no obligation, to intercede in such disputes.&nbsp; You agree that STORYPLACE will not be responsible for any liability incurred as the result of such interactions, including without limitation any interactions between Storytellers and Content Creators within PRO.&nbsp; YOU UNDERTAKE ALL INTERACTIONS WITH ANY OTHER USERS SOLELY AT YOUR OWN RISK, AND STORYPLACE DISCLAIMS ANY AND ALL LIABILITY IN CONNECTION THEREWITH.&nbsp; STORYPLACE FURTHER DISCLAIMS ANY AND ALL LIABILITY IN CONNECTION WITH ANY DISPUTE BETWEEN STORYTELLERS AND CONTENT CREATORS WITHIN PRO, INCLUDING ANY DISPUTES RELATING TO STORIES, ACCESS TO STORIES, IDEA SUBMISSIONS, INFORMATION EXCHANGED BETWEEN CONTENT CREATORS AND STORYTELLERS, AND ANY LIABILITY RELATING TO ANY DISCUSSIONS OR AGREEMENTS BETWEEN CONTENT CREATORS AND STORYTELLERS, INCLUDING THOSE RELATING TO CONTENT PURCHASE, ACQUISITION, DEVELOPMENT, PRODUCTION, DISTRIBUTION AND/OR EXPLOITATION.&nbsp; YOU FURTHER ACKNOWLEDGE AND AGREE THAT STORYPLACE DOES NOT CONDUCT ANY PROFILING OR CHECKS, INCLUDING BACKGROUND OR CRIMINAL RECORDS SEARCHES, ON ANY USERS.&nbsp; STORYPLACE MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF ANY USER OR THE COMPATIBILITY OF ANY USER WITH ANY OTHER CURRENT OR FUTURE USER.&nbsp;</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Content Provided by Other Users</span><span >. STORYPLACE Properties may contain User Content provided by other Registered Users.&nbsp; STORYPLACE is not responsible for and does not control User Content.&nbsp; STORYPLACE has no obligation to review or monitor, and does not approve, endorse or make any representations or warranties with respect to User Content.&nbsp; You use all User Content and interact with other users at your own risk.</span></li>
-                    </ol>
-                    <li><span >Third-Party Services and Fees.</span></li>
-                    <ol>
-                        <li><span style={{ textDecoration: "underline" }}>Third-Party Websites, Applications and Ads</span><span >. STORYPLACE Properties may contain links to third-party websites (&ldquo;Third-Party Websites&rdquo;) and applications (&ldquo;Third-Party Applications&rdquo;) and advertisements for third parties (&ldquo;Third-Party Ads&rdquo;). When you click on a link to a Third-Party Website, Third-Party Application or Third-Party Ad, we will not warn you that you have left STORYPLACE Properties and are subject to the terms and conditions (including privacy policies) of another website or destination.&nbsp; Such Third-Party Websites, Third-Party Applications and Third-Party Ads are not under the control of STORYPLACE.&nbsp; STORYPLACE is not responsible for any Third-Party Websites, Third-Party Applications or Third-Party Ads.&nbsp; STORYPLACE provides these Third-Party Websites, Third-Party Applications and Third Party Ads only as a convenience and does not review, approve, monitor, endorse, warrant, or make any representations with respect to Third-Party Websites, Third-Party Applications or Third-Party Ads, or any product or service provided in connection therewith.&nbsp; You use all links in Third-Party Websites, Third-Party Applications and Third-Party Ads at your own risk. When you leave our Website, the Agreement and policies no longer govern.&nbsp; You should review applicable terms and policies, including privacy and data gathering practices, of any Third-Party Websites or Third-Party Applications, and make whatever investigation you feel necessary or appropriate before proceeding with any transaction with any third party.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>App Stores</span><span >. You acknowledge and agree that the availability of the Application and the Services is dependent on the third party from whom you received the Application license. &nbsp; You acknowledge that the Agreement is between you and STORYPLACE and not with an App Store.&nbsp; STORYPLACE, not an App Store, is solely responsible for STORYPLACE Properties, including the Application, the content thereof, maintenance, support services, and warranty therefor, and addressing any claims relating thereto (e.g., legal compliance or intellectual property infringement).&nbsp; In order to use the Application, you must have access to a wireless network, and you agree to pay all fees associated with such access.&nbsp; You also agree to pay all fees (if any) charged by an App Store in connection with STORYPLACE Properties, including the Application.&nbsp; You agree to comply with, and your license to use the Application is conditioned upon your compliance with all terms of agreement imposed by the applicable App Store when using any STORYPLACE Property, including the Application. You acknowledge that an App Store (and its subsidiaries) are third-party beneficiaries of the Agreement and will have the right to enforce it.&nbsp;</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Sales Tax</span><span >. STORYPLACE does not currently charge a fee for any of its Servicess. If at any point in the future, STORYPLACE begins to charge a fee for any of its other Services (&ldquo;Additional Fees&rdquo;), the Additional Fees will not include any Sales Tax that may become due in connection with such other Services.&nbsp; If STORYPLACE determines it has a legal obligation to collect Sales Tax from you in connection with this Agreement, STORYPLACE shall collect such Sales Tax in addition to the Fees and any Additional Fees.&nbsp; If any Services, or payments for any Services, under the Agreement are subject to Sales Tax in any jurisdiction and you have not remitted the applicable Sales Tax to STORYPLACE, you will be responsible for the payment of such Sales Tax and any related penalties or interest to the relevant tax authority, and you will indemnify STORYPLACE for any liability or expense STORYPLACE may incur in connection with such Sales Taxes.&nbsp; Upon STORYPLACE&rsquo;s request, you will provide it with official receipts issued by the appropriate taxing authority, or other such evidence that you have paid all applicable taxes.&nbsp; For purposes of this section, &ldquo;Sales Tax&rdquo; shall mean any sales or use tax and any other tax measured by sales proceeds that is the functional equivalent of a sales tax where the applicable taxing jurisdiction does not otherwise impose a sales or use tax.</span></li>
-                    </ol>
-                    <li><span >You agree to indemnify, defend and hold STORYPLACE, its parents, subsidiaries, affiliates, stockholders, officers, employees, agents, partners, suppliers, and licensors (each, a &ldquo;STORYPLACE Party&rdquo; and collectively, the &ldquo;STORYPLACE Parties&rdquo;) harmless from any losses, costs, liabilities and expenses (including reasonable attorneys&rsquo; fees and expert witnesses&rsquo; costs) relating to or arising out of any and all of the following: (a) Your Content, including any lawsuit, claim or action by another Registered User (including without limitation Storytellers and Content Creators within PRO) or any other third party alleging that Your Content infringes any rights, including intellectual property, copyright and privacy rights; (b) any lawsuit, claim or action relating to your use of PRO brought against any STORYPLACE Party, including without limitation any lawsuit, claim or action by a Storyteller alleging (i) idea theft, (ii) breach of an implied-in-fact contract or (iii) intellectual property or copyright infringement; (c) any lawsuit, claim or action by another Registered User or any other third party alleging that Your Content is defamatory; (d) your use of, or inability to use, any STORYPLACE Property; (e) your violation of the Agreement; (f) your violation of any rights of another party, including without limitation any Registered Users; or (g) your violation of any applicable laws, rules or regulations.&nbsp; STORYPLACE reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will fully cooperate with STORYPLACE in asserting any available defenses.&nbsp; This provision does not require you to indemnify any of the STORYPLACE Parties for any unconscionable commercial practice by such party or for such party&rsquo;s fraud, deception, false promise, misrepresentation or concealment, suppression or omission of any material fact in connection with the Website or any Services provided hereunder. You agree that the provisions in this section will survive any termination of your Account, the Agreement and/or your access to STORYPLACE Properties.</span></li>
-                    <li><span >Disclaimer of Warranties and Conditions.</span></li>
-                    <ol>
-                        <li><span style={{ textDecoration: "underline" }}>As Is</span><span >. YOU EXPRESSLY UNDERSTAND AND AGREE THAT TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF STORYPLACE PROPERTIES IS AT YOUR SOLE RISK, AND STORYPLACE PROPERTIES ARE PROVIDED ON AN &ldquo;AS IS&rdquo; AND &ldquo;AS AVAILABLE&rdquo; BASIS, WITH ALL FAULTS. STORYPLACE PARTIES EXPRESSLY DISCLAIM ALL WARRANTIES, REPRESENTATIONS, AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT ARISING FROM USE OF THE WEBSITE.&nbsp;</span></li>
-                        <ol>
-                            <li><span >STORYPLACE PARTIES MAKE NO WARRANTY, REPRESENTATION OR CONDITION THAT: (1) STORYPLACE PROPERTIES WILL MEET YOUR REQUIREMENTS; (2) YOUR USE OF STORYPLACE PROPERTIES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE; OR (3) THE RESULTS THAT MAY BE OBTAINED FROM USE OF STORYPLACE PROPERTIES WILL BE ACCURATE OR RELIABLE.</span></li>
-                            <li><span >ANY CONTENT DOWNLOADED FROM OR OTHERWISE ACCESSED THROUGH STORYPLACE PROPERTIES IS ACCESSED AT YOUR OWN RISK, AND YOU SHALL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY, INCLUDING, BUT NOT LIMITED TO, YOUR COMPUTER SYSTEM AND ANY DEVICE YOU USE TO ACCESS STORYPLACE PROPERTIES, OR ANY OTHER LOSS THAT RESULTS FROM ACCESSING SUCH CONTENT.</span></li>
-                            <li><span >THE SERVICES MAY BE SUBJECT TO DELAYS, CANCELLATIONS AND OTHER DISRUPTIONS. STORYPLACE MAKES NO WARRANTY, REPRESENTATION OR CONDITION WITH RESPECT TO SERVICES, INCLUDING BUT NOT LIMITED TO, THE QUALITY, EFFECTIVENESS, REPUTATION AND OTHER CHARACTERISTICS OF SERVICES.</span></li>
-                            <li><span >NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM STORYPLACE OR THROUGH STORYPLACE PROPERTIES WILL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.</span></li>
-                            <li><span >From time to time, STORYPLACE may offer new &ldquo;beta&rdquo; features or tools with which its registered users may experiment. Such features or tools are offered solely for experimental purposes and without any warranty of any kind, and may be modified or discontinued at STORYPLACE&rsquo;s sole discretion.&nbsp; The provisions of this section apply with full force to such features or tools.</span></li>
-                        </ol>
-                        <li><span style={{ textDecoration: "underline" }}>No Liability for Conduct of Third Parties</span><span >. YOU ACKNOWLEDGE AND AGREE THAT STORYPLACE PARTIES ARE NOT LIABLE, AND YOU AGREE NOT TO SEEK TO HOLD STORYPLACE PARTIES LIABLE, FOR THE CONDUCT OF THIRD PARTIES, INCLUDING OPERATORS OF EXTERNAL SITES, AND THAT THE RISK OF INJURY FROM SUCH THIRD PARTIES RESTS ENTIRELY WITH YOU.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>No Liability for Conduct of Other Users</span><span >. YOU ARE SOLELY RESPONSIBLE FOR ALL OF YOUR COMMUNICATIONS AND INTERACTIONS WITH OTHER USERS OF STORYPLACE PROPERTIES. YOU UNDERSTAND THAT STORYPLACE DOES NOT MAKE ANY ATTEMPT TO VERIFY THE STATEMENTS OF USERS OF STORYPLACE PROPERTIES.&nbsp; STORYPLACE MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF USERS OF STORYPLACE PROPERTIES OR THEIR COMPATIBILITY WITH ANY CURRENT OR FUTURE USERS OF STORYPLACE PROPERTIES.&nbsp; YOU AGREE TO TAKE REASONABLE PRECAUTIONS IN ALL COMMUNICATIONS AND INTERACTIONS WITH OTHER USERS OF STORYPLACE PROPERTIES, PARTICULARLY IF YOU DECIDE TO MEET OFFLINE OR IN PERSON.&nbsp; YOU ACKNOWLEDGE AND AGREE THAT STORYPLACE DOES NOT CONDUCT BACKGROUND CHECKS ON ANY USER.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>No Liability for Conduct of Users of PRO</span><span >. IF YOU ARE A USER OF PRO, WHETHER YOU ARE A STORYTELLER AND/OR A CONTENT CREATOR, YOU ARE SOLELY RESPONSIBLE FOR ALL OF YOUR COMMUNICATIONS AND INTERACTIONS WITH OTHER USERS OF PRO, INCLUDING WITHOUT LIMITATION INTERACTIONS RELATING TO ANY STORIES, ACCESS TO AND SUBMISSION OF SUCH STORIES, AND ANY COMMUNICATIONS OR AGREEMENTS RELATING TO THE ACQUISITION OF ANY RIGHT, TITLE OR INTEREST IN SUCH STORIES.</span></li>
-                    </ol>
-                    <li><span >Limitation of Liability.</span></li>
-                    <ol>
-                        <li><span style={{ textDecoration: "underline" }}>Disclaimer of Certain Damages</span><span >. YOU UNDERSTAND AND AGREE THAT IN NO EVENT SHALL STORYPLACE PARTIES BE LIABLE FOR ANY LOSS OF PROFITS, REVENUE OR DATA, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, OR DAMAGES OR COSTS DUE TO LOSS OF PRODUCTION OR USE, BUSINESS INTERRUPTION, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, IN EACH CASE WHETHER OR NOT STORYPLACE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, ARISING OUT OF OR IN CONNECTION WITH THE AGREEMENT OR ANY COMMUNICATIONS, INTERACTIONS OR MEETINGS WITH OTHER USERS OF STORYPLACE PROPERTIES, ON ANY THEORY OF LIABILITY, RESULTING FROM: (1) THE USE OR INABILITY TO USE STORYPLACE PROPERTIES; (2) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED FOR TRANSACTIONS ENTERED INTO THROUGH STORYPLACE PROPERTIES; (3) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (4) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON STORYPLACE PROPERTIES; OR (5) ANY OTHER MATTER RELATED TO STORYPLACE PROPERTIES, WHETHER BASED ON WARRANTY, COPYRIGHT, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY.&nbsp; THE FOREGOING LIMITATION ON LIABILITY SHALL NOT APPLY TO LIABILITY OF A STORYPLACE PARTY FOR (A) DEATH OR PERSONAL INJURY CAUSED BY A STORYPLACE PARTY&rsquo;S NEGLIGENCE; OR FOR (B) ANY INJURY CAUSED BY A STORYPLACE PARTY&rsquo;S FRAUD OR FRAUDULENT MISREPRESENTATION.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Cap on Liability</span><span >. UNDER NO CIRCUMSTANCES WILL STORYPLACE PARTIES BE LIABLE TO YOU FOR MORE THAN THE GREATER OF (A) THE TOTAL AMOUNT PAID TO STORYPLACE by you during the one-month period prior to the act, omission or occurrence giving rise to such liability and (B) THE REMEDY OR PENALTY IMPOSED BY THE STATUTE UNDER WHICH SUCH CLAIM ARISES. &nbsp; THE FOREGOING CAP ON LIABILITY SHALL NOT APPLY TO LIABILITY OF A STORYPLACE PARTY FOR (A) DEATH OR PERSONAL INJURY CAUSED BY A STORYPLACE PARTY&rsquo;S NEGLIGENCE; OR FOR (B) ANY INJURY CAUSED BY A STORYPLACE PARTY&rsquo;S FRAUD OR FRAUDULENT MISREPRESENTATION.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>User Content</span><span >. EXCEPT FOR STORYPLACE&rsquo;S OBLIGATIONS TO PROTECT YOUR PERSONAL DATA AS SET FORTH IN THE STORYPLACE&rsquo;S </span><a href="https://storyplace.com/privacy" target="_blank" rel="noopener noreferrer">PRIVACY POLICY</a><span >, STORYPLACE ASSUMES NO RESPONSIBILITY FOR THE TIMELINESS, DELETION, MIS-DELIVERY OR FAILURE TO STORE ANY CONTENT (INCLUDING, BUT NOT LIMITED TO, YOUR CONTENT AND USER CONTENT), USER COMMUNICATIONS OR PERSONALIZATION SETTINGS.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Basis of the Bargain</span><span >. THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN STORYPLACE AND YOU.</span></li>
-                    </ol>
-                    <li><span >Procedure for Making Claims of Copyright Infringement. It is STORYPLACE&rsquo;s policy to terminate membership privileges of any Registered User who repeatedly infringes copyright upon prompt notification to STORYPLACE by the copyright owner or the copyright owner&rsquo;s legal agent.&nbsp; Without limiting the foregoing, if you believe that your work has been copied and posted on STORYPLACE Properties in a way that constitutes copyright infringement, please provide our Copyright Agent with the following information: (a) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; (b) a description of the copyrighted work that you claim has been infringed; (c) a description of the location on STORYPLACE Properties of the material that you claim is infringing; (d) your address, telephone number and e-mail address; (e) a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law; and (f) a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner&rsquo;s behalf.&nbsp; Contact information for STORYPLACE&rsquo;s Copyright Agent for notice of claims of copyright infringement is as follows: StoryPlace HQ, 407 N Maple Dr., Beverly Hills, CA 90210.</span></li>
-                    <ol>
-                        <li><span style={{ textDecoration: "underline" }}>Violations</span><span >. If STORYPLACE becomes aware of any possible violations by you of the Agreement, STORYPLACE reserves the right to investigate such violations.&nbsp; If, as a result of the investigation, STORYPLACE believes that criminal activity has occurred, STORYPLACE reserves the right to refer the matter to, and to cooperate with, any and all applicable legal authorities.&nbsp; STORYPLACE is entitled, except to the extent prohibited by applicable law, to disclose any information or materials on or in STORYPLACE Properties, including Your Content, in STORYPLACE&rsquo;s possession in connection with your use of STORYPLACE Properties, to (a) comply with applicable laws, legal process or governmental request; (b) enforce the terms, (c) respond to any claims that Your Content violates the rights of third parties, (d) respond to your requests for customer service, or (e) protect the rights, property or personal safety of STORYPLACE, its users or the public, and all enforcement or other government officials, as STORYPLACE in its sole discretion believes to be necessary or appropriate.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Breach</span><span >. In the event that STORYPLACE determines, in its sole discretion, that you have breached any portion of the Agreement, or have otherwise demonstrated conduct inappropriate for STORYPLACE Properties, STORYPLACE reserves the right to:</span></li>
-                        <ol>
-                            <li><span>Warn you via e-mail (to any e-mail address you have provided to STORYPLACE) that you have violated the Agreement;</span></li>
-                            <li><span>Delete any of Your Content provided by you or your agent(s) to STORYPLACE Properties;</span></li>
-                            <li><span>Discontinue your registration(s) with any of STORYPLACE Properties, including any Services or any STORYPLACE community;</span></li>
-                            <li><span>Discontinue your subscription to any Services;</span></li>
-                            <li><span>Notify and/or send Content to and/or fully cooperate with the proper law enforcement authorities for further action; and/or</span></li>
-                            <li><span>Pursue any other action which STORYPLACE deems to be appropriate.</span></li>
-                        </ol>
-                    </ol>
-                    <li><span>Term and Termination.</span></li>
-                    <ol>
-                        <li><span style={{ textDecoration: "underline" }}>Term</span><span>. The Agreement commences on the date when you accept them (as described in the preamble above) and remain in full force and effect while you use STORYPLACE Properties, unless terminated earlier in accordance with the Agreement.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Prior Use</span><span>. Notwithstanding the foregoing, you hereby acknowledge and agree that the Agreement commenced on the earlier to occur of (a) the date you first used STORYPLACE Properties or (b) the date you accepted the Agreement and will remain in full force and effect while you use any STORYPLACE Properties, unless earlier terminated in accordance with the Agreement.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Termination of Services by You</span><span>. If you want to terminate the Services provided by STORYPLACE, you may do so by (a) notifying STORYPLACE at any time and (b) closing your Account for all of the Services that you use. Your notice should be sent, in writing, to STORYPLACE&rsquo;s address set forth below.&nbsp;</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Effect of Termination</span><span>. Termination of any Service includes removal of access to such Service and barring of further use of the Service.&nbsp; Termination of all Services also includes deletion of your password and all related information, files and Content associated with or inside your Account (or any part thereof), including Your Content.&nbsp; Upon termination of any Service, your right to use such Service will automatically terminate immediately. You understand that any termination of Services may involve deletion of Your Content associated therewith from our live databases.&nbsp; STORYPLACE will not have any liability whatsoever to you for any suspension or termination, including for deletion of Your Content.&nbsp; All provisions of the Agreement which by their nature should survive, shall survive termination of Services, including without limitation, ownership provisions, indemnification, warranty disclaimers, and limitation of liability.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>No Subsequent Registration</span><span>. If your registration(s) with or ability to access STORYPLACE Properties, or any other STORYPLACE community is discontinued by STORYPLACE due to your violation of any portion of the Agreement or for conduct otherwise inappropriate for the community, then you agree that you shall not attempt to re-register with or access STORYPLACE Properties or any STORYPLACE community through use of a different member name or otherwise, and you acknowledge that you will not be entitled to receive any consideration related to those STORYPLACE Properties to which your access has been terminated.&nbsp; In the event that you violate the immediately preceding sentence, STORYPLACE reserves the right, in its sole discretion, to immediately take any or all of the actions set forth herein without any notice or warning to you.</span></li>
-                    </ol>
-                    <li><span>International Users. STORYPLACE Properties can be accessed from countries around the world and may contain references to Services and Content that are not available in your country.&nbsp; These references do not imply that STORYPLACE intends to announce such Services or Content in your country.&nbsp; STORYPLACE Properties are controlled and offered by STORYPLACE from its facilities in the United States of America. STORYPLACE makes no representations that STORYPLACE Properties are appropriate or available for use in other locations.&nbsp; Those who access or use STORYPLACE Properties from other countries do so at their own volition and are responsible for compliance with local law.</span></li>
-                    <li><span>Dispute Resolution</span><span><em>.Please read the following arbitration agreement in this Section (&ldquo;</em></span><span>Arbitration Agreement</span><span><em>&rdquo;) carefully.&nbsp; It requires you to arbitrate disputes with STORYPLACE and limits the manner in which you can seek relief from us.&nbsp;</em></span></li>
-                    <ol>
-                        <li><span style={{ textDecoration: "underline" }}>Applicability of Arbitration Agreement</span><span><em>.</em></span><span> You agree that any dispute or claim relating in any way to your access or use of the Website, to any products sold or distributed through the Website, or to any aspect of your relationship with STORYPLACE, will be resolved by binding arbitration, rather than in court, except that (1) you may assert claims in small claims court if your claims qualify; and (2) you or STORYPLACE may seek equitable relief in court for infringement or other misuse of intellectual property rights (such as trademarks, trade dress, domain names, trade secrets, copyrights, and patents).&nbsp; This Arbitration Agreement shall apply, without limitation, to all claims that arose or were asserted before the effective date of this Agreement or any prior version of this Agreement.&nbsp;&nbsp;</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Arbitration Rules and Jurisdiction</span><span><em>. </em></span><span>All disputes arising out of or in connection with the present Agreement, including any question regarding its existence, validity or termination, shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce (&ldquo;ICC&rdquo;) (the &ldquo;Arbitration Rules&rdquo;) by three (3) arbitrators appointed in accordance with the said Arbitration Rules. The place of the arbitration shall be state or federal courts located in Los Angeles County, California.&nbsp; The language of the arbitration shall be English.&nbsp; The arbitration shall be commenced by a request for arbitration by the either party (the &ldquo;Claimant&rdquo;), delivered to the other party (the &ldquo;Respondent&rdquo;).&nbsp; The request for arbitration shall set out the nature of the claim(s) and the relief requested.&nbsp; The arbitral tribunal shall consist of three arbitrators.&nbsp; Except as otherwise specifically limited in this Agreement, the arbitral tribunal shall have the power to grant any remedy or relief that it deems appropriate, whether provisional or final, including but not limited to conservatory relief and injunctive relief, and any such measures ordered by the arbitral tribunal shall, to the extent permitted by applicable law, be deemed to be a final award on the subject matter of the measures and shall be enforceable as such.&nbsp; In addition to the authority conferred upon the arbitral tribunal by the Arbitration Rules, the arbitral tribunal shall have the authority to order production of documents in accordance with the IBA Rules on the Taking of Evidence in International Arbitration as current on the date of the commencement of the arbitration.&nbsp; The existence and content of the arbitral proceedings and any rulings or awards shall be keep confidential by the parties and members of the arbitral tribunal except (i) to the extent that disclosure may be required of a party to fulfil a legal duty, protect or pursue a legal right, or enforce or challenge an award in bona fide legal proceedings before a state court or other judicial authority, (ii) with the consent of all parties, (iii) where needed for the preparation or presentation of a claim or defense in this arbitration, (iv) where such information is already in the public domain other than as a result of a breach of this clause, or (v) by order of the arbitral tribunal upon application of a party.&nbsp; The arbitral tribunal may include in its award an allocation to any party of such costs and expenses, including lawyers&rsquo; fees &ndash;and costs and expenses of management, in-house counsel, experts, and witnesses, as the arbitral tribunal shall deem reasonable.&nbsp; Any award of the arbitral tribunal shall be final and binding on the parties.&nbsp; The parties undertake to carry out any award without delay and shall be deemed to have waived their right to any form of recourse insofar as such waiver can validly be made.&nbsp; Notwithstanding anything to the contrary herein, enforcement of any award may be sought in any court of competent jurisdiction.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Waiver of Jury Trial</span><span>.&nbsp; YOU AND STORYPLACE HEREBY WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO SUE IN COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and STORYPLACE are instead electing that all claims and disputes shall be resolved by arbitration under this Arbitration Agreement, except as specified in Section 15.1 above.&nbsp; An arbitrator can award on an individual basis the same damages and relief as a court and must follow this Agreement as a court would.&nbsp; However, there is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.&nbsp;&nbsp;</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Waiver of Class or Other Non-Individualized Relief</span><span>.&nbsp; ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS OR COLLECTIVE BASIS, ONLY INDIVIDUAL RELIEF IS AVAILABLE, AND CLAIMS OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER. If a decision is issued stating that applicable law precludes enforcement of any of this subsection&rsquo;s limitations as to a given claim for relief, then the claim must be severed from the arbitration and brought into the state or federal courts located in the State of California.&nbsp; All other claims shall be arbitrated.&nbsp;</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>30-Day Right to Opt Out</span><span>. You have the right to opt out of the provisions of this Arbitration Agreement by sending written notice of your decision to opt out to: support@storyplace.com, within 30 days after first becoming subject to this Arbitration Agreement. Your notice must include your name and address, your STORYPLACE username (if any), the email address you used to set up your STORYPLACE account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement.&nbsp; If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you.&nbsp; Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Severability</span><span><em>. </em></span><span>Except as provided in subsection 15.4, if any part or parts of this Arbitration Agreement are found under the law to be invalid or unenforceable, then such specific part or parts shall be of no force and effect and shall be severed and the remainder of the Arbitration Agreement shall continue in full force and effect.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Survival of Agreement</span><span><em>. </em></span><span>This Arbitration Agreement will survive the termination of your relationship with STORYPLACE.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Modification</span><span>. Notwithstanding any provision in this Agreement to the contrary, we agree that if STORYPLACE makes any future material change to this Arbitration Agreement, you may reject that change within thirty (30) days of such change becoming effective by writing STORYPLACE at the following address: StoryPlace HQ, 450 N Palm Dr., Beverly Hills, CA 90210.</span></li>
-                    </ol>
-                    <li><span>General Provisions.</span></li>
-                    <ol>
-                        <li><span style={{ textDecoration: "underline" }}>Electronic Communications</span><span>. The communications between you and STORYPLACE may take place via electronic means, whether you visit STORYPLACE Properties or send STORYPLACE e-mails, or whether STORYPLACE posts notices on STORYPLACE Properties or communicates with you via e-mail.&nbsp; For contractual purposes, you (a) consent to receive communications from STORYPLACE in an electronic form; and (b) agree that all terms and conditions, agreements, notices, disclosures, and other communications that STORYPLACE provides to you electronically satisfy any legal requirement that such communications would satisfy if it were to be in writing.&nbsp; The foregoing does not affect your statutory rights.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Release</span><span>. You hereby release STORYPLACE Parties and their successors from claims, demands, any and all losses, damages, rights, and actions of any kind, including personal injuries, death, and property damage, that is either directly or indirectly related to or arises from your use of STORYPLACE Properties (including without limitation PRO), including but not limited to, any interactions with or conduct of other users or third-party websites of any kind arising in connection with or as a result of the Agreement or your use of STORYPLACE Properties (including without limitation PRO). If you are a California resident, you hereby waive California Civil Code Section 1542, which states, &ldquo;A general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party.&rdquo;&nbsp; The foregoing release does not apply to any claims, demands, or any losses, damages, rights and actions of any kind, including personal injuries, death or property damage for any unconscionable commercial practice by a STORYPLACE Party or for such party&rsquo;s fraud, deception, false, promise, misrepresentation or concealment, suppression or omission of any material fact in connection with the Website.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Assignment</span><span>. The Agreement, and your rights and obligations hereunder, may not be assigned, subcontracted, delegated or otherwise transferred by you without STORYPLACE&rsquo;s prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Force Majeure</span><span>. STORYPLACE shall not be liable for any delay or failure to perform resulting from causes outside its reasonable control, including, but not limited to, acts of God, war, terrorism, riots, embargos, acts of civil or military authorities, fire, floods, accidents, strikes or shortages of transportation facilities, fuel, energy, labor or materials.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Questions, Complaints, Claims</span><span>. If you have any questions, complaints or claims with respect to STORYPLACE Properties, please contact us at: support@storyplace.com.&nbsp; We will do our best to address your concerns.&nbsp; If you feel that your concerns have been addressed incompletely, we invite you to let us know for further investigation.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Exclusive Venue</span><span>. To the extent the parties are permitted under this Agreement to initiate litigation in a court, both you and STORYPLACE agree that all claims and disputes arising out of or relating to the Agreement will be litigated exclusively in the state or federal courts located in Los Angeles County, California.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Governing Law and Jurisdiction</span><span>. The Terms of Use and any action related thereto will be governed and interpreted by and under the laws of the State of California, consistent with the Rules of Arbitration of the International Chamber of Commerce, without giving effect to any principles that provide for the application of the law of another jurisdiction.&nbsp; The United Nations Convention on Contracts for the International Sale of Goods does not apply to the Agreement.&nbsp; EACH PARTY IRREVOCABLY AGREES THAT THE STATE OR FEDERAL COURTS LOCATED IN LOS ANGELES COUNTY, CALIFORNIA SHALL HAVE EXCLUSIVE JURISDICTION TO SETTLE ANY DISPUTE OR CLAIM ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR ITS SUBJECT MATTER OR FORMATION (INCLUDING NON-CONTRACTUAL DISPUTES OR CLAIMS).</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Choice of Language</span><span>. This Agreement, and any contract between us, are only in the English language.&nbsp; C&rsquo;est la volont&eacute; expresse des parties que la presente convention ainsi que les documents qui s&rsquo;y rattacent soient rediges en anglais.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Notice</span><span>. Where STORYPLACE requires that you provide an e-mail address, you are responsible for providing STORYPLACE with your most current e-mail address.&nbsp; In the event that the last e-mail address you provided to STORYPLACE is not valid, or for any reason is not capable of delivering to you any notices required/ permitted by the Agreement, STORYPLACE&rsquo;s dispatch of the e-mail containing such notice will nonetheless constitute effective notice.&nbsp; You may give notice to STORYPLACE at the following address: StoryPlace HQ, 407 N Maple Dr., Beverly Hills, CA 90210.&nbsp; Such notice shall be deemed given when received by STORYPLACE by letter delivered by nationally recognized overnight delivery service or first class postage prepaid mail at the above address.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Waiver</span><span>. Any waiver or failure to enforce any provision of the Agreement on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Severability</span><span>. If any portion of this Agreement is held invalid or unenforceable, that portion shall be construed in a manner to reflect, as nearly as possible, the original intention of the parties, and the remaining portions shall remain in full force and effect.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Export Control</span><span>. You may not use, export, import, or transfer STORYPLACE Properties except as authorized by U.S. law, the laws of the jurisdiction in which you obtained STORYPLACE Properties, and any other applicable laws.&nbsp; In particular, but without limitation, STORYPLACE Properties may not be exported or re-exported (a) into any United States embargoed countries, or (b) to anyone on the U.S. Treasury Department&rsquo;s list of Specially Designated Nationals or the U.S. Department of Commerce&rsquo;s Denied Person&rsquo;s List or Entity List. By using STORYPLACE Properties, you represent and warrant that (y) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a &ldquo;terrorist supporting&rdquo; country and (z) you are not listed on any U.S. Government list of prohibited or restricted parties. You also will not use STORYPLACE Properties for any purpose prohibited by U.S. law, including the development, design, manufacture or production of missiles, nuclear, chemical or biological weapons.&nbsp; You acknowledge and agree that products, services or technology provided by STORYPLACE are subject to the export control laws and regulations of the United States.&nbsp; You shall comply with these laws and regulations and shall not, without prior U.S. government authorization, export, re-export, or transfer STORYPLACE products, services or technology, either directly or indirectly, to any country in violation of such laws and regulations.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Accessing and Downloading the Application from iTunes</span><span>. The following applies to any App Store Sourced Application accessed through or downloaded from the Apple App Store:</span></li>
-                        <ol>
-                            <li><span>You acknowledge and agree that (i) the Agreement is concluded between you and STORYPLACE only, and not Apple, and (ii) STORYPLACE, not Apple, is solely responsible for the App Store Sourced Application and content thereof. Your use of the App Store Sourced Application must comply with the App Store Terms of Service.</span></li>
-                            <li><span>You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the App Store Sourced Application.</span></li>
-                            <li><span>In the event of any failure of the App Store Sourced Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the App Store Sourced Application to you and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App Store Sourced Application. As between STORYPLACE and Apple, any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of STORYPLACE.</span></li>
-                            <li><span>You and STORYPLACE acknowledge that, as between STORYPLACE and Apple, Apple is not responsible for addressing any claims you have or any claims of any third party relating to the App Store Sourced Application or your possession and use of the App Store Sourced Application, including, but not limited to: (i) product liability claims; (ii) any claim that the App Store Sourced Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.</span></li>
-                            <li><span>You and STORYPLACE acknowledge that, in the event of any third-party claim that the App Store Sourced Application or your possession and use of that App Store Sourced Application infringes that third party&rsquo;s intellectual property rights, as between STORYPLACE and Apple, STORYPLACE, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by the Agreement.</span></li>
-                            <li><span>You and STORYPLACE acknowledge and agree that Apple, and Apple&rsquo;s subsidiaries, are third-party beneficiaries of the Agreement as related to your license of the App Store Sourced Application, and that, upon your acceptance of the terms and conditions of the Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce the Agreement as related to your license of the App Store Sourced Application against you as a third-party beneficiary thereof.</span></li>
-                            <li><span>Without limiting any other terms of the Agreement, you must comply with all applicable third-party terms of agreement when using the App Store Sourced Application.</span></li>
-                        </ol>
-                        <li><span style={{ textDecoration: "underline" }}>Consumer Complaints</span><span>. In accordance with California Civil Code &sect;1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 400 R Street, Sacramento, CA 95814, or by telephone at (800) 952-5210.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Entire Agreement</span><span>. The Agreement is the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussi3ons between the parties with respect to such subject matter.</span></li>
-                    </ol>
-                    <li><span>International Provisions. The following provisions shall apply only if you are located in the countries listed below.</span></li>
-                    <ol>
-                        <li><span style={{ textDecoration: "underline" }}>United Kingdom</span><span>. A third party who is not a party to the Agreement has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any provision of the Agreement, but this does not affect any right or remedy of such third party which exists or is available apart from that Act.</span></li>
-                        <li><span style={{ textDecoration: "underline" }}>Germany</span><span>. Notwithstanding anything to the contrary in Section 10, STORYPLACE is also not liable for acts of simple negligence (unless they cause injuries to or death of any person), except when they are caused by a breach of any substantial contractual obligations (vertragswesentliche Pflichten).</span></li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Application License</strong>
+                            </span>
+                            <strong>. Subject to your compliance with the Agreement, STORYPLACE grants you a limited non-exclusive, non-transferable, non-sublicensable, revocable license to download, install and use a copy of the Application on a single mobile device or computer that you own or control and to run such copy of the Application solely for your own personal or internal purposes.&nbsp; Furthermore, with respect to any Application accessed through or downloaded from the Apple App Store (an “App Store Sourced Application”), you will only use the App Store Sourced Application (a) on an Apple-branded product that runs the iOS (Apple’s proprietary operating system) and (b) as permitted by the “Usage Rules” set forth in the Apple App Store Terms of Service. Notwithstanding the first sentence in this section, with respect to any Application access through or downloaded from the Google Play store (a “Google Play Sourced Application”), you may have additional license rights with respect to use of the Application on a shared basis within your designated family group.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Updates</strong>
+                            </span>
+                            <strong>. You understand that STORYPLACE Properties are evolving.&nbsp; As a result, STORYPLACE may require you to accept updates to STORYPLACE Properties that you have installed on your computer or mobile device.&nbsp; You acknowledge and agree that STORYPLACE may update STORYPLACE Properties with or without notifying you.&nbsp; You may need to update third-party software from time to time in order to use STORYPLACE Properties.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Certain Restrictions</strong>
+                            </span>
+                            <strong>. The rights granted to you in the Agreement are subject to the following restrictions: (a) you shall not license, sell, rent, lease, transfer, assign, reproduce, distribute, host or otherwise commercially exploit STORYPLACE Properties or any portion of STORYPLACE Properties, including the Website, (b) you shall not frame or utilize framing techniques to enclose any trademark, logo, or other STORYPLACE Properties (including images, text, page layout or form) of STORYPLACE; (c) you shall not use any metatags or other “hidden text” using STORYPLACE’s name or trademarks; (d) you shall not modify, translate, adapt, merge, make derivative works of, disassemble, decompile, reverse compile or reverse engineer any part of STORYPLACE Properties except to the extent the foregoing restrictions are expressly prohibited by applicable law; (e) you shall not use any manual or automated software, devices or other processes (including but not limited to spiders, robots, scrapers, crawlers, avatars, data mining tools or the like) to “scrape” or download data from any web pages contained in the Website (except that we grant the operators of public search engines revocable permission to use spiders to copy materials from the Website for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials); (f) you shall not access STORYPLACE Properties in order to build a similar or competitive website, application or service; (g) except as expressly stated herein, no part of STORYPLACE Properties may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means; and (h) you shall not remove or destroy any copyright notices or other proprietary markings contained on or in STORYPLACE Properties. Any future release, update or other addition to STORYPLACE Properties shall be subject to the Agreement.&nbsp; STORYPLACE, its suppliers and its service providers reserve all rights not granted in the Agreement.&nbsp; Any unauthorized use of any STORYPLACE Property terminates the licenses granted by STORYPLACE pursuant to the Agreement, whilst ensuring that the indemnification rights owed StoryPlace hereunder by user shall survive termination or expiry of this Agreement.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Third-Party Materials</strong>
+                            </span>
+                            <strong>. As a part of STORYPLACE Properties, you may have access to materials that are hosted by another party.&nbsp; You agree that it is impossible for STORYPLACE to monitor such materials and that you access these
+                            </strong>
+                            <strong>materials at your own risk.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Registering Your Account</strong>
+                            </span>
+                            <strong>. In order to access certain features of STORYPLACE Properties you may be required to become a Registered User (“User” or “Registered User”).&nbsp; For purposes of the Agreement, a “User” or “Registered
+                            </strong>
+                            <strong>User” is a user who has registered an account on the Website, PRO or the Application (“Account”) or has a valid account on the social networking service (“SNS”) through which the user has connected to the Website or the Application (each such account, a “Third-Party Account”).</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Access Through a SNS</strong>
+                            </span>
+                            <strong>. If you access the STORYPLACE Properties through a SNS as part of the functionality of the Website, the Application and/or the Services, you may link your Account with Third-Party Accounts, by allowing STORYPLACE to access your Third-Party Account, as is permitted under the applicable terms and conditions that govern your use of each Third-Party Account.&nbsp; You represent that you are entitled to disclose your Third-Party Account login information to STORYPLACE and/or grant STORYPLACE access to your Third-Party Account (including, but not limited to, for use for the purposes described herein) without breach by you of any of the terms and conditions that govern your use of the applicable Third-Party Account and without obligating STORYPLACE to pay any fees or making STORYPLACE subject to any usage limitations imposed by such third-party service providers.&nbsp; By granting STORYPLACE access to any Third-Party Accounts, you understand that STORYPLACE may access, make available and store (if applicable) any information, data, text, software, music, sound, photographs, graphics, video, messages, tags and/or other materials accessible through STORYPLACE Properties (collectively, “Content”) that you have provided to and stored in your Third-Party Account (“SNS Content”) so that it is available on and through STORYPLACE Properties via your Account.&nbsp; Unless otherwise specified in the Agreement, all SNS Content shall be considered to be Your Content&nbsp; for all purposes of the Agreement.&nbsp; Depending on the Third-Party Accounts you choose and subject to the privacy settings that you have set in such Third-Party Accounts, personally identifiable information that you post to your Third-Party Accounts may be available on and through your Account on STORYPLACE Properties. Please note that if a Third-Party Account or associated service becomes unavailable or STORYPLACE’s access to such Third-Party Account is terminated by the third-party service provider, then SNS Content will no longer be available on and through STORYPLACE Properties.&nbsp; You have the ability to disable the connection between your Account and your Third-Party Accounts at any time by accessing the “Settings” section of the Website.&nbsp; PLEASE NOTE THAT YOUR RELATIONSHIP WITH THE THIRD-PARTY SERVICE PROVIDERS ASSOCIATED WITH YOUR THIRD-PARTY ACCOUNTS IS GOVERNED SOLELY BY YOUR AGREEMENT(S) WITH SUCH THIRD-PARTY SERVICE PROVIDERS, AND STORYPLACE DISCLAIMS ANY LIABILITY FOR PERSONALLY IDENTIFIABLE INFORMATION THAT MAY BE PROVIDED TO IT BY SUCH THIRD-PARTY SERVICE PROVIDERS IN VIOLATION OF THE PRIVACY SETTINGS THAT YOU HAVE SET IN SUCH THIRD-PARTY ACCOUNTS.&nbsp; STORYPLACE makes no effort to review any SNS Content for any purpose, including but not limited to, for accuracy, legality or noninfringement, and STORYPLACE is not responsible for any SNS Content.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Registration Data</strong>
+                            </span>
+                            <strong>. In registering an account on the Website, you agree to (a) provide true, accurate, current and complete information about yourself as prompted by the registration form (the “Registration Data”); and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete.&nbsp; You represent that you are (l) at least thirteen (13) years old; (m) of legal age to form a binding contract; and (n) are not a person barred from using STORYPLACE Properties under the laws of the United States, your place of residence or any other applicable jurisdiction.&nbsp; Should you fail to be of legal age to enter into binding agreements within the jurisdiction of your domicile, You must provide written permission on your behalf by an authorized guardian or parent who is of legal age to be bound thereunder. You are responsible for all activities that occur under your Account.&nbsp; You agree that you shall monitor your Account to restrict use by unauthorized minors, and you will accept full responsibility for any unauthorized use of STORYPLACE Properties by minors.&nbsp; You may not share your Account or password with anyone, and you agree to (y) notify STORYPLACE immediately of any unauthorized use of your password or any other breach of security; and (z) exit from your Account at the end of each session.&nbsp; If you provide any information that is untrue, inaccurate, not current or incomplete, or STORYPLACE has reasonable grounds to suspect that any information you provide is untrue, inaccurate, not current or incomplete, STORYPLACE has the right to suspend or terminate your Account and refuse any and all current or future use of STORYPLACE Properties (or any portion thereof).&nbsp; You agree not to create an Account using a false identity or information, or on behalf of someone other than yourself.&nbsp; You agree that you shall not have more than one Account per platform or SNS at any given time.&nbsp; STORYPLACE reserves the right to remove or reclaim any usernames at any time and for any reason, including but not limited to, claims by a third party that a username violates the third party’s rights.&nbsp; You agree not to create an Account or use STORYPLACE Properties if you have been previously removed by STORYPLACE, or if you have been previously banned from any of STORYPLACE Properties.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Your Account</strong>
+                            </span>
+                            <strong>. Notwithstanding anything to the contrary herein, you acknowledge and agree that you shall have no ownership or other property interest in your Account, and you further acknowledge and agree that all rights in and to your Account are and shall forever be owned by and inure to the benefit of STORYPLACE. STORYPLACE reserves the right to terminate your Account if it has been inactive (i.e., you have not logged into your Account) for one hundred eighty (180) days and in such event, you shall not be entitled to any consideration for such termination.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Necessary Equipment and Software</strong>
+                            </span>
+                            <strong>. You must provide all equipment and software necessary to connect to STORYPLACE Properties, including but not limited to, a mobile device that is suitable to connect with and use STORYPLACE Properties, in cases where the Services offer a mobile component.&nbsp; You are solely responsible for any fees, including Internet connection or mobile fees, that you incur when accessing STORYPLACE Properties.&nbsp; By providing your cellphone number and using the Services, you hereby affirmatively consent to our use of your cellphone number for calls and texts in order to perform and improve upon the Services. STORYPLACE will not assess and charge for any calls or texts, but standard message charges or other charged from your wireless carrier may apply.&nbsp; You may opt out of receiving text messages from us in your account.</strong>
+                        </li>
                     </ol>
                 </ol>
-                <p><span>End of Agreement</span></p>
+                <ol>
+                    <li>
+                        <strong>Responsibility for Content.</strong>
+                    </li>
+                </ol>
+                <ol>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Types of Content</strong>
+                        </span>
+                        <strong>. You acknowledge that all Content, including STORYPLACE Properties, is the sole responsibility of the party from whom such Content originated.&nbsp; This means that you, and not STORYPLACE, are entirely responsible for all Content that you upload, post, e-mail, transmit or otherwise make available (“Make Available”) through STORYPLACE Properties (“Your Content”), and that you and other Registered Users of STORYPLACE Properties, and not STORYPLACE, are similarly responsible for all Content that you and they Make Available through STORYPLACE Properties (“User Content”).&nbsp;&nbsp;</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>No Obligation to Pre-Screen Content</strong>
+                        </span>
+                        <strong>. You acknowledge that STORYPLACE has no obligation to pre-screen Content (including, but not limited to, User Content), although STORYPLACE reserves the right in its sole and absolute discretion to pre-screen, refuse or remove any Content.&nbsp; By entering into the Agreement, you hereby provide your irrevocable consent to such monitoring.&nbsp; You acknowledge and agree that you have no expectation of privacy concerning the transmission of Your Content, including without limitation chat, text, or voice communications.&nbsp; In the event that STORYPLACE pre-screens, refuses or removes any Content, you acknowledge that STORYPLACE will do so for STORYPLACE’s benefit, not yours.&nbsp; Without limiting the foregoing, STORYPLACE shall have the right to remove any Content that violates the Agreement or is otherwise objectionable.</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Storage</strong>
+                        </span>
+                        <strong>. Unless expressly agreed to by STORYPLACE in writing elsewhere, STORYPLACE has no obligation to store any of Your Content that you Make Available on STORYPLACE Properties.&nbsp; STORYPLACE has no responsibility or liability for the deletion or accuracy of any Content, including Your Content; the failure to store, transmit or receive transmission of Content; or the security, privacy, storage, or transmission of other communications originating with or involving use of STORYPLACE Properties.&nbsp; Certain Services may enable you to specify the level at which such Services restrict access to Your Content.&nbsp; You are solely responsible for applying the appropriate level of access to Your Content, if any.&nbsp; If you do not choose, the system may default to its most permissive setting.&nbsp; You agree that STORYPLACE retains the right to create reasonable limits on STORYPLACE’s use and storage of the Content, including Your Content, such as limits on file size, storage space, processing capacity, and similar limits described on the Website and as otherwise determined by STORYPLACE in its sole discretion.</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>STORYPLACE Properties</strong>
+                        </span>
+                        <strong>. Except with respect to Your Content and User Content, you agree that STORYPLACE and its suppliers own all rights, title and interest in STORYPLACE Properties, including but not limited to the StoryPlace operational software, map and the contents therein.&nbsp; You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying any STORYPLACE Properties.</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Trademarks</strong>
+                        </span>
+                        <strong>. STORYPLACE’s name and all related graphics, logos, service marks and trade names used on or in connection with any STORYPLACE Properties or in connection with the Services are the trademarks of STORYPLACE and may not be used without permission in connection with your, your products and/or services and/or any third-party products and/or services. Other trademarks, service marks and trade names that may appear on or in STORYPLACE Properties are the property of their respective owners.</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Other Content</strong>
+                        </span>
+                        <strong>. Except with respect to Your Content, you agree that you have no right, title, or interest in or to any Content that appears on or in STORYPLACE Properties.</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Your Content</strong>
+                        </span>
+                        <strong>. STORYPLACE does not claim ownership of Your Content.&nbsp; However, when you as a Registered User post or publish Your Content on or in STORYPLACE Properties, you represent that you own and/or have a royalty-free, perpetual, irrevocable, worldwide, non-exclusive right (including any moral rights) and license to use, license, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, derive revenue or other remuneration from, and communicate to the public, perform and display Your Content (in whole or in part) worldwide and/or to incorporate it in your other works in any form, media or technology now known or later developed, for the full term of any worldwide intellectual property right that may exist in Your Content.&nbsp;&nbsp;</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>License to Your Content</strong>
+                        </span>
+                        <strong>. Subject to any applicable account settings that you select, you grant STORYPLACE a fully paid, royalty-free, perpetual, irrevocable, worldwide, royalty-free, non-exclusive and fully sublicensable right (including any moral rights) and license to use, license, distribute, reproduce, modify, adapt, publicly perform, and publicly display Your Content (in whole or in part) for the purposes of operating STORYPLACE’s business.&nbsp; Please remember that other users may search for, see, use, modify and reproduce any of Your Content that you submit to any “public” area of STORYPLACE Properties.&nbsp; You warrant that the holder of any worldwide intellectual property right, including moral rights, in Your Content, has irrevocably licensed to you use thereof to allow you the right to grant the license stated above, or completely and effectively waived all such rights and validly and irrevocably granted to you the right to grant the license stated above.&nbsp; You agree that you, not STORYPLACE, are responsible for all of Your Content that you Make Available on or in STORYPLACE Properties. Subject to any applicable account settings that you select, you grant STORYPLACE a fully paid, royalty-free, perpetual, irrevocable, worldwide, royalty-free, non-exclusive and fully sublicensable right (including any moral rights) and license to use, license, distribute, reproduce, modify, adapt, publicly perform, and publicly display Your Content (in whole or in part, including its derivative, allied, ancillary and neighboring rights) for the purposes of operating STORYPLACE’s business. For
+                        </strong>
+                        <strong>the avoidance of doubt, STORYPLACE is currently in the business of encouraging the global sharing of stories and, with respect thereto, connecting storytellers and Content
+                        </strong>
+                        <strong>Creators. If STORYPLACE subsequently enters into the business of producing audio-visual works based on any of Your Content, it shall only do so with your express permission. Please remember that other users may search for, see, use, modify and reproduce any of Your Content that you submit to any “public” area of STORYPLACE Properties.&nbsp;</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Username</strong>
+                        </span>
+                        <strong>. Notwithstanding anything contained herein to the contrary, by submitting Your Content to any forums, comments or any other area on STORYPLACE Properties, you hereby expressly permit STORYPLACE to identify you by your username (which may be a pseudonym) as the contributor of Your Content in any publication in any form, media or technology now known or later developed in connection with Your Content.</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Your Profile</strong>
+                        </span>
+                        <strong>. Any Content posted by you in your profile may not contain nudity, violence, sexually explicit, or offensive subject matter as determined by STORYPLACE in its sole and absolute discretion.&nbsp; You may not post or submit for print services a photograph of or by another person without that person’s permission.</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Feedback</strong>
+                        </span>
+                        <strong>. You agree that submission of any ideas, suggestions, documents, and/or proposals to STORYPLACE through its suggestion, feedback, wiki, forum or similar pages (“Feedback”) is at your own risk and that STORYPLACE has no obligations (including without limitation obligations of confidentiality) with respect to such Feedback.&nbsp; You represent and warrant that you have all rights necessary to submit the Feedback.&nbsp; You hereby grant to STORYPLACE a fully paid, royalty-free, perpetual, irrevocable, worldwide, non-exclusive, and fully sublicensable right and license to use, reproduce, perform, display, distribute, adapt, modify, re-format, create derivative works of, and otherwise commercially or non-commercially exploit in any manner, any and all Feedback, and to sublicense the foregoing rights, in connection with the operation and maintenance of STORYPLACE Properties and/or STORYPLACE’s business.</strong>
+                    </li>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Cheating and Hacking</strong>
+                        </span>
+                        <strong>. You agree that you will not at any time, under any circumstances:</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <strong>Use cheats, exploits, automation software, bots, hacks, mods or any unauthorized software designed to modify or interfere with any STORYPLACE Properties;</strong>
+                        </li>
+                        <li>
+                            <strong>Interfere with or damage STORYPLACE Properties, including, without limitation, through the use of viruses, cancel bots, Trojan horses, harmful code, flood pings, denial-of-service attacks, packet or IP spoofing, forged routing or electronic mail address information, or similar methods or technology;</strong>
+                        </li>
+                        <li>
+                            <strong>Modify or cause to be modified any files that are a part of STORYPLACE Properties;</strong>
+                        </li>
+                        <li>
+                            <strong>Disrupt, overburden, or aid or assist in the disruption or overburdening of: (i) any computer or server used to offer or support STORYPLACE Properties; or (ii) the enjoyment of STORYPLACE Properties by any other person;</strong>
+                        </li>
+                        <li>
+                            <strong>Institute, assist, or become involved in any type of attack, including, but not limited to, distribution of a virus, denial of service attacks upon STORYPLACE Properties, or other attempts to disrupt STORYPLACE Properties or any other person’s use or enjoyment of STORYPLACE Properties;</strong>
+                        </li>
+                        <li>
+                            <strong>Attempt to gain unauthorized access to STORYPLACE Properties, accounts registered to others, or to the computers, servers or networks connected to STORYPLACE Properties by any means other than the user interface provided by STORYPLACE, including, but not limited to, by circumventing or modifying, attempting to circumvent or modify, or encouraging or assisting any other person to circumvent or modify, any security, technology, device or software that is part of STORYPLACE Properties;</strong>
+                        </li>
+                        <li>
+                            <strong>Access, tamper with or use non-public areas of STORYPLACE Properties, STORYPLACE’s computer systems, STORYPLACE intellectual property or the technical delivery systems of STORYPLACE’s providers;</strong>
+                        </li>
+                        <li>
+                            <strong>Attempt to probe, scan, or test the vulnerability of any STORYPLACE (including its parent, subsidiaries and affiliates, which shall apply throughout this Agreement when referencing STORYPLACE) system or network, or breach any security or authentication measures;</strong>
+                        </li>
+                        <li>
+                            <strong>Disrupt or interfere with the security of, or otherwise cause harm to, STORYPLACE Properties, systems, resources, accounts, passwords, servers or networks connected to or accessible through STORYPLACE Properties or any affiliated or linked sites; or</strong>
+                        </li>
+                        <li>
+                            <strong>Avoid, bypass, remove, deactivate, copy, scramble, impair, descramble, or otherwise circumvent any technological measure implemented by STORYPLACE or any of STORYPLACE’s providers or any other third party (including another Registered User) to protect STORYPLACE Properties.</strong>
+                        </li>
+                    </ol>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Commercial Activities</strong>
+                        </span>
+                        <strong>. You agree that you will not, under any circumstances (except to the extent expressly authorized by the Agreement):</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <strong>Reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purpose any portion of STORYPLACE Properties (including your Account), or access to or use of STORYPLACE Properties;</strong>
+                        </li>
+                        <li>
+                            <strong>Upload, post, e-mail, transmit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of solicitation in connection with any STORYPLACE Property;</strong>
+                        </li>
+                        <li>
+                            <strong>Use STORYPLACE Properties or any part thereof for any commercial purpose, including, but not limited to, communicating or facilitating any commercial advertisement or solicitation;</strong>
+                        </li>
+                        <li>
+                            <strong>Engage in any chain letters, contests, junk email, pyramid schemes, spamming, surveys or other duplicative or unsolicited messages (commercial or otherwise) in connection with STORYPLACE Properties; or</strong>
+                        </li>
+                        <li>
+                            <strong>Market any goods or services for any business purposes on or in connection with any STORYPLACE Properties.</strong>
+                        </li>
+                    </ol>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Unauthorized Use or Access</strong>
+                        </span>
+                        <strong>. You agree that you will not, under any circumstances:</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <strong>Interfere or attempt to interfere with the proper functioning of STORYPLACE Properties or connect to or use STORYPLACE Properties in any way not expressly permitted by the Agreement;</strong>
+                        </li>
+                        <li>
+                            <strong>Systematically retrieve data or other content from STORYPLACE Properties to create or compile, directly or indirectly, in single or multiple downloads, a collection, compilation, database, directory or the like, whether by manual methods or through the use of bots, crawlers, spiders, or otherwise;</strong>
+                        </li>
+                        <li>
+                            <strong>Use, display, mirror or frame STORYPLACE Properties, or any individual element within STORYPLACE Properties, STORYPLACE’s name, any STORYPLACE trademark, logo or other proprietary information, intellectual property, or the layout and design of any page or form contained on a page, without STORYPLACE’s express written consent;</strong>
+                        </li>
+                        <li>
+                            <strong>Use any unauthorized software that accesses, intercepts, “mines” or otherwise collects information from or through STORYPLACE Properties or that is in transit from or to STORYPLACE Properties, including, but not limited to, any software that reads areas of RAM or streams of network traffic used by STORYPLACE Properties;</strong>
+                        </li>
+                        <li>
+                            <strong>Intercept, examine or otherwise observe any proprietary communications protocol used by a client, a server or STORYPLACE Properties, whether through the use of a network analyzer, packet sniffer or other device;</strong>
+                        </li>
+                        <li>
+                            <strong>Make any automated use of STORYPLACE Properties, or take any action that imposes or may impose (in STORYPLACE’s sole and absolute discretion and determination) an unreasonable or disproportionately large load on the infrastructure for STORYPLACE Properties;</strong>
+                        </li>
+                        <li>
+                            <strong>Bypass any robot exclusion headers or other measures STORYPLACE takes to restrict access to STORYPLACE Properties, or use any software, technology or device to send content or messages, scrape, spider or crawl STORYPLACE Properties, or harvest or manipulate data;</strong>
+                        </li>
+                        <li>
+                            <strong>Use, facilitate, create, or maintain any unauthorized connection to STORYPLACE Properties, including, but not limited to: (i) any connection to any unauthorized server that emulates, or attempts to emulate, any part of STORYPLACE Properties; or (ii) any connection using programs, tools or software not expressly (in writing) approved by STORYPLACE;</strong>
+                        </li>
+                        <li>
+                            <strong>Reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for any underlying software or other intellectual property used to provide STORYPLACE Properties;</strong>
+                        </li>
+                        <li>
+                            <strong>Forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through STORYPLACE Properties;</strong>
+                        </li>
+                        <li>
+                            <strong>Upload, post, e-mail, transmit or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;</strong>
+                        </li>
+                        <li>
+                            <strong>Solicit or attempt to solicit personal information from other Registered Users of STORYPLACE Properties;</strong>
+                        </li>
+                        <li>
+                            <strong>Use STORYPLACE Properties to collect, harvest, transmit, distribute, post or submit any information concerning any other person or entity, including without limitation, photographs of others without their permission, personal contact information or credit, debit, calling card, credit card or other account numbers;</strong>
+                        </li>
+                        <li>
+                            <strong>Forge any TCP/IP packet header or any part of the header information in any e-mail or newsgroup posting, or in any way use STORYPLACE Properties to send altered, deceptive or false source-identifying information; or</strong>
+                        </li>
+                        <li>
+                            <strong>Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including, but not limited to, clear GIFs, 1x1 pixels, web bugs, cookies or other similar devices (sometimes referred to as “spyware,” “passive collection mechanisms” or “pcms”).</strong>
+                        </li>
+                    </ol>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>General</strong>
+                        </span>
+                        <strong>. In connection with your use of STORYPLACE Properties, you shall not:</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <strong>Make Available any Content that, in STORYPLACE’s sole and absolute discretion is determined to be, (i) unlawful, tortious, defamatory, vulgar, obscene, libelous, or racially, ethnically or otherwise objectionable; (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil or criminal liability; (iii) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (iv) is violent or threatening, or promotes violence or actions that are threatening to any other person or company; or (v) promotes illegal or harmful activities;</strong>
+                        </li>
+                        <li>
+                            <strong>Harm minors in any way;</strong>
+                        </li>
+                        <li>
+                            <strong>Impersonate any person or entity, including, but not limited to, STORYPLACE personnel, or falsely state or otherwise misrepresent your affiliation with a person or entity;</strong>
+                        </li>
+                        <li>
+                            <strong>Make Available any Content that you do not have a right to Make Available under any law or under contractual or fiduciary relationships (such as insider information, proprietary and confidential information learned or disclosed as part of employment relationships or under non-disclosure agreements);</strong>
+                        </li>
+                        <li>
+                            <strong>Make Available any Content that infringes the rights of any person or entity, including without limitation, any patent, trademark, trade secret, copyright, privacy, publicity or other proprietary or contractual rights;</strong>
+                        </li>
+                        <li>
+                            <strong>Intentionally or unintentionally violate any applicable local, state, national or international law or regulation, or any order of a court;</strong>
+                        </li>
+                        <li>
+                            <strong>Register for more than one Account or register for an Account on behalf of an individual other than yourself;</strong>
+                        </li>
+                        <li>
+                            <strong>Stalk or otherwise harass any other Registered User of our STORYPLACE Properties; or</strong>
+                        </li>
+                        <li>
+                            <strong>Advocate, encourage or assist any third party in doing any of the foregoing activities in this section.</strong>
+                        </li>
+                    </ol>
+                </ol>
+                <ol>
+                    <li>
+                        <span style={{ textDecoration: "underline" }}>
+                            <strong>Investigations</strong>
+                        </span>
+                        <strong>.</strong>
+                    </li>
+                </ol>
+                <ol>
+                    <li>
+                        <strong>STORYPLACE may, but is not obligated to, monitor or review STORYPLACE Properties and Content at any time.&nbsp; Without limiting the foregoing, STORYPLACE shall have the right, in its sole discretion, to remove any of Your Content for any reason (or no reason), including but not limited to, if such Content violates the Agreement or any applicable law.&nbsp; Although STORYPLACE does not generally monitor user activity occurring in connection with STORYPLACE Properties or Content, if STORYPLACE becomes aware of any possible violations by you of any provision of the Agreement, STORYPLACE reserves the right to investigate such violations, and STORYPLACE may, at its sole and absolute discretion, immediately terminate your license to use STORYPLACE Properties, or change, alter or remove for any duration of time, Your Content, in whole or in part, without prior notice to you.</strong>
+                    </li>
+                </ol>
+                <ol>
+                    <li>
+                        <strong>Interactions with Other Users.</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>User Responsibility</strong>
+                            </span>
+                            <strong>. You are solely responsible for your interactions with other Registered Users and any other parties with whom you interact on or through the STORYPLACE Properties.&nbsp; STORYPLACE reserves the right, but has no obligation, to intercede in such disputes.&nbsp; You agree that STORYPLACE will not be responsible for any liability incurred as the result of such interactions, including without limitation any interactions between Content Creators.&nbsp; YOU UNDERTAKE ALL INTERACTIONS WITH ANY OTHER USERS SOLELY AT YOUR OWN RISK, AND STORYPLACE DISCLAIMS ANY AND ALL LIABILITY IN CONNECTION THEREWITH.&nbsp; STORYPLACE FURTHER DISCLAIMS ANY AND ALL LIABILITY IN CONNECTION WITH ANY DISPUTE BETWEEN USERS OF OUR SERVICES, INCLUDING ANY DISPUTES RELATING TO STORIES, ACCESS TO STORIES, IDEA SUBMISSIONS, INFORMATION EXCHANGED BETWEEN USERS, AND ANY LIABILITY RELATING TO ANY DISCUSSIONS OR AGREEMENTS BETWEEN CONTENT CREATORS AND USERS, INCLUDING BUT IN NO WAY LIMITED TO THOSE RELATING TO CONTENT PURCHASE, ACQUISITION, DEVELOPMENT, PRODUCTION, DISTRIBUTION AND/OR EXPLOITATION.&nbsp; YOU FURTHER ACKNOWLEDGE AND AGREE THAT STORYPLACE DOES NOT CONDUCT ANY PROFILING OR CHECKS, INCLUDING BACKGROUND OR CRIMINAL RECORDS SEARCHES, ON ANY USERS.&nbsp; STORYPLACE MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF ANY USER OR THE COMPATIBILITY OF ANY USER WITH ANY OTHER CURRENT OR FUTURE USER.&nbsp;</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Content Provided by Other Users</strong>
+                            </span>
+                            <strong>. STORYPLACE Properties may contain User Content provided by other Registered Users.&nbsp; STORYPLACE is not responsible for and does not control User Content.&nbsp; STORYPLACE has no obligation to review or monitor, and does not approve, endorse or make any representations or warranties with respect to User Content or any content not generated by STORYPLACE.&nbsp; You use all User Content and interact with other users at your own risk.</strong>
+                        </li>
+                    </ol>
+                    <li>
+                        <strong>Third-Party Services and Fees.</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Third-Party Websites, Applications and Ads</strong>
+                            </span>
+                            <strong>. STORYPLACE Properties may contain links to third-party websites (“Third-Party Websites”) and applications (“Third-Party Applications”) and advertisements for third parties (“Third-Party Ads”). When you click on a link to a Third-Party Website, Third-Party Application or Third-Party Ad, we will not warn you that you have left STORYPLACE Properties and are subject to the terms and conditions (including privacy policies) of another website or destination.&nbsp; Such Third-Party Websites, Third-Party Applications and Third-Party Ads are not under the control of STORYPLACE.&nbsp; STORYPLACE is not responsible for any Third-Party Websites, Third-Party Applications or Third-Party Ads.&nbsp; STORYPLACE provides these Third-Party Websites, Third-Party Applications and Third Party Ads only as a convenience and does not endorse, review, approve, monitor, warrant, or make any representations with respect to Third-Party Websites, Third-Party Applications or Third-Party Ads, or any product or service provided in connection therewith.&nbsp; You use all links in Third-Party Websites, Third-Party Applications and Third-Party Ads at your own risk. When you leave our Website, the Agreement and policies no longer govern.&nbsp; You should review applicable terms and policies, including privacy and data gathering practices, of any Third-Party Websites or Third-Party Applications, and are encouraged to make whatever investigation you feel necessary or appropriate before proceeding with any transaction with any third party.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>App Stores</strong>
+                            </span>
+                            <strong>. You acknowledge and agree that the availability of the Application and the Services is dependent on the third party from whom you received the Application license, e.g., the Apple App Store or Google Play (each, an “App Store”).&nbsp; You acknowledge that the Agreement is between you and STORYPLACE and not with an App Store.&nbsp; STORYPLACE, not an App Store, is solely responsible for STORYPLACE Properties, including the Application, the content thereof, maintenance, support services, and warranty therefor, and addressing any claims relating thereto (e.g., legal compliance or intellectual property infringement).&nbsp; In order to access the Application, you must have access to a wireless network, and you agree to pay all fees associated with such access.&nbsp; You also agree to pay all fees (if any) charged by an App Store in connection with STORYPLACE Properties, including related to the Application, if any.&nbsp; You agree to comply with, and your license to use the Application is conditioned upon your compliance with all terms of agreement imposed by the applicable App Store when using any STORYPLACE Property, including but not limited to the Application. You acknowledge that an App Store (and its subsidiaries) are third-party beneficiaries of the Agreement and will have the right to enforce it.&nbsp;</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Sales Tax</strong>
+                            </span>
+                            <strong>. STORYPLACE does not currently charge a fee for any of its Services. If at any point in the future, STORYPLACE begins to charge a fee for any of its Services, Supplemental Services or other (“Additional Fees”), the Additional Fees will not include any Sales Tax that may become due in connection with such aforementioned Services.&nbsp; If STORYPLACE determines it has a legal obligation to collect Sales Tax or other governmental from you in connection with this Agreement, STORYPLACE shall collect such Sales Tax or other governmental tax, in addition to the Fees and any Additional Fees (if any).&nbsp; If any Services, or payments for any Services, under the Agreement are subject to Sales Tax in any jurisdiction and you have not remitted the applicable Sales Tax to STORYPLACE, you will be responsible for the payment of such Sales Tax (including other governmental taxes) and any related penalties or interest to the relevant tax authority, and you will indemnify, defend and hold harmless STORYPLACE et al., for all liability and expense STORYPLACE et al. may incur in connection therewith.&nbsp; Upon STORYPLACE’s request, you will provide it with official receipts issued by the appropriate taxing authority, or other such evidence that you have paid all applicable taxes.&nbsp; For purposes of this section, “Sales Tax” shall mean any sales and/or use tax and/or any other tax measured by sales proceeds that is the functional equivalent of a sales tax where the applicable taxing jurisdiction does not otherwise impose a sales or use tax.</strong>
+                        </li>
+                    </ol>
+                    <li>
+                        <strong>You agree to indemnify, defend and hold STORYPLACE, its parents, subsidiaries, affiliates, stockholders, officers, employees, agents, lawyers, partners, suppliers, and licensors (each, a “STORYPLACE Party” and collectively, the “STORYPLACE Parties”) harmless from any losses, costs, liabilities and expenses (including reasonable attorneys’ fees and expert witnesses’ costs) relating to or arising out of any and all of the following: (a) Your Content, including any lawsuit, claim or action by another Registered User or any other third party alleging that Your Content infringes any rights, including intellectual property, copyright and privacy rights; (b) any lawsuit, claim or action relating to your use of our Services brought against any STORYPLACE Party, including without limitation any lawsuit, claim or action by a User, third party and/or content creator alleging (i) idea theft, (ii) breach of an implied-in-fact contract or (iii) intellectual property or copyright infringement; (c) any lawsuit, claim or action by another Registered User or any other third party alleging that Your Content is defamatory; (d) your use of, or inability to use, any STORYPLACE Property; (e) your violation of the Agreement; (f) your violation of any rights of another party, including without limitation any Registered Users; or (g) your violation of any applicable laws, rules or regulations.&nbsp; STORYPLACE reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will fully cooperate with STORYPLACE in asserting any available defenses, without STORYPLACE waiving any of its indemnification rights owed STORYPLACE. You agree that the provisions in this section will survive any termination of your Account, the Agreement and/or your access to STORYPLACE Properties.</strong>
+                    </li>
+                    <li>
+                        <strong>Disclaimer of Warranties and Conditions.</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>As Is</strong>
+                            </span>
+                            <strong>. YOU EXPRESSLY UNDERSTAND AND AGREE THAT TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF STORYPLACE PROPERTIES IS AT YOUR SOLE RISK, AND STORYPLACE PROPERTIES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITH ALL FAULTS. STORYPLACE PARTIES EXPRESSLY DISCLAIM ALL WARRANTIES, REPRESENTATIONS, AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT ARISING FROM USE OF THE WEBSITE.&nbsp;</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <strong>STORYPLACE PARTIES MAKE NO WARRANTY, REPRESENTATION OR CONDITION THAT: (1) STORYPLACE PROPERTIES WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS; (2) YOUR USE OF STORYPLACE PROPERTIES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE; OR (3) THE RESULTS THAT MAY BE OBTAINED FROM USE OF STORYPLACE PROPERTIES WILL BE ACCURATE OR RELIABLE.</strong>
+                            </li>
+                            <li>
+                                <strong>ANY CONTENT DOWNLOADED FROM OR OTHERWISE ACCESSED THROUGH STORYPLACE PROPERTIES IS ACCESSED AT YOUR OWN RISK, AND YOU SHALL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY, INCLUDING, BUT NOT LIMITED TO, YOUR COMPUTER SYSTEM AND ANY DEVICE YOU USE TO ACCESS STORYPLACE PROPERTIES, OR ANY OTHER LOSS THAT RESULTS FROM ACCESSING SUCH CONTENT.</strong>
+                            </li>
+                            <li>
+                                <strong>THE SERVICES MAY BE SUBJECT TO DELAYS, CANCELLATIONS AND OTHER DISRUPTIONS. STORYPLACE MAKES NO WARRANTY, REPRESENTATION OR CONDITION WITH RESPECT TO SERVICES, INCLUDING BUT NOT LIMITED TO, THE QUALITY, EFFECTIVENESS, REPUTATION AND OTHER CHARACTERISTICS OF SERVICES.</strong>
+                            </li>
+                            <li>
+                                <strong>NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM STORYPLACE OR THROUGH STORYPLACE PROPERTIES WILL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.</strong>
+                            </li>
+                            <li>
+                                <strong>From time to time, STORYPLACE may offer new “beta” features or tools with which its registered users may experiment. Such features or tools are offered solely for experimental purposes and without any warranty
+                                </strong>
+                                <span style={{ textDecoration: "underline" }}>
+                                    <strong>of any kind</strong>
+                                </span>
+                                <strong>, and may be modified or discontinued at STORYPLACE’s sole and absolute discretion.&nbsp; The provisions of this section apply with full force to such features or tools.</strong>
+                            </li>
+                        </ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>No Liability for Conduct of Third Parties</strong>
+                            </span>
+                            <strong>. YOU ACKNOWLEDGE AND AGREE THAT STORYPLACE PARTIES ARE NOT LIABLE, AND YOU AGREE NOT TO SEEK TO HOLD STORYPLACE PARTIES LIABLE, FOR THE CONDUCT OF THIRD PARTIES, INCLUDING OPERATORS OF EXTERNAL SITES, AND THAT THE RISK OF INJURY FROM SUCH THIRD PARTIES RESTS ENTIRELY WITH YOU.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>No Liability for Conduct of Other Users</strong>
+                            </span>
+                            <strong>. YOU ARE SOLELY RESPONSIBLE FOR ALL OF YOUR COMMUNICATIONS AND INTERACTIONS WITH OTHER USERS OF STORYPLACE PROPERTIES. YOU UNDERSTAND THAT STORYPLACE DOES NOT MAKE ANY ATTEMPT TO VERIFY THE STATEMENTS OF USERS OF STORYPLACE PROPERTIES.&nbsp; STORYPLACE MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF USERS OF STORYPLACE PROPERTIES OR THEIR COMPATIBILITY WITH ANY CURRENT OR FUTURE USERS OF STORYPLACE PROPERTIES.&nbsp; YOU AGREE TO TAKE REASONABLE PRECAUTIONS IN ALL COMMUNICATIONS AND INTERACTIONS WITH OTHER USERS OF STORYPLACE PROPERTIES, PARTICULARLY IF YOU DECIDE TO MEET OFFLINE OR IN PERSON.&nbsp; YOU ACKNOWLEDGE AND AGREE THAT STORYPLACE DOES NOT CONDUCT BACKGROUND CHECKS ON ANY USER.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>No Liability for Conduct of Users of PRO</strong>
+                            </span>
+                            <strong>. IF YOU ARE A USER, YOU ARE SOLELY RESPONSIBLE FOR ALL OF YOUR COMMUNICATIONS AND INTERACTIONS WITH OTHER USERS, INCLUDING WITHOUT LIMITATION INTERACTIONS RELATING TO ANY STORIES, ACCESS TO AND SUBMISSION OF SUCH STORIES, AND ANY COMMUNICATIONS OR AGREEMENTS RELATING TO (BUT NOT LIMITED TO) THE ACQUISITION OF ANY RIGHT, TITLE OR INTEREST IN SUCH STORIES.</strong>
+                        </li>
+                    </ol>
+                    <li>
+                        <strong>Limitation of Liability.</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Disclaimer of Certain Damages</strong>
+                            </span>
+                            <strong>. YOU UNDERSTAND AND AGREE THAT IN NO EVENT SHALL STORYPLACE PARTIES BE LIABLE FOR ANY LOSS OF PROFITS, REVENUE OR DATA, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, OR DAMAGES OR COSTS DUE TO LOSS OF PRODUCTION OR USE, BUSINESS INTERRUPTION, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, IN EACH CASE WHETHER OR NOT STORYPLACE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, ARISING OUT OF OR IN CONNECTION WITH THE AGREEMENT OR ANY COMMUNICATIONS, INTERACTIONS OR MEETINGS WITH OTHER USERS OF STORYPLACE PROPERTIES, ON ANY THEORY OF LIABILITY, RESULTING FROM: (1) THE USE OR INABILITY TO USE STORYPLACE PROPERTIES; (2) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED FOR TRANSACTIONS ENTERED INTO THROUGH STORYPLACE PROPERTIES; (3) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (4) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON STORYPLACE PROPERTIES; OR (5) ANY OTHER MATTER RELATED TO STORYPLACE PROPERTIES, WHETHER BASED ON WARRANTY, COPYRIGHT, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY.&nbsp; THE FOREGOING LIMITATION ON LIABILITY SHALL NOT APPLY TO LIABILITY OF A STORYPLACE PARTY FOR (A) DEATH OR PERSONAL INJURY CAUSED BY A STORYPLACE PARTY’S GROSS NEGLIGENCE; OR FOR (B) ANY INJURY CAUSED BY A STORYPLACE PARTY’S FRAUD OR FRAUDULENT MISREPRESENTATION.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Cap on Liability</strong>
+                            </span>
+                            <strong>. UNDER NO CIRCUMSTANCES WILL STORYPLACE PARTIES BE LIABLE TO YOU
+                            </strong>
+                            <strong>(INCLUDING ALL LEGAL AND COLLECTION FEES AND COSTS)
+                            </strong>
+                            <strong>FOR MORE THAN THE GREATER OF (A) THE TOTAL AMOUNT PAID TO STORYPLACE by you during the one-month period prior to the act, omission or occurrence giving rise to such liability and (B) THE REMEDY OR PENALTY IMPOSED BY THE STATUTE UNDER WHICH SUCH CLAIM ARISES. &nbsp; THE FOREGOING CAP ON LIABILITY SHALL NOT APPLY TO LIABILITY OF A STORYPLACE PARTY FOR (A) DEATH OR PERSONAL INJURY CAUSED BY A STORYPLACE PARTY’S GROSS NEGLIGENCE; OR FOR (B) ANY INJURY CAUSED BY A STORYPLACE PARTY’S FRAUD OR FRAUDULENT MISREPRESENTATION.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>User Content</strong>
+                            </span>
+                            <strong>. EXCEPT FOR STORYPLACE’S OBLIGATIONS TO PROTECT YOUR PERSONAL DATA AS SET FORTH IN THE STORYPLACE’S
+                            </strong>
+                            <a target="_blank" href="https://www.storyplace.com/privacy" rel="noreferrer">
+                                <strong>PRIVACY POLICY</strong>
+                            </a>
+                            <strong>, STORYPLACE ASSUMES NO RESPONSIBILITY FOR THE TIMELINESS, DELETION, MIS-DELIVERY OR FAILURE TO STORE ANY CONTENT (INCLUDING, BUT NOT LIMITED TO, YOUR CONTENT AND USER CONTENT), USER COMMUNICATIONS AND/OR PERSONALIZATION SETTINGS.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Basis of the Bargain</strong>
+                            </span>
+                            <strong>. THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN STORYPLACE AND YOU.</strong>
+                        </li>
+                    </ol>
+                    <li>
+                        <strong>Procedure for Making Claims of Copyright Infringement. It is STORYPLACE’s policy to terminate membership privileges of any Registered User who repeatedly infringes copyright upon prompt notification to STORYPLACE by the copyright owner or the copyright owner’s legal agent.&nbsp; Without limiting the foregoing, if you believe that your work has been copied and posted on STORYPLACE Properties in a way that constitutes copyright infringement, please provide our Copyright Agent with the following information: (a) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; (b) a description of the copyrighted work that you claim has been infringed; (c) a description of the location on STORYPLACE Properties of the material that you claim is infringing; (d) your address, telephone number and e-mail address; (e) a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law; and (f) a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.&nbsp; Contact information for STORYPLACE’s Copyright Agent for notice of claims of copyright infringement is as follows: StoryPlace HQ,
+                        </strong>
+                        <strong>8549 Wilshire Blvd, Unit #3014, Beverly Hills, CA 90211.</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Violations</strong>
+                            </span>
+                            <strong>. If STORYPLACE becomes aware of any possible violations by you of the Agreement, STORYPLACE reserves the right to investigate such violations.&nbsp; If, as a result of the investigation, STORYPLACE believes that criminal activity has occurred, STORYPLACE reserves the right to refer the matter to, and to cooperate with, any and all applicable legal authorities.&nbsp; STORYPLACE is entitled, except to the extent prohibited by applicable law, to disclose any information or materials on or in STORYPLACE Properties, including Your Content, in STORYPLACE’s possession in connection with your use of STORYPLACE Properties, to (a) comply with applicable laws, legal process or governmental request; (b) enforce the terms, (c) respond to any claims that Your Content violates the rights of third parties, (d) respond to your requests for customer service, or (e) protect the rights, property or personal safety of STORYPLACE, its users or the public, and all enforcement or other government officials, as STORYPLACE in its sole and absolute discretion believes to be necessary or appropriate.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Breach</strong>
+                            </span>
+                            <strong>. In the event that STORYPLACE determines, in its sole and absolute discretion, that you have breached any portion of the Agreement, or have otherwise demonstrated conduct inappropriate for STORYPLACE Properties, STORYPLACE reserves the right to:</strong>
+                        </li>
+                        <ol>
+                            <li>
+                                <strong>Warn you via e-mail (to any e-mail address you have provided to STORYPLACE) that you have violated the Agreement;</strong>
+                            </li>
+                            <li>
+                                <strong>Delete any of Your Content provided by you or your agent(s) to STORYPLACE Properties;</strong>
+                            </li>
+                            <li>
+                                <strong>Discontinue your registration(s) with any of STORYPLACE Properties, including any Services or any STORYPLACE community;</strong>
+                            </li>
+                            <li>
+                                <strong>Discontinue your subscription to any Services;</strong>
+                            </li>
+                            <li>
+                                <strong>Notify and/or send Content to and/or fully cooperate with the proper law enforcement authorities for further action; and/or</strong>
+                            </li>
+                            <li>
+                                <strong>Pursue any other action which STORYPLACE deems to be appropriate.</strong>
+                            </li>
+                        </ol>
+                    </ol>
+                    <li>
+                        <strong>Term and Termination.</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Term</strong>
+                            </span>
+                            <strong>. The Agreement commences on the date when you accept it (as described above) and remain in full force and effect while you use STORYPLACE Properties, unless terminated earlier in accordance with the Agreement, whilst ensuring, agreeing and acknowledging that certain provisions owed STORYPLACE, as stipulated herein shall survive such termination or expiry.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Prior Use</strong>
+                            </span>
+                            <strong>. Notwithstanding the foregoing, you hereby acknowledge and agree that the Agreement commenced on the earlier to occur of (a) the date you first used STORYPLACE Properties or (b) the date you accepted the Agreement, will remain in full force and effect while you use any STORYPLACE Properties, unless earlier terminated in accordance with the Agreement</strong>
+                            <strong>,
+                            </strong>
+                            <strong>whilst ensuring, agreeing and acknowledging that certain provisions owed STORYPLACE as stipulated herein shall survive such termination or expiry.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Termination of Services by You</strong>
+                            </span>
+                            <strong>. If you want to terminate the Services provided by STORYPLACE, you may do so by (a) notifying STORYPLACE at any time and (b) closing your Account for all of the Services that you use. Your notice should be sent, in writing, to STORYPLACE’s address set forth below</strong>
+                            <strong>,
+                            </strong>
+                            <strong>whilst the parties agree that certain provisions as stipulated herein owed to STORYPLACE shall survive such termination or expiry.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Effect of Termination</strong>
+                            </span>
+                            <strong>. Termination of any Service includes (but is not limited to) removal of access to such Service and barring of further use of the Service.&nbsp; Termination of all Services also includes deletion of your password and all related information, files and Content associated with or inside your Account (or any part thereof), including Your Content (in STORYPLACE’s sole and absolute discretion).&nbsp; Upon termination of any Service, your right to use such Service will automatically terminate immediately, whilst ensuring, agreeing and acknowledging that certain provisions owed STORYPLACE as stipulated herein shall survive such termination or expiry.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Prior Use</strong>
+                            </span>
+                            <strong>. Notwithstanding the foregoing, you hereby acknowledge,&nbsp; You understand that any termination of Services may involve deletion of Your Content associated therewith from our live databases.&nbsp; STORYPLACE will not have any liability whatsoever to you for any suspension or termination, including for deletion of Your Content.&nbsp; All provisions of the Agreement which by their nature should survive, shall survive termination of Services, including without limitation, ownership provisions, indemnification, warranty disclaimers, and limitation of liability</strong>
+                            <strong>
+                                and shall be applied throughout this Agreement.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>No Subsequent Registration</strong>
+                            </span>
+                            <strong>. If your registration(s) with or ability to access STORYPLACE Properties, or any other STORYPLACE community is discontinued by STORYPLACE due to your violation of any portion of the Agreement or for conduct otherwise inappropriate for the community, then you agree that you shall not attempt to re-register with or access STORYPLACE Properties or any STORYPLACE community through use of a different member name or otherwise, and you acknowledge that you will not be entitled to receive any consideration related to those STORYPLACE Properties to which your access has been terminated.&nbsp; In the event that you violate the immediately preceding sentence, STORYPLACE reserves the right, in its sole discretion, to immediately take any or all of the actions set forth herein without any notice or warning to you.</strong>
+                        </li>
+                    </ol>
+                    <li>
+                        <strong>International Users. STORYPLACE Properties can be accessed from countries around the world and may contain references to Services and Content that are not available in your country.&nbsp; These references do not imply that STORYPLACE intends to announce such Services or Content in your country.&nbsp; STORYPLACE Properties are controlled and offered by STORYPLACE from its facilities in the United States of America. STORYPLACE makes no representations that STORYPLACE Properties are appropriate or available for use in other locations.&nbsp; Those who access or use STORYPLACE Properties from other countries do so at their own volition and are responsible for compliance with local law.</strong>
+                    </li>
+                    <li>
+                        <strong>Dispute Resolution</strong>
+                        <strong>
+                            <em>. Please read the following arbitration agreement in this Section (“</em>
+                        </strong>
+                        <strong>Arbitration Agreement</strong>
+                        <strong>
+                            <em>”) carefully.&nbsp; It requires you to arbitrate disputes with STORYPLACE and limits the manner in which you can seek relief from us.&nbsp;</em>
+                        </strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Applicability of Arbitration Agreement</strong>
+                            </span>
+                            <strong>
+                                <em>.</em>
+                            </strong>
+                            <strong>
+                                You agree that any dispute or claim relating in any way to your access or use of the Website, to any products sold or distributed through the Website, or to any aspect of your relationship with STORYPLACE, will be resolved by binding arbitration, rather than in court, except that STORYPLACE may seek equitable relief in court for infringement or other misuse of intellectual property rights (such as trademarks, trade dress, domain names, trade secrets, copyrights, and patents).&nbsp; This Arbitration Agreement shall apply, without limitation, to all claims that arose or were asserted before the effective date of this Agreement or any prior version of this Agreement.&nbsp;&nbsp;</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Arbitration Rules and Jurisdiction</strong>
+                            </span>
+                            <strong>
+                                <em>.
+                                </em>
+                            </strong>
+                            <strong>All disputes arising out of or in connection with the present Agreement, including any question regarding its existence, validity or termination, shall be finally settled under the Rules of Arbitration
+                            </strong>
+                            <strong>in Los Angeles County, California, in accordance with the Streamlined Arbitration Rules and Procedures of Judicial Arbitration and Mediation Services, Inc. (“JAMS”) then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, who shall be selected from the appropriate list of JAMS arbitrators in accordance with the Streamlined Arbitration Rules and Procedures of JAMS. Judgment upon the award so rendered may be entered in a court having jurisdiction, or application may be made to such court for judicial acceptance of any award and an order of enforcement, as the case may be. Notwithstanding the foregoing, you agree to waive your rights to seek or actually institute an action in a court of proper jurisdiction for injunctive or other equitable relief and agree to limit all recourse you may seek to monetary damages at law.&nbsp; For all purposes of these Terms, you consent to exclusive jurisdiction and venue in the state or federal courts located in, respectively, Los Angeles County, California. The prevailing party in any action or proceeding arising out of these Terms will be entitled to an award of costs and outside attorneys’ fees. To the fullest extent permitted by law, you and StoryPlace agree that all claims against the other can only be brought in an individual capacity, and not as a plaintiff or class member in any purported class, consolidated, or other representative proceeding. You agree that arbitrators may not conduct any class, consolidated, or representative proceeding, and are limited to providing relief warranted by an individual party's claim.
+                            </strong>
+                            <strong>Notwithstanding anything to the contrary herein, enforcement of any award may be sought in any court of competent jurisdiction.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Waiver of Jury Trial</strong>
+                            </span>
+                            <strong>.&nbsp; YOU AND STORYPLACE HEREBY WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO SUE IN COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and STORYPLACE are instead electing that all claims and disputes shall be resolved by arbitration under this Agreement. An arbitrator can award on an individual basis the same damages and relief as a court and must follow this Agreement as a court would.&nbsp; However, there is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.&nbsp;&nbsp;</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Waiver of Class or Other Non-Individualized Relief</strong>
+                            </span>
+                            <strong>.&nbsp; ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS AGREEMENT MUST BE ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS OR COLLECTIVE BASIS, ONLY INDIVIDUAL RELIEF IS AVAILABLE, AND CLAIMS OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER. If a decision is issued stating that applicable law precludes enforcement of any of this subsection’s limitations as to a given claim for relief, then the claim must be severed from the arbitration and brought into the state or federal courts located in the State of California.&nbsp; All other claims shall be arbitrated.&nbsp;</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>30-Day Right to Opt Out</strong>
+                            </span>
+                            <strong>. You have the right to opt out of the provisions of this arbitration provision by sending written notice of your decision to opt out to: support@storyplace.com, within 30 days after first becoming subject to this Agreement. Your notice must include your name and address, your STORYPLACE username (if any), the email address you used to set up your STORYPLACE account (if you have one), and an unequivocal statement that you want to opt out of this arbitration provision.&nbsp; If you opt out of this arbitration provision, all other parts of this Agreement will continue to apply to you.&nbsp; Opting out of this arbitration provision has no effect on any other agreements that you may currently have, or may enter in the future, with us.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Severability</strong>
+                            </span>
+                            <strong>
+                                <em>.
+                                </em>
+                            </strong>
+                            <strong>If any part or parts of this Agreement are found under the law to be invalid or unenforceable, then such specific part or parts shall be of no force and effect and shall be severed and the remainder of the Agreement shall continue in full force and effect.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Survival of Agreement</strong>
+                            </span>
+                            <strong>
+                                <em>.
+                                </em>
+                            </strong>
+                            <strong>This Agreement will survive the termination of your relationship with STORYPLACE.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Modification</strong>
+                            </span>
+                            <strong>. Notwithstanding any provision in this Agreement to the contrary, we agree that if STORYPLACE makes any future material change to this Agreement, you may reject IN WRITING that change within thirty (30) days of such change becoming effective by writing STORYPLACE at the following address: Storyplace HQ,
+                            </strong>
+                            <strong>8549 Wilshire Blvd, Unit #3014, Beverly Hills, CA 90211</strong>
+                            <strong>.</strong>
+                        </li>
+                    </ol>
+                    <li>
+                        <strong>General Provisions.</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Electronic Communications</strong>
+                            </span>
+                            <strong>. The communications between you and STORYPLACE may take place via electronic means, whether you visit STORYPLACE Properties or send STORYPLACE e-mails, or whether STORYPLACE posts notices on STORYPLACE Properties or communicates with you via e-mail.&nbsp; For contractual purposes, you (a) consent to receive communications from STORYPLACE in an electronic form; and (b) agree that all terms and conditions, agreements, notices, disclosures, and other communications that STORYPLACE provides to you electronically satisfy any legal requirement that such communications would satisfy if it were to be in writing.&nbsp; The foregoing does not affect your statutory rights.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Release</strong>
+                            </span>
+                            <strong>. You hereby release STORYPLACE Parties and their successors and assigns from claims, demands, any and all losses, damages, rights, and actions of any kind, including personal injuries, death, and property damage, that is either directly or indirectly related to or arises from your use of STORYPLACE Properties, including but not limited to, any interactions with or conduct of other users or third-party websites of any kind arising in connection with or as a result of the Agreement or your use of STORYPLACE Properties. If you are a California resident, you hereby waive California Civil Code Section 1542, which states,
+                            </strong>
+                            <strong>
+                                <em>“A general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party.”&nbsp;
+                                </em>
+                            </strong>
+                            <strong>The foregoing release does not apply to any claims, demands, or any losses, damages, rights and actions of any kind, including personal injuries, death or property damage for any unconscionable commercial practice by a STORYPLACE Party or for such party’s fraud, deception, false promise, misrepresentation or concealment, suppression or omission of any material fact in connection with the Website.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Assignment</strong>
+                            </span>
+                            <strong>. The Agreement, and your rights and obligations hereunder, may not be assigned, subcontracted, delegated or otherwise transferred by you without STORYPLACE’s prior written consent, to be withheld in its sole and absolute discretion, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be immediately deemed null and void ab initio.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Force Majeure</strong>
+                            </span>
+                            <strong>. STORYPLACE shall not be liable for any delay or failure to perform resulting from causes outside its reasonable control, including, but not limited to, acts of God, war, terrorism, riots, embargos, acts of civil or military authorities, fire, floods, pandemics, epidemics, accidents, strikes or shortages of transportation facilities, fuel, energy, labor or materials.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Questions, Complaints, Claims</strong>
+                            </span>
+                            <strong>. If you have any questions, complaints or claims with respect to STORYPLACE Properties, please contact us at: support@storyplace.com.&nbsp; We will do our best to address your concerns.&nbsp; If you feel that your concerns have been addressed incompletely, we invite you to let us know for further investigation.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Exclusive Venue</strong>
+                            </span>
+                            <strong>. To the extent the parties are permitted under this Agreement to initiate recourse, both you and STORYPLACE agree that all claims and disputes arising out of or relating to the Agreement will be held exclusively in Los Angeles County, California.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Governing Law and Jurisdiction</strong>
+                            </span>
+                            <strong>. The Terms of Use and any action related thereto will be governed and interpreted by and under the laws of the State of California, consistent with
+                            </strong>
+                            <strong>the Streamlined Arbitration Rules and Procedures of Judicial Arbitration and Mediation Services, Inc. (“JAMS”) then in effect</strong>
+                            <strong>, without giving effect to any principles that provide for the application of the law of another jurisdiction.&nbsp;&nbsp;</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Choice of Language</strong>
+                            </span>
+                            <strong>. This Agreement, and any contract between us, are only in the English language.&nbsp;&nbsp;</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Notice</strong>
+                            </span>
+                            <strong>. Where STORYPLACE requires that you provide an e-mail address, you are responsible for providing STORYPLACE with your most current e-mail address.&nbsp; In the event that the last e-mail address you provided to STORYPLACE is not valid, or for any reason is not capable of delivering to you any notices required/ permitted by the Agreement, STORYPLACE’s dispatch of the e-mail containing such notice will nonetheless constitute effective notice.&nbsp; You may give notice to STORYPLACE at the following address: StoryPlace HQ,
+                            </strong>
+                            <strong>8549 Wilshire Blvd, Unit #3014, Beverly Hills, CA 90211.&nbsp; Such
+                            </strong>
+                            <strong>notice shall be deemed given when received by STORYPLACE by letter delivered by nationally recognized overnight delivery service or first class postage prepaid mail at the above address.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Waiver</strong>
+                            </span>
+                            <strong>. Any waiver or failure to enforce any provision of the Agreement on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Severability</strong>
+                            </span>
+                            <strong>. If any portion of this Agreement is held invalid or unenforceable, that portion shall be construed in a manner to reflect, as nearly as possible, the original intention of the parties, and the remaining portions shall remain in full force and effect.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Export Control</strong>
+                            </span>
+                            <strong>. You may not use, export, import, or transfer STORYPLACE Properties except as authorized by U.S. law, the laws of the jurisdiction in which you obtained STORYPLACE Properties, and any other applicable laws.&nbsp; In particular, but without limitation, STORYPLACE Properties may not be exported or re-exported (a) into any United States embargoed countries, or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce’s Denied Person’s List or Entity List. By using STORYPLACE Properties, you represent and warrant that (y) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country and (z) you are not listed on any U.S. Government list of prohibited or restricted parties. You also will not use STORYPLACE Properties for any purpose prohibited by U.S. law, including the development, design, manufacture or production of missiles, nuclear, chemical or biological weapons.&nbsp; You acknowledge and agree that products, services or technology provided by STORYPLACE are subject to the export control laws and regulations of the United States.&nbsp; You shall comply with these laws and regulations and shall not, without prior U.S. government authorization, export, re-export, or transfer STORYPLACE products, services or technology, either directly or indirectly, to any country in violation of such laws and regulations.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Consumer Complaints</strong>
+                            </span>
+                            <strong>. In accordance with California Civil Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 400 R Street, Sacramento, CA 95814, or by telephone at (800) 952-5210.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Entire Agreement</strong>
+                            </span>
+                            <strong>. The Agreement is the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussions between the parties with respect to such subject matter.</strong>
+                        </li>
+                    </ol>
+                    <li>
+                        <strong>International Provisions. The following provisions shall apply only if you are located in the countries listed below.</strong>
+                    </li>
+                    <ol>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>United Kingdom</strong>
+                            </span>
+                            <strong>. A third party who is not a party to the Agreement has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any provision of the Agreement, but this does not affect any right or remedy of such third party which exists or is available apart from that Act.</strong>
+                        </li>
+                        <li>
+                            <span style={{ textDecoration: "underline" }}>
+                                <strong>Germany</strong>
+                            </span>
+                            <strong>. Notwithstanding anything to the contrary herein, STORYPLACE is also not liable for acts of simple negligence (unless they cause injuries to or death of any person), except when they are caused by a breach of any substantial contractual obligations by StoryPlace (vertragswesentliche Pflichten).</strong>
+                        </li>
+                    </ol>
+                </ol>
+                <p>
+                    <strong>End of Agreement</strong>
+                </p>
             </LegalContainer>
 
         </>
