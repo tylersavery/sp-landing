@@ -1,11 +1,12 @@
 @import "./mixins.module";
 @import "./colors.module";
 
+
 .section {
     position: relative;
-
+    padding-top: 50px;
     h2 {
-        font-size: 54px;
+        font-size: 50px;
         font-weight: 600;
         color: #000906;
 
@@ -23,7 +24,8 @@
 
     p {
         color: #180F02;
-        font-size: 18px;
-
+        font-size: 21px;
+        margin-top: 24px;
+        margin-bottom: 4px;
     }
 }

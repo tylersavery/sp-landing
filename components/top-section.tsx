@@ -1,14 +1,18 @@
 import Image from 'next/image';
 import styles from '../styles/TopSection.module.scss';
 
-import DownloadApp from './download-app';
-import useTranslation from 'next-translate/useTranslation'
-import Link from 'next/link';
-import HamburgerMenu from './hamburguer';
+import useTranslation from 'next-translate/useTranslation';
+import { useRouter } from 'next/router';
 import MobileHeader from './mobile-header';
 
 const TopSection = () => {
     const { t, lang } = useTranslation('common')
+
+    const router = useRouter()
+
+    const language = router.locale;
+
+    console.log(language);
 
     return <div>
 
@@ -22,8 +26,19 @@ const TopSection = () => {
 
                 </div>
                 <div>
-                    <h1>{t('Welcome to Storyplace,')}<br />{t('where journaling')}<br />{t('meets community')}</h1>
+                    <div className={styles.titleContainer}>
 
+                        <div className={styles.green}>
+                            <h1 className={styles.greenText}>{t('Welcome to Storyplace,')}</h1 >
+                        </div>
+                        <div className={styles.blue}>
+                            <h1 className={styles.blueText}>{t('where journaling')}</h1 >
+                        </div>
+                        <div className={language == 'espanol' ? styles.orangeSpanish : styles.orange}>
+                            <h1 className={styles.orangeText}>{t('meets community')}</h1>
+                        </div>
+
+                    </div>
                     <div className={"d-flex align-items-center mt-5 flex-column flex-md-row"}>
 
                         <div>

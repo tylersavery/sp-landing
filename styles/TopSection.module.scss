@@ -10,90 +10,215 @@
   z-index: 100;
 }
 
+.titleContainer {
+  align-items: flex-start;
+}
+
+.green {
+  background: #08AB74;
+  width: 580px;
+  height: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 18px;
+  padding-right: 18px;
+
+  @include phone {
+    width: 280px;
+    height: 40px;
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+}
+
+.greenText {
+  text-align: center;
+  font-size: 40px;
+  line-height: 80%;
+  letter-spacing: -0.8px;
+  text-transform: uppercase;
+  color: #000;
+  @include fontAlt;
+
+  @include phone {
+    text-align: left;
+    font-size: 20px;
+  }
+}
+
+.blue {
+  background: #283ADE;
+  width: 780px;
+  height: 85px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 18px;
+  padding-right: 18px;
+
+  @include phone {
+    width: 320px;
+    height: 50px;
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+}
+
+.blueText {
+  @include fontAlt;
+  vertical-align: baseline;
+  text-align: center;
+  font-size: 70px;
+  line-height: 80%;
+  letter-spacing: -0.8px;
+  text-transform: uppercase;
+  color: #FFF;
+
+  @include phone {
+    font-size: 30px;
+    text-align: left;
+  }
+}
+
+.orange {
+  margin-left: 60px;
+  background: #F56140;
+  width: 720px;
+  height: 85px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 18px;
+  padding-right: 18px;
+
+  @include phone {
+    width: 305px;
+    height: 50px;
+    margin-left: 0px;
+    padding-left: 9px;
+    padding-right: 9px;
+
+  }
+
+}
+
+.orangeSpanish {
+  margin-left: -60px;
+  background: #F56140;
+  width: 870px;
+  height: 85px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 18px;
+  padding-right: 18px;
+
+  @include phone {
+    width: 375px;
+    height: 60px;
+    margin-left: 0px;
+    padding-left: 9px;
+    padding-right: 9px;
+
+  }
+}
+
+.orangeText {
+  @include fontAlt;
+  text-align: center;
+  font-size: 70px;
+  line-height: 80%;
+  letter-spacing: -0.8px;
+  text-transform: uppercase;
+  color: #000;
+
+  @include phone {
+    font-size: 30px;
+    text-align: left;
+
+  }
+}
+
 .section {
   display: flex;
   align-items: center;
   justify-content: center;
-    position: relative;
-    color: #fff;
-    background-image: url(/images/hero-bg.jpg);
-    background-size: cover;
-    background-position: right top;
-    min-height: 700px;
+  position: relative;
+  // color: #fff;
+  background-image: url(/images/hero-bg.jpg);
+  background-size: cover;
+  background-position: right top;
+  min-height: 700px;
 
-    @include phone {
-      min-height: 500px;
+  @include phone {
+    min-height: 500px;
     margin-top: 50px;
     padding-top: 110px;
-    }
- 
-
-    // @include phone {
-    //   padding-top: 12px;
-    //   background-image: url(/images/top-bg-mobile.jpg);
-    //   background-position: 50% top;
-    // }
-
-    h1 {
-      font-size: 62px;
-      line-height: 1.04;
-      font-weight: 600;
-      color: $color-purple;
-      @include phone {
-        font-size: 42px;
-        line-height: 48px;
-      }
-    }
-
- 
-
-   
   }
 
-  .balloon {
-    height: 600px;
-    width: 50%;
-    position: absolute;
+
+  // @include phone {
+  //   padding-top: 12px;
+  //   background-image: url(/images/top-bg-mobile.jpg);
+  //   background-position: 50% top;
+  // }
+
+  // h1 {
+  //   font-size: 62px;
+  //   line-height: 1.04;
+  //   font-weight: 600;
+  //   color: $color-purple;
+  //   @include phone {
+  //     font-size: 42px;
+  //     line-height: 48px;
+  //   }
+  // }
+
+
+
+
+}
+
+.balloon {
+  height: 600px;
+  width: 50%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-image: url(/images/balloon.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.exploreWebLink {
+  color: #000;
+  font-size: 23px;
+  font-weight: 600;
+  position: relative;
+  top: 7px;
+  margin-left: 10px;
+  padding-bottom: 22px;
+
+  @include phone {
     top: 0;
-    right: 0;
-    background-image: url(/images/balloon.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: right top;
+    margin-left: 0px;
+    margin-top: 12px;
   }
+}
 
-  .exploreWebLink {
-    color: #000;
-    font-size: 23px;
-    font-weight: 600;
-    position: relative;
-    top: 7px;
-    margin-left: 10px;
-    padding-bottom: 22px;
 
-    @include phone {
-      top:0;
-      margin-left: 0px;
-      margin-top: 12px;
+.mobileLogo {
+  display: none;
+
+  @include phone {
+    display: flex;
+
+    justify-content: center;
+
+    >div {
+      max-width: 300px;
+      width: 100%;
     }
+
+
+    // display: block;
   }
-
-
-  .mobileLogo {
-    display: none;
-    
-    @include phone {
-      display: flex;
-
-      justify-content: center;
-      > div {
-        max-width: 300px;
-        width: 100%;
-      }
-
-
-      // display: block;
-    }
-  }
- 
-
+}

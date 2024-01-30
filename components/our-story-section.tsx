@@ -32,7 +32,7 @@ const OurStorySection = () => {
                             </div>
                             <div className={styles.cover} onClick={() => setShowYoutube(true)}>
                                 <div>
-                                    <h2>{t('our-story')}</h2>
+                                    <h2>{t('our-founder')}</h2>
                                     <p>{t('hear-from-our-founder')}</p>
                                     <div className="d-flex justify-content-center">
 
