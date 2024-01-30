@@ -30,7 +30,7 @@ const StoriesSection = () => {
 
             </div>
 
-            <div className="pt-4 pb-5" style={{ backgroundColor: "#F0F0EA" }}>
+            <div className="pt-4 pb-5" >
                 <div className="container text-center">
                     <a href="https://app.storyplace.com/" className="btn btn-outline-dark">{t('continue-reading')} &gt;</a>
                 </div>

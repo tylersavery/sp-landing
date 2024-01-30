@@ -37,9 +37,9 @@ const Header = () => {
                     <div className="mx-4">
                         <Link href="https://app.storyplace.com/app/explore" target={"_blank"}><a className={styles.link}>{t('Explore')}</a></Link>
                     </div>
-                    <div className="mx-4">
+                    {/* <div className="mx-4">
                         <Link href="https://app.storyplace.com/app/circles" target={"_blank"}><a className={styles.link}>{t('Circles')}</a></Link>
-                    </div>
+                    </div> */}
                 </div>
 
                 <div className="d-flex align-items-center">
