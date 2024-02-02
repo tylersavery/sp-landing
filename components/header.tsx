@@ -23,23 +23,23 @@ const Header = () => {
     return <header className={`${styles.header}  ${styles.header__opaque}`}>
 
 
-        <div className="container">
+        <div className={styles.headerContainer}>
 
-            <div className="d-flex py-3 justify-content-between align-items-center">
+            <div className="d-flex py-3 justify-content-between align-items-center ">
                 <div className="d-flex align-items-center">
                     <Link href="/">
-                        <Image src={"/images/logo.svg"} width={196} height={37} alt="Storyplace" />
+                        <Image src={"/images/logo.svg"} width={170} height={40} alt="Storyplace" />
                     </Link>
-                    <div className="mx-4"></div>
-                    <div className="mx-4">
+                    <div className="mx-3"></div>
+                    <div className="mx-3">
                         <Link href="https://app.storyplace.com/app/home" target={"_blank"}><a className={styles.link}>{t('Home')}</a></Link>
                     </div>
-                    <div className="mx-4">
+                    <div className="mx-3">
                         <Link href="https://app.storyplace.com/app/explore" target={"_blank"}><a className={styles.link}>{t('Explore')}</a></Link>
                     </div>
-                    {/* <div className="mx-4">
-                        <Link href="https://app.storyplace.com/app/circles" target={"_blank"}><a className={styles.link}>{t('Circles')}</a></Link>
-                    </div> */}
+                    <div className="mx-3">
+                        <Link href="https://app.storyplace.com/app/story" target={"_blank"}><a className={styles.button}>{t('Share Story')}</a></Link>
+                    </div>
                 </div>
 
                 <div className="d-flex align-items-center">

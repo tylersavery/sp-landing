@@ -6,6 +6,9 @@
     width: 100%;
     z-index: 100;
     transition: background-color .4s;
+    height: 83px;
+    @include fontTop;
+
 
 
     @include phone {
@@ -19,14 +22,18 @@
     }
 }
 
+.headerContainer{
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
 .link {
     color: #fff;
     font-size: 16px;
-    font-weight: normal;
+    font-weight: 600;
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform: capitalize;
 
-    @include fontAlt;
 
 
 
@@ -45,21 +52,19 @@
 }
 
 .button {
-    background-color: $color-pink;
-    height: 54px;
+    background-color: #8060f2;
+    pointer-events: none;
+    @include fontTop;
+    font-weight: 600;
+    text-decoration: none;
+    color:#fff;
+    height: 40px;
     border-radius: 27px;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding-left: 10px;
+    padding-right: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
     transition: background-color .3s;
-
-    &:hover {
-        background-color: darken($color: $color-pink, $amount: 7);
-        a {
-            text-decoration: none;
-        }
-    }
 }

@@ -13,6 +13,11 @@
     font-family: 'Aeonik', sans-serif;
   }
 
+  
+  @mixin fontTop() {
+    font-family: 'Poppins', sans-serif;
+
+  }
 
   @mixin fontAlt() {
     font-family: 'OldschoolGrotesk', sans-serif;
