@@ -17,7 +17,7 @@ const AboutSection = () => {
 
                     <div className="row align-items-center">
                         <div className="col-12 col-md-6 d-none d-md-block text-center">
-                            <Image src={lang == "espanol" ? "/images/demo-es.png" : "/images/demo-en.png"} width={342} height={444} alt="wellbeing, empathy, community" />
+                            <Image src={lang == "espanol" ? "/images/demo-es.png" : "/images/demo-en.png"} width={342} height={444} alt="wellbeing, empathy, community." />
                         </div>
                         <div className="col-12 col-md-6 pt-4 pt-md-0">
                             <h2>{t('our-story')}</h2>
