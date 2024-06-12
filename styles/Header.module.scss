@@ -53,7 +53,6 @@
 
 .button {
     background-color: #8060f2;
-    pointer-events: none;
     @include fontTop;
     font-weight: 600;
     text-decoration: none;
@@ -67,4 +66,8 @@
     align-items: center;
     cursor: pointer;
     transition: background-color .3s;
+
+    &:hover{
+        color: #fff;
+    }
 }
