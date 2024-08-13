@@ -5,9 +5,9 @@ import Script from "next/script"
 
 
 export const AppHead = () => {
-    const title = "Storyplace: Where journaling meets community.";
+    const title = "Storyplace: The First Social Journaling Community";
 
-    const description = "Storyplace is a social journaling app that offers a safe space for you to express yourself while connecting with a community of people around the world. Our goal is to help enhance your emotional wellbeing, embrace vulnerability, and help you process whatever is going on in your life.";
+    const description = "Storyplace is the first social journaling app, where people from around the world share their journal entries, stories, feelings, and thoughts in a supportive community.";
 
     const image = "https://www.storyplace.com/images/og.jpg?v=2";
 

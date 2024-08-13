@@ -17,7 +17,7 @@ const StoriesSection = () => {
 
                 </div>
 
-                <a href="https://app.storyplace.com/" >
+                <a href="https://journal.storyplace.com/" >
                     <div className="pt-4">
                         <Image style={{ width: "100%", height: "auto" }} sizes='100%' src={lang == "espanol" ? "/images/story-cards_es.png" : "/images/story-cards.png"} width={2422} height={625} alt="Stories" />
                     </div>
@@ -32,7 +32,7 @@ const StoriesSection = () => {
 
             <div className="pt-4 pb-5" >
                 <div className="container text-center">
-                    <a href="https://app.storyplace.com/" className="btn btn-outline-dark">{t('continue-reading')} &gt;</a>
+                    <a href="https://journal.storyplace.com/" className="btn btn-outline-dark">{t('continue-reading')} &gt;</a>
                 </div>
 
             </div>

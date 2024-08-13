@@ -22,38 +22,37 @@ const TopSection = () => {
 
 
             <div className="container">
-                <div className={styles.balloon}>
 
-                </div>
                 <div>
                     <div className={styles.titleContainer}>
 
-                        <div className={styles.green}>
-                            <h1 className={styles.greenText}>{t('Welcome to Storyplace,')}</h1 >
-                        </div>
-                        <div className={styles.blue}>
-                            <h1 className={styles.blueText}>{t('where journaling')}</h1 >
-                        </div>
-                        <div className={language == 'espanol' ? styles.orangeSpanish : styles.orange}>
-                            <h1 className={styles.orangeText}>{t('meets community')}</h1>
-                        </div>
+                        <h1 className={styles.greenText}>{t('Welcome to Storyplace,')}</h1 >
+                        <h2 className={styles.blueText}>{t('hero-subtitle')}</h2>
+
 
                     </div>
-                    <div className={"d-flex align-items-center mt-5 flex-column flex-md-row"}>
+                    <div className={"d-flex flex-row justify-content-center mt-4"}>
 
                         <div>
 
+                            <a href="https://play.google.com/store/apps/details?id=com.storyplace" target='_blank' className="me-4" rel="noreferrer">
+                                <Image src={lang == "espanol" ? "/images/google-play_es.png" : "/images/google-play.png"} width={178} height={49} alt="Google Play" />
+                            </a>
 
-                            <a href="https://apps.apple.com/app/storyplace/id1289523039" target='_blank' className="me-2 me-md-3" rel="noreferrer">
+                            <a href="https://apps.apple.com/app/storyplace/id1289523039" target='_blank' className="" rel="noreferrer">
                                 <Image src={lang == "espanol" ? "/images/app-store_es.png" : "/images/app-store.png"} width={178} height={49} alt="iOS App Store" />
                             </a>
 
-                            <a href="https://play.google.com/store/apps/details?id=com.storyplace" target='_blank' className="me-0 me-md-3 mt-3 mt-md-0" rel="noreferrer">
-                                <Image src={lang == "espanol" ? "/images/google-play_es.png" : "/images/google-play.png"} width={178} height={49} alt="Google Play" />
-                            </a>
+
                         </div>
 
-                        <a href="https://app.storyplace.com/" className={styles.exploreWebLink}>{t('explore web')}</a>
+                    </div>
+
+                    <div className={"d-flex flex-row justify-content-center mt-4"}>
+
+
+                        <a href="https://journal.storyplace.com/" className={styles.exploreWebLink}>{t('Use web version')}</a>
+
                     </div>
                 </div>
 

@@ -5,13 +5,14 @@
 .section {
     position: relative;
     padding-top: 50px;
+
     h2 {
-        font-size: 33px;
-        font-weight: 600;
+        font-size: 28px;
+        font-weight: 500;
         color: #000906;
 
         @include phone {
-            font-size: 36px;
+            // font-size: 36px;
         }
     }
 

@@ -12,11 +12,20 @@
     @include phone {
         background-image: none;
     }
+
     color: #fff;
+
     h2 {
 
         font-size: 33px;
         font-weight: 600;
+
+        span {
+            position: relative;
+            top: 8px;
+        }
+
+        margin-left: -44px;
     }
 
     p {
@@ -25,7 +34,7 @@
         font-weight: 400;
         max-width: 500px;
     }
-   
+
 }
 
 .howItWorks {
@@ -33,16 +42,19 @@
     top: 50%;
     right: 25%;
     transform: translateY(-50%);
-    .line1, .line-2 {
+
+    .line1,
+    .line-2 {
         background-color: #67D3F5;
     }
 }
 
-.howItWorksMobile{
+.howItWorksMobile {
     padding-bottom: 48px;
 }
 
-.howItWorksLine1, .howItWorksLine2 {
+.howItWorksLine1,
+.howItWorksLine2 {
     position: relative;
     background-color: #67D3F5;
     color: #000;
@@ -50,9 +62,10 @@
     line-height: 90px;
     @include fontAlt;
     text-transform: uppercase;
-    letter-spacing: -10px;
+    // letter-spacing: -10px;
     padding-left: 16px;
     padding-right: 16px;
+
     @include phone {
         font-size: 45px;
         line-height: 45px;
@@ -64,6 +77,7 @@
 
 .howItWorksLine1 {
     padding-top: 16px;
+
     @include phone {
         padding-top: 0px;
     }
@@ -76,5 +90,5 @@
     @include phone {
         top: 16px;
     }
-   
+
 }
