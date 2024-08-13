@@ -32,13 +32,13 @@ const Header = () => {
                     </Link>
                     <div className="mx-3"></div>
                     <div className="mx-3">
-                        <Link href="https://app.storyplace.com/app/home" target={"_blank"}><a className={styles.link}>{t('Home')}</a></Link>
+                        <Link href="https://journal.storyplace.com/app/home" target={"_blank"}><a className={styles.link}>{t('Home')}</a></Link>
                     </div>
                     <div className="mx-3">
-                        <Link href="https://app.storyplace.com/app/explore" target={"_blank"}><a className={styles.link}>{t('Explore')}</a></Link>
+                        <Link href="https://journal.storyplace.com/app/explore" target={"_blank"}><a className={styles.link}>{t('Explore')}</a></Link>
                     </div>
                     <div className="mx-3">
-                        <Link href="https://app.storyplace.com/app/share" target={"_blank"}><a className={styles.button}>{t('Share Story')}</a></Link>
+                        <Link href="https://journal.storyplace.com/app/share" target={"_blank"}><a className={styles.button}>{t('Share Story')}</a></Link>
                     </div>
                 </div>
 
@@ -49,10 +49,10 @@ const Header = () => {
                         <Link href="/" locale="espanol"><a className={`${styles.link} `}>ES</a></Link>
                     </div>
                     <div className="mx-4">
-                        <Link href="https://app.storyplace.com/auth/register" target={"_blank"}><a className={styles.link}>{t('Sign up')}</a></Link>
+                        <Link href="https://journal.storyplace.com/auth/register" target={"_blank"}><a className={styles.link}>{t('Sign up')}</a></Link>
                     </div>
                     <div className="mx-4">
-                        <Link href="https://app.storyplace.com/auth/login" target={"_blank"}><a className={styles.link}>{t('Login')}</a></Link>
+                        <Link href="https://journal.storyplace.com/auth/login" target={"_blank"}><a className={styles.link}>{t('Login')}</a></Link>
                     </div>
                 </div>
             </div>

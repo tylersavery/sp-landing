@@ -22,18 +22,18 @@ const HowItWorks = () => {
                         </div>
                     </div>
 
-                    <Image src="/images/diamond.svg" width={33} height={38} alt="diamond" />
-                    <h2>{t('express-yourself')}</h2>
+
+                    <h2><Image src="/images/diamond.svg" width={33} height={38} alt="diamond" /> {t('express-yourself')}</h2>
                     <p>{t('express-yourself-p')}</p>
                     <div className="py-3"></div>
-                    <Image src="/images/diamond.svg" width={33} height={38} alt="diamond" />
 
-                    <h2>{t('connect-with-a-community')}</h2>
+
+                    <h2><Image src="/images/diamond.svg" width={33} height={38} alt="diamond" /> {t('connect-with-a-community')}</h2>
                     <p>{t('connect-with-a-community-p')}</p>
                     <div className="py-3"></div>
-                    <Image src="/images/diamond.svg" width={33} height={38} alt="diamond" />
 
-                    <h2>{t('sharing-is-caring')}</h2>
+
+                    <h2><Image src="/images/diamond.svg" width={33} height={38} alt="diamond" /> {t('sharing-is-caring')}</h2>
                     <p>{t('sharing-is-caring-p')}
                     </p>
                 </div>

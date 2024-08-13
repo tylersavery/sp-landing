@@ -24,6 +24,7 @@ const AboutSection = () => {
                             <p>{t('storyplace-is-a-socual-journaling')}</p>
                             <p>{t('a-modern-day-virtual-virtual-bonfire')}</p>
                             <p>{t('our-community-platform-focuses')}</p>
+                            <p>{t('our-purpose')}</p>
 
 
 

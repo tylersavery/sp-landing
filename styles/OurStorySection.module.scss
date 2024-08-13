@@ -7,10 +7,10 @@
 
 }
 
-.videoContainer{
+.videoContainer {
     aspect-ratio: 16/9;
     position: relative;
-    
+
 }
 
 .player {
@@ -46,22 +46,24 @@
     cursor: pointer;
 
     &:hover {
-    background-color: rgba(46, 26, 104, .8);
+        background-color: rgba(46, 26, 104, .8);
 
     }
+
     h2 {
-        font-size: 33px;
-        font-weight: 600;
+        font-size: 50px;
+        font-weight: 500;
+
         @include phone {
             font-size: 40px;
         }
     }
 
-    p{
+    p {
         padding: 20px 0;
-        max-width: 400px;
+        max-width: 500px;
         font-size: 20px;
-        font-weight: 600;
+        font-weight: 500;
         line-height: 24px;
 
 
@@ -71,7 +73,7 @@
             padding: 4px 0;
         }
     }
-   
+
 
 
 }
@@ -79,6 +81,7 @@
 
 .playButton {
     text-align: center;
+
     @include phone {
         width: 32px;
         height: 32px;

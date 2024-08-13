@@ -3,7 +3,7 @@ const nextTranslate = require('next-translate')
 
 
 
-const nextConfig =  {
+const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   i18n: {
@@ -12,7 +12,7 @@ const nextConfig =  {
   },
   async redirects() {
 
- 
+
 
     return [
       {
@@ -22,47 +22,47 @@ const nextConfig =  {
       },
       {
         source: '/en/story/:uuid',
-        destination: "https://app.storyplace.com/story/:uuid",
+        destination: "https://journal.storyplace.com/story/:uuid",
         permanent: true,
       },
       {
         source: '/es/story/:uuid',
-        destination: "https://app.storyplace.com/story/:uuid",
+        destination: "https://journal.storyplace.com/story/:uuid",
         permanent: true,
       },
       {
         source: '/en/profile/:username',
-        destination: "https://app.storyplace.com/profile/:username",
+        destination: "https://journal.storyplace.com/profile/:username",
         permanent: true,
       },
       {
         source: '/es/profile/:username',
-        destination: "https://app.storyplace.com/profile/:username",
+        destination: "https://journal.storyplace.com/profile/:username",
         permanent: true,
       },
       {
         source: '/en/topic/:id',
-        destination: "https://app.storyplace.com/app/explore/stories/topic/:id",
+        destination: "https://journal.storyplace.com/app/explore/stories/topic/:id",
         permanent: true,
       },
       {
         source: '/es/topic/1000212w',
-        destination: "https://app.storyplace.com/app/explore/stories/topic/1000212",
+        destination: "https://journal.storyplace.com/app/explore/stories/topic/1000212",
         permanent: true,
       },
       {
         source: '/es/topic/',
-        destination: "https://app.storyplace.com/app/explore/stories/topic/:id",
+        destination: "https://journal.storyplace.com/app/explore/stories/topic/:id",
         permanent: true,
       },
       {
         source: '/en/explore',
-        destination: "https://app.storyplace.com/app/explore",
+        destination: "https://journal.storyplace.com/app/explore",
         permanent: true,
       },
       {
         source: '/es/explore',
-        destination: "https://app.storyplace.com/app/explore",
+        destination: "https://journal.storyplace.com/app/explore",
         permanent: true,
       },
       {
@@ -95,12 +95,12 @@ const nextConfig =  {
         destination: "https://old.storyplace.com/es/contact",
         permanent: true,
       },
-  
+
     ];
   }
 }
 
-module.exports =  nextConfig
+module.exports = nextConfig
 module.exports = nextTranslate({
   ...nextConfig
 })

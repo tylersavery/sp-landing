@@ -18,7 +18,20 @@ const Footer = () => {
             <div className={styles.content}>
                 <div className={styles.left}>
 
-                    <div className="d-flex flex-row flex-md-column align-items-center">
+
+
+                    <div className="py-2 d-flex justify-content-center">
+                        <ul className={styles.socials}>
+                            <li><a href="https://www.instagram.com/mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/instagram.png" width={25} height={25} alt="instagram" /></a></li>
+                            <li><a href="https://www.facebook.com/storyplacecommunity" target="_blank" rel="noopener noreferrer"><Image src="/images/facebook.png" width={25} height={25} alt="facebook" /></a></li>
+                            <li><a href="https://twitter.com/mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/twitter.png" width={25} height={25} alt="twitter" /></a></li>
+                            <li><a href="https://www.linkedin.com/company/storyplace/" target="_blank" rel="noopener noreferrer"><Image src="/images/linkedin.png" width={25} height={25} alt="linkedin" /></a></li>
+                            <li><a href="https://tiktok.com/@mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/tiktok.png" width={25} height={25} alt="tiktok" /></a></li>
+
+                        </ul>
+                    </div>
+
+                    <div className="d-flex flex-row flex-md-column align-items-center mt-1">
 
                         <div className="py-2">
 
@@ -36,17 +49,6 @@ const Footer = () => {
 
 
                     </div>
-
-                    <div className="py-2 d-flex justify-content-center">
-                        <ul className={styles.socials}>
-                            <li><a href="https://www.instagram.com/mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/instagram.png" width={25} height={25} alt="instagram" /></a></li>
-                            <li><a href="https://www.facebook.com/storyplacecommunity" target="_blank" rel="noopener noreferrer"><Image src="/images/facebook.png" width={25} height={25} alt="facebook" /></a></li>
-                            <li><a href="https://twitter.com/mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/twitter.png" width={25} height={25} alt="twitter" /></a></li>
-                            <li><a href="https://www.linkedin.com/company/storyplace/" target="_blank" rel="noopener noreferrer"><Image src="/images/linkedin.png" width={25} height={25} alt="linkedin" /></a></li>
-                            <li><a href="https://tiktok.com/@mystoryplace" target="_blank" rel="noopener noreferrer"><Image src="/images/tiktok.png" width={25} height={25} alt="tiktok" /></a></li>
-
-                        </ul>
-                    </div>
                 </div>
 
                 <div className={styles.center}>
@@ -63,7 +65,7 @@ const Footer = () => {
                         <li><Link href="/faq"><a className={styles.link} >{t('FAQ')}</a></Link></li>
                         <li><a href="#" onClick={handleHelp} style={{ textDecoration: 'none' }}><a className={styles.link}>{t('Support')}</a></a></li>
                         <li><a href="mailto:support@storyplace.com" className={styles.link}>{t('Contact')}</a></li>
-                        <li className="phone-only"><a className={styles.link} href="https://app.storyplace.com/" target="_blank" rel="noopener noreferrer">{t('Use web version')}</a></li>
+                        <li className="phone-only"><a className={styles.link} href="https://journal.storyplace.com/" target="_blank" rel="noopener noreferrer">{t('Use web version')}</a></li>
                     </ul>
                     <ul className={styles.linksColumn}>
                         <li><Link className={styles.link} href="/terms" target="_blank" rel="noopener noreferrer"><a className={styles.link}>{t('Terms & Conditions')}</a></Link></li>

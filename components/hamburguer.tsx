@@ -15,14 +15,14 @@ const HamburgerIcon = () => (<Image src="/images/hamburguer.svg" width={30} heig
 export const Links = () => {
     const { t } = useTranslation('common');
     return <div className='d-flex flex-column'>
-        <div className="mx-4 my-3">
-            <Link href="https://app.storyplace.com/app/home" target={"_blank"}><a className={styles.link}>{t('Home')}</a></Link>
+        <div className="mx-3 my-2">
+            <Link href="https://journal.storyplace.com/app/home" target={"_blank"}><a className={styles.link}>{t('Home')}</a></Link>
         </div>
-        <div className="mx-4 my-3">
-            <Link href="https://app.storyplace.com/app/explore" target={"_blank"}><a className={styles.link}>{t('Explore')}</a></Link>
+        <div className="mx-3 my-2">
+            <Link href="https://journal.storyplace.com/app/explore" target={"_blank"}><a className={styles.link}>{t('Explore')}</a></Link>
         </div>
-        <div className="mx-4 my-3">
-            <Link href="https://app.storyplace.com/app/circles" target={"_blank"}><a className={styles.link}>{t('Circles')}</a></Link>
+        <div className="mx-3 my-2">
+            <Link href="https://journal.storyplace.com/app/share" target={"_blank"}><a className={styles.button}>{t('Share Story')}</a></Link>
         </div>
     </div>
 }
