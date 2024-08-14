@@ -9,7 +9,7 @@ const BottomSection = () => {
     const { t, lang } = useTranslation('common')
 
     return <div className={styles.section}>
-        <div className="container py-0 py-md-5 pb-5 text-center position-relative">
+        <div className="container py-5 pb-5 text-center position-relative">
 
             <div className="flex flex-row">
 
@@ -20,10 +20,9 @@ const BottomSection = () => {
             </div>
 
 
+            <div className={"d-flex flex-row justify-content-center  mt-4"}>
 
-            <div className={"d-flex flex-row justify-content-center mt-4"}>
-
-                <div>
+                <div className="d-flex flex-col flex-md-row">
 
                     <a href="https://play.google.com/store/apps/details?id=com.storyplace" target='_blank' className="me-4" rel="noreferrer">
                         <Image src={lang == "espanol" ? "/images/google-play_es.png" : "/images/google-play.png"} width={178} height={49} alt="Google Play" />

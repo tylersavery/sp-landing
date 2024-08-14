@@ -31,7 +31,7 @@ const Footer = () => {
                         </ul>
                     </div>
 
-                    <div className="d-flex flex-row flex-md-column align-items-center mt-1">
+                    {/* <div className="d-flex flex-row flex-md-column align-items-center mt-1">
 
                         <div className="py-2">
 
@@ -48,7 +48,7 @@ const Footer = () => {
                         </div>
 
 
-                    </div>
+                    </div> */}
                 </div>
 
                 <div className={styles.center}>
